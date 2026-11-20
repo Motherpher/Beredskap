@@ -1,11 +1,11 @@
 # Kanoniskt HARP- och källsökregister v1.0
 
 ## Status 2026-11-20
-Importerat från **11 tidigare JSON-register**: **162 registreringar**, deduplicerade efter normaliserad locator till **159 unika källa-identiteter**. **0 RefA-godkända**. En tidigare originalinspektion ger inte automatiskt publiceringsklar RefA. Statusen är **registreringsfärdigt men inte fullt verifierat**.
+Importerat från **11 tidigare JSON-register**: **162 strukturerade registreringar + 18 Markdown-kandidater**, deduplicerade efter normaliserad locator till **177 unika källa-identiteter**. **0 RefA-godkända**. En tidigare originalinspektion ger inte automatiskt publiceringsklar RefA. Statusen är **registreringsfärdigt men inte fullt verifierat**.
 
 ## Filer
 - [HARP_MASTER_INDEX.json](HARP_MASTER_INDEX.json) – schemaöversikt, källa/registerstatistik och shardlista.
-- `HARP_MASTER_01.json`–`HARP_MASTER_06.json` – fullständiga HARP-records med historiska alias och importproveniens.
+- `HARP_MASTER_01.json`–`HARP_MASTER_07.json` – fullständiga HARP-records med historiska alias och importproveniens.
 - [HARP_SOURCE_INDEX.csv](HARP_SOURCE_INDEX.csv) – en rad per källa med titel, locator, automatisk taggning, prioritet, HARP-status och importerade ID.
 - [TAG_TO_SOURCE_INDEX.json](TAG_TO_SOURCE_INDEX.json) – inverterat index `tag → HARP-ID`.
 - Äldre originalregister ligger orörda i `sources/` och kan användas för rekonstruktion.

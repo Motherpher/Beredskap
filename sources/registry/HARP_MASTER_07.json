@@ -1,0 +1,1224 @@
+[
+  {
+    "harp_id": "HARP-30449e26",
+    "title": "FULLTEXT01.pdf",
+    "canonical_locator": "https://www.diva-portal.org/smash/get/diva2%3A1930269/FULLTEXT01.pdf",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/CIVIL_SOCIETY_FRAMEWORK.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      },
+      {
+        "file": "sources/RESEARCH_EXPANSION_2026-11-20.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d1",
+      "subject:va"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.diva-portal.org/smash/get/diva2%3A1930269/FULLTEXT01.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/CIVIL_SOCIETY_FRAMEWORK.md",
+      "sources/RESEARCH_EXPANSION_2026-11-20.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-74a01767",
+    "title": "FULLTEXT01.pdf",
+    "canonical_locator": "https://esh.diva-portal.org/smash/get/diva2%3A1811686/FULLTEXT01.pdf",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/DEEP_RESEARCH_DEL2_PROMPT.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      },
+      {
+        "file": "research/HEBY_CIVIL_SOCIETY_BASELINE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      },
+      {
+        "file": "sources/RESEARCH_EXPANSION_2026-11-20.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "geo:heby",
+      "part:d1",
+      "subject:va"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://esh.diva-portal.org/smash/get/diva2%3A1811686/FULLTEXT01.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/DEEP_RESEARCH_DEL2_PROMPT.md",
+      "research/HEBY_CIVIL_SOCIETY_BASELINE.md",
+      "sources/RESEARCH_EXPANSION_2026-11-20.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-e83624b0",
+    "title": "utvardering skogsbranden i vastmanland 2014.html",
+    "canonical_locator": "https://www.fhs.se/om-forsvarshogskolan/organisation/centrum-for-totalforsvar-och-samhallets-sakerhet/ctss-verksamhet/forskning-och-studier/publikationer/utvardering-skogsbranden-i-vastmanland-2014.html",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "benchmarks/VASTMANLAND_2014.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:fire",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.fhs.se/om-forsvarshogskolan/organisation/centrum-for-totalforsvar-och-samhallets-sakerhet/ctss-verksamhet/forskning-och-studier/publikationer/utvardering-skogsbranden-i-vastmanland-2014.html",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "benchmarks/VASTMANLAND_2014.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-00ced796",
+    "title": "har finns frg",
+    "canonical_locator": "https://frivilligaresursgruppen.se/har-finns-frg/",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/HEBY_CIVIL_SOCIETY_BASELINE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      },
+      {
+        "file": "sources/RESEARCH_EXPANSION_2026-11-20.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d2",
+      "part:unassigned",
+      "subject:civil-society"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://frivilligaresursgruppen.se/har-finns-frg/",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/HEBY_CIVIL_SOCIETY_BASELINE.md",
+      "sources/RESEARCH_EXPANSION_2026-11-20.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-1b407968",
+    "title": "nrs 2023 mauno 001.pdf",
+    "canonical_locator": "https://www.fs.usda.gov/nrs/pubs/jrnl/2023/nrs_2023_mauno_001.pdf",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "part:unassigned",
+      "subject:foresight"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.fs.usda.gov/nrs/pubs/jrnl/2023/nrs_2023_mauno_001.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-9b0e20de",
+    "title": "aktiviteter",
+    "canonical_locator": "https://fyrisan.se/aktiviteter/",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/HEBY_WATER_KNOWLEDGE_FRAMING.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:unassigned"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://fyrisan.se/aktiviteter/",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/HEBY_WATER_KNOWLEDGE_FRAMING.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-be13869f",
+    "title": "Plan för hantering av skyfall och höga flöden 250109.pdf",
+    "canonical_locator": "https://www.heby.se/download/18.345601d8194cd7ce7321e5cb/1738682551682/Plan%20f%C3%B6r%20hantering%20av%20skyfall%20och%20h%C3%B6ga%20fl%C3%B6den_250109.pdf",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/HEBY_CIVIL_SOCIETY_BASELINE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:stormwater"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.heby.se/download/18.345601d8194cd7ce7321e5cb/1738682551682/Plan%20f%C3%B6r%20hantering%20av%20skyfall%20och%20h%C3%B6ga%20fl%C3%B6den_250109.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/HEBY_CIVIL_SOCIETY_BASELINE.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-084e3033",
+    "title": "risker i uppsala lan 2015.html",
+    "canonical_locator": "https://www.lansstyrelsen.se/uppsala/om-oss/vara-tjanster/publikationer/2016/risker-i-uppsala-lan-2015.html",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/VA_KNOWLEDGE_TRANSLATION_2019_2024.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:uppsala-lan",
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.lansstyrelsen.se/uppsala/om-oss/vara-tjanster/publikationer/2016/risker-i-uppsala-lan-2015.html",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/VA_KNOWLEDGE_TRANSLATION_2019_2024.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-5e63f9bb",
+    "title": "download",
+    "canonical_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8964052&fileOId=8964410",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/DEEP_RESEARCH_PROGRAM_V3.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      },
+      {
+        "file": "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "part:unassigned",
+      "subject:foresight"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8964052&fileOId=8964410",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/DEEP_RESEARCH_PROGRAM_V3.md",
+      "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-e746cea4",
+    "title": "Information om aktuellt vattenarbete Heby kommun.pdf",
+    "canonical_locator": "https://www.malaren.se/wp-content/uploads/Information-om-aktuellt-vattenarbete-Heby-kommun.pdf",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/HEBY_WATER_KNOWLEDGE_FRAMING.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "subject:hydrology"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.malaren.se/wp-content/uploads/Information-om-aktuellt-vattenarbete-Heby-kommun.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/HEBY_WATER_KNOWLEDGE_FRAMING.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-c2958897",
+    "title": "Mojligheter och begransningar av GIS SLU.pdf",
+    "canonical_locator": "https://www.malaren.se/wp-content/uploads/Mojligheter-och-begransningar-av-GIS-SLU.pdf",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/HEBY_WATER_KNOWLEDGE_FRAMING.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "geo:heby",
+      "part:d1"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.malaren.se/wp-content/uploads/Mojligheter-och-begransningar-av-GIS-SLU.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/HEBY_WATER_KNOWLEDGE_FRAMING.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-35e2ab38",
+    "title": "samarbete med civilsamhallet",
+    "canonical_locator": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskapssystemet/samverkansforum/samarbete-med-civilsamhallet/",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/CIVIL_SOCIETY_FRAMEWORK.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      },
+      {
+        "file": "sources/RESEARCH_EXPANSION_2026-11-20.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:civil-society",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskapssystemet/samverkansforum/samarbete-med-civilsamhallet/",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/CIVIL_SOCIETY_FRAMEWORK.md",
+      "sources/RESEARCH_EXPANSION_2026-11-20.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-85a83560",
+    "title": "civkris   beredskapsvilja inom civilsamhallet.html",
+    "canonical_locator": "https://www.mchs.se/arkiv/projekt/ccf/civkris---beredskapsvilja-inom-civilsamhallet.html",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/DEEP_RESEARCH_DEL2_PROMPT.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      },
+      {
+        "file": "sources/RESEARCH_EXPANSION_2026-11-20.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "part:unassigned",
+      "subject:civil-society"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.mchs.se/arkiv/projekt/ccf/civkris---beredskapsvilja-inom-civilsamhallet.html",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/DEEP_RESEARCH_DEL2_PROMPT.md",
+      "sources/RESEARCH_EXPANSION_2026-11-20.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-31355893",
+    "title": "foresight toolkit for resilient public policy bcdd9304 en.html",
+    "canonical_locator": "https://www.oecd.org/en/publications/foresight-toolkit-for-resilient-public-policy_bcdd9304-en.html",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "part:unassigned",
+      "subject:foresight"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.oecd.org/en/publications/foresight-toolkit-for-resilient-public-policy_bcdd9304-en.html",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-0bd4361f",
+    "title": "component 13.html",
+    "canonical_locator": "https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "part:unassigned",
+      "subject:foresight"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-2c73146b",
+    "title": "using foresight to anticipate emerging critical risks 84820cd8 en.html",
+    "canonical_locator": "https://www.oecd.org/en/publications/using-foresight-to-anticipate-emerging-critical-risks_84820cd8-en.html",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "part:unassigned",
+      "subject:foresight"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.oecd.org/en/publications/using-foresight-to-anticipate-emerging-critical-risks_84820cd8-en.html",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-d095effc",
+    "title": "S0016328707001085",
+    "canonical_locator": "https://www.sciencedirect.com/science/article/pii/S0016328707001085",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "part:unassigned",
+      "subject:foresight"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://www.sciencedirect.com/science/article/pii/S0016328707001085",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md"
+    ]
+  },
+  {
+    "harp_id": "HARP-ba287ead",
+    "title": "gemenskap bygger beredskap 2025webb 1.pdf",
+    "canonical_locator": "https://socialforum.se/wp-content/uploads/2025/03/gemenskap-bygger-beredskap-2025webb-1.pdf",
+    "aliases": [],
+    "origins": [
+      {
+        "file": "sources/RESEARCH_EXPANSION_2026-11-20.md",
+        "legacy_id": null,
+        "via": "MARKDOWN_SCAN"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Link discovered in repository Markdown; bibliographic identity and content unchecked"
+    ],
+    "types": [
+      "MARKDOWN_DISCOVERY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "part:unassigned",
+      "subject:civil-society"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": null,
+      "publisher_verified": null,
+      "original_locator": "https://socialforum.se/wp-content/uploads/2025/03/gemenskap-bygger-beredskap-2025webb-1.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original author,date,content,page,scope and rights",
+    "discovery_paths": [
+      "sources/RESEARCH_EXPANSION_2026-11-20.md"
+    ]
+  }
+]

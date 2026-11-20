@@ -94,7 +94,7 @@ Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). 
 ## 2026-11-20 · Kanoniskt HARP-register, taggsystem, wiki och roadmap
 **Forskningsgren:** `research/heby-elcentralen-v1`. Inga avsnitt påstår färdig Deep Research eller RefA.
 
-- **[HARP-register / katalog](sources/registry/README.md)**: 11 ursprungliga JSON-register, 162 registreringar → 159 URL-/locator-distinkta poster, tidigare ID:n bevarade; **0 RefA-klarerade**.
+- **[HARP-register / katalog](sources/registry/README.md)**: 11 ursprungliga JSON-register, 162 strukturerade registreringar + 18 nya Markdown-källor → 177 unika locatorer, tidigare ID:n bevarade; **0 RefA-klarerade**.
 - **[Fullständigt HARP-index](sources/registry/HARP_MASTER_INDEX.json)** och **[sökbar CSV](sources/registry/HARP_SOURCE_INDEX.csv)**.
 - **[Kontrollerad taggtaxonomi](governance/TAG_TAXONOMY.md)** och **[HARP Appendix O-regler](governance/HARP_REGISTER_PROTOCOL.md)**.
 - **[Wiki – start och navigering](wiki/Home.md)**: versionsstyrda wiki-källsidor; publicering till separat GitHub Wiki inväntar särskild synkning ([instruktion](governance/WIKI_PUBLISHING.md)).

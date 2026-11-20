@@ -73,7 +73,13 @@
       "HARP-d75120f6",
       "HARP-272fd33d",
       "HARP-0d1279b4",
-      "HARP-0b2d6fdc"
+      "HARP-0b2d6fdc",
+      "HARP-74a01767",
+      "HARP-00ced796",
+      "HARP-9b0e20de",
+      "HARP-be13869f",
+      "HARP-e746cea4",
+      "HARP-c2958897"
     ],
     "part:d1": [
       "HARP-32612a57",
@@ -184,7 +190,15 @@
       "HARP-efa12b6a",
       "HARP-b87a48d5",
       "HARP-0d1279b4",
-      "HARP-eb3064b3"
+      "HARP-eb3064b3",
+      "HARP-30449e26",
+      "HARP-74a01767",
+      "HARP-e83624b0",
+      "HARP-be13869f",
+      "HARP-084e3033",
+      "HARP-e746cea4",
+      "HARP-c2958897",
+      "HARP-35e2ab38"
     ],
     "subject:hydrology": [
       "HARP-32612a57",
@@ -224,7 +238,8 @@
       "HARP-79c3caf5",
       "HARP-b625ca8e",
       "HARP-8b657181",
-      "HARP-0d1279b4"
+      "HARP-0d1279b4",
+      "HARP-e746cea4"
     ],
     "subject:va": [
       "HARP-32612a57",
@@ -239,7 +254,9 @@
       "HARP-10dd46c1",
       "HARP-69cf43b6",
       "HARP-1788320a",
-      "HARP-5da717ef"
+      "HARP-5da717ef",
+      "HARP-30449e26",
+      "HARP-74a01767"
     ],
     "time:post2023-candidate": [
       "HARP-32612a57",
@@ -320,7 +337,8 @@
       "HARP-e7fb03ba",
       "HARP-98df9575",
       "HARP-0d1279b4",
-      "HARP-eb3064b3"
+      "HARP-eb3064b3",
+      "HARP-c2958897"
     ],
     "geo:sala": [
       "HARP-508cca13",
@@ -363,7 +381,8 @@
       "HARP-9b55b766",
       "HARP-98df9575",
       "HARP-acd34da8",
-      "HARP-79c3caf5"
+      "HARP-79c3caf5",
+      "HARP-084e3033"
     ],
     "time:pre2023-candidate": [
       "HARP-508cca13",
@@ -415,7 +434,15 @@
       "HARP-6cfa66be",
       "HARP-d2f7ebf3",
       "HARP-0ffd0c8b",
-      "HARP-81d027f1"
+      "HARP-81d027f1",
+      "HARP-30449e26",
+      "HARP-74a01767",
+      "HARP-1b407968",
+      "HARP-5e63f9bb",
+      "HARP-31355893",
+      "HARP-0bd4361f",
+      "HARP-2c73146b",
+      "HARP-d095effc"
     ],
     "part:d2": [
       "HARP-ff050c2c",
@@ -450,14 +477,26 @@
       "HARP-79c3caf5",
       "HARP-fdd55a4a",
       "HARP-fe559106",
-      "HARP-0b2d6fdc"
+      "HARP-0b2d6fdc",
+      "HARP-e83624b0",
+      "HARP-00ced796",
+      "HARP-1b407968",
+      "HARP-5e63f9bb",
+      "HARP-35e2ab38",
+      "HARP-85a83560",
+      "HARP-31355893",
+      "HARP-0bd4361f",
+      "HARP-2c73146b",
+      "HARP-d095effc",
+      "HARP-ba287ead"
     ],
     "subject:fire": [
       "HARP-ff050c2c",
       "HARP-6e8176ca",
       "HARP-d190c88a",
       "HARP-f69060c3",
-      "HARP-0b2d6fdc"
+      "HARP-0b2d6fdc",
+      "HARP-e83624b0"
     ],
     "subject:governance": [
       "HARP-355576b2",
@@ -517,7 +556,11 @@
       "HARP-b625ca8e",
       "HARP-272fd33d",
       "HARP-efa12b6a",
-      "HARP-b87a48d5"
+      "HARP-b87a48d5",
+      "HARP-e83624b0",
+      "HARP-084e3033",
+      "HARP-e746cea4",
+      "HARP-35e2ab38"
     ],
     "part:unassigned": [
       "HARP-cac757d0",
@@ -555,7 +598,17 @@
       "HARP-94acb526",
       "HARP-d75120f6",
       "HARP-80f325a1",
-      "HARP-4adb571b"
+      "HARP-4adb571b",
+      "HARP-00ced796",
+      "HARP-1b407968",
+      "HARP-9b0e20de",
+      "HARP-5e63f9bb",
+      "HARP-85a83560",
+      "HARP-31355893",
+      "HARP-0bd4361f",
+      "HARP-2c73146b",
+      "HARP-d095effc",
+      "HARP-ba287ead"
     ],
     "subject:stormwater": [
       "HARP-03e1edae",
@@ -569,11 +622,18 @@
       "HARP-28ff28c8",
       "HARP-8ba29df4",
       "HARP-10dd46c1",
-      "HARP-69cf43b6"
+      "HARP-69cf43b6",
+      "HARP-be13869f"
     ],
     "subject:foresight": [
       "HARP-3de2e57f",
-      "HARP-dbc056cd"
+      "HARP-dbc056cd",
+      "HARP-1b407968",
+      "HARP-5e63f9bb",
+      "HARP-31355893",
+      "HARP-0bd4361f",
+      "HARP-2c73146b",
+      "HARP-d095effc"
     ],
     "genre:media": [
       "HARP-ab7d2c25",
@@ -634,7 +694,11 @@
       "HARP-5100adb0",
       "HARP-0788237b",
       "HARP-79c3caf5",
-      "HARP-fe559106"
+      "HARP-fe559106",
+      "HARP-00ced796",
+      "HARP-35e2ab38",
+      "HARP-85a83560",
+      "HARP-ba287ead"
     ],
     "subject:finance": [
       "HARP-ce488a1c",
