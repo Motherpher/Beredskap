@@ -23,3 +23,7 @@
 - Intervjua frivilligt Heby AIF:s funktionärer om vad de själva ansåg vara nyckelbehov, prioriteringar och vad återuppbyggnaden tog från föreningens ordinarie uppdrag.
 
 **Publiceringsgrind:** Fastställ vilken del som är föreningsägd kontra kommunägd och exakt villkor för Leaderfinansiering. Summera inte skadekostnad, bidrag och försäkringsbelopp som om de vore samma utgiftsmassa.
+
+
+## Källbatch 5 – beslutsförbindelse
+SVT publicerade 3 september 2023 samtida vittnesmål om båt på fotbollsplanen, översvämmade lokaler och försök att rädda föreningens utrustning. SR:s rapport 2 september uppskattar cirka 2 m, medan SVT uppger cirka 1 m på konstgräset; tids- och platsdefinitioner måste kontrolleras. Hebys SBN den **14 maj 2024**, §81, beslutade igångsättningstillstånd med investeringsuppgift **352 000 kr** för en översvämningsåtgärd, och kommunen presenterade en **planerad 1,5 m hög vall**. Kontroll av utfört skydd, faktisk kostnad och återkommande skyddseffekt kvarstår. Se [beslutsspåret](HEBY_TEGELVALLEN_2024_DECISION_TRACE.md).

@@ -56,3 +56,13 @@ Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). 
 - [Nationell VA-kunskap och priskällornas begränsningar](research/VA_SECTOR_KNOWLEDGE_FINANCE.md)
 
 **Källgrind:** Unt/Sala Allehanda-sidorna gick inte att öppna; de är källspår, inga belagda artikeluppgifter. Pdf-texter inspekterades för SVU och 2025 års KS-protokoll, men skärmavbilder kunde inte hämtas i webbläsarverktyget. Publicering kräver originalverifiering enligt HARP.
+
+
+## Källbatch 5 – VISS, SGU, SCB, Segregationsbarometern och Tegelvallen
+- [11 användarkällor, inklusive 3-sidigt VISS-underlag](sources/USER_SOURCES_SET_5_2026-11-20.json)
+- [7 kompletterande myndighetskällor och beslut](sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json)
+- [Källnotering VISS VISSMEASURE0428575](research/VISS_0428575_EVIDENCE_NOTE.md): små avlopp/fosfor, **inte** reningsverket eller översvämningsrisk
+- [Geodata- och källager](research/GEO_DATA_SOURCE_LAYERING.md): SGU/SMHI/VISS/SCB/Boverket med metodiska avgränsningar
+- [Tegelvallen 2023–2024: beslut och återkopplingskedja](research/HEBY_TEGELVALLEN_2024_DECISION_TRACE.md): SBN §81 den 14 maj 2024, 352 000 SEK, planerad 1,5 m vall
+
+**Kvalitet:** SCB:s gamla och nya medborgarundersökningar (brytår 2021) är inte direkt jämförbara, SGU aktuella nivåer visar inte 2023, Boverkets områdestyper visar inte faktiskt flood exposure. UNT och kommunens exakta länk för dialogmöte 13 maj 2024 gick inte att öppna. Protokoll från 14 maj 2024 visar ett separat dialogmöte den 3 maj 2024; likställ inte dessa utan kontroll.

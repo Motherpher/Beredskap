@@ -21,3 +21,7 @@ Skilj mellan `publicerat i nationell professionell kanal`, `delgivet regionalt`,
 - Råa eller aggregerade VASS-tal för Heby 2000–2026 med metod, medlemskap/åtkomst och dataordbok.
 - Hebys beslutade VA-taxor, VA-budgetar, investerings- och åtgärdsplaner, anskaffningskostnader för elskydd och andra sårbarhetsskydd 2000–2026.
 - Relevanta konferenser och utbildningar före 2023 som Hebys tjänstepersoner faktiskt deltog i (om dokumenterat).
+
+
+## Källbatch 5 – VISS och SCB som skilda datasystem
+VISS-post VISSMEASURE0428575 (skapad 2020) gäller möjlig **fosforreduktion från små avlopp**, 30 åtgärder planerade 2022–2027, inte kommunens reningsverk eller dess flood resilience. Schablon 3 mnkr investering / 120 000 kr löpande per år och 5 mnkr total schablon / 300 000 kr total schablonårskostnad är INTE beslutade VA-avgifter, genomförda investeringar eller kriskostnader. SCB:s medborgarundersökning ger subjektiv VA-nöjdhet och måste matchas med rätt enkätversion, urval och aktuellt resultat. SCB:s avloppsanslutningsstatistik 2000–2024 kan komplettera VA-täckning men säger inte hur robust en specifik elcentral är.

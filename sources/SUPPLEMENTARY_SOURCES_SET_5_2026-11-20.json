@@ -1,0 +1,65 @@
+[
+  {
+    "id": "X5-01",
+    "title": "SGU tidigare grundvattennivåer",
+    "url": "https://www.sgu.se/grundvatten/grundvattennivaer/tidigare-grundvattennivaer/",
+    "source_class": "OFFICIAL_ARCHIVE",
+    "scope_note": "1984+ anomaly maps; method change June 2020; pre-2023 original data route",
+    "status": "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP",
+    "harp_refa": "PENDING"
+  },
+  {
+    "id": "X5-02",
+    "title": "SCB medborgarundersökning 2021 methodology break",
+    "url": "https://www.scb.se/contentassets/c3479a44b3524800bc636ea005b7bf33/allt-du-behover-veta-om-scbs-medborgarundersokning.pdf",
+    "source_class": "OFFICIAL_METHODOLOGY",
+    "scope_note": "SCB says old 2010-2020 NKI and redesigned 2021 survey are not directly comparable",
+    "status": "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP",
+    "harp_refa": "PENDING"
+  },
+  {
+    "id": "X5-03",
+    "title": "Heby kommun: 14 maj 2024 vall vid Tegelvallen",
+    "url": "https://www.heby.se/arkiv/nyheter/2024/2024-05-14-vall-ska-minska-risken-for-oversvamningar-vid-tegelvallen",
+    "source_class": "MUNICIPAL_DECISION_NEWS",
+    "scope_note": "Planned 1.5 m high flood barrier; does not establish actual construction or measured efficacy",
+    "status": "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP",
+    "harp_refa": "PENDING"
+  },
+  {
+    "id": "X5-04",
+    "title": "Samhällsbyggnadsnämnd Heby protokoll 14 maj 2024",
+    "url": "https://www.heby.se/download/18.7ea0ee0718f378ed16290674/1715691807399/Sbn240514p.pdf",
+    "source_class": "PRIMARY_MUNICIPAL_PDF",
+    "scope_note": "§81 Dnr SBN/2023:77 investment authorization 352000 SEK; §82 3 May 2024 Tämnaren stakeholder dialogue mentioned; 2024 new flow-map procurement; screenshot cache miss",
+    "status": "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP",
+    "harp_refa": "PENDING"
+  },
+  {
+    "id": "X5-05",
+    "title": "SGU Grundvattennivåer i ett förändrat klimat (2015)",
+    "url": "https://www.sgu.se/globalassets/produkter/publikationer/tidigare/grundvattennivaer-i-ett-forandrat-klimat--nya-klimatscenarier.pdf",
+    "source_class": "PRE_2023_SCIENCE",
+    "scope_note": "Historical hydrogeological climatology, not local Sept 2023 observation; need exact region/parameters",
+    "status": "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP",
+    "harp_refa": "PENDING"
+  },
+  {
+    "id": "X5-06",
+    "title": "SCB Befolkningen efter region och typ av avloppsanslutning 2000-2024",
+    "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902C/MI0902T01/",
+    "source_class": "OFFICIAL_HISTORICAL_VA_COVERAGE",
+    "scope_note": "Ex ante VA connection structure; SCB notes Heby 2000/2005 adjusted to Uppsala county and 2024 small perturbation",
+    "status": "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP",
+    "harp_refa": "PENDING"
+  },
+  {
+    "id": "X5-07",
+    "title": "SCB medborgarundersökning 2026 availability",
+    "url": "https://www.scb.se/lamna-uppgifter/undersokningar/scbs-medborgarundersokning/?menu=open",
+    "source_class": "OFFICIAL_RELEASE_SCHEDULE",
+    "scope_note": "As of Nov 20, 2026 2026 municipal results scheduled December; do not fabricate Heby 2026 satisfaction figures",
+    "status": "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP",
+    "harp_refa": "PENDING"
+  }
+]
