@@ -60,3 +60,12 @@ Prioriterade luckor: fullständiga RSA-årgångar, modellernas faktiska täcknin
 [Roadmap](roadmap/MASTER_ROADMAP.md) · [GitHub-ärenden](https://github.com/Motherpher/Beredskap/issues) · [QGIS-gren](https://github.com/Motherpher/Beredskap/tree/spatial/qgis-heby-uppsala-v1) · [Alla Markdown-sidor](INDEX.md)
 
 **Att denna dashboard är läsbar betyder inte att alla forsknings- och HARP-aktiviteter har slutförts.**
+
+## GIS-samordning – status 20 november 2026
+QGIS-grenen har nu en [separat Draft PR #11](https://github.com/Motherpher/Beredskap/pull/11) och godkänd statisk kontraktsvalidering. **Detta är ännu inte en fungerande API- eller QGIS-körning.** Följ de tre ansvarsägda ärendena:
+
+- [Beredskap #12 – Heby/Uppsala GIS-uppdrag och acceptans](https://github.com/Motherpher/Beredskap/issues/12).
+- [FF-Spatial #51 – geografiska källor, assets och QGIS-kontrakt](https://github.com/Motherpher/FF-Spatial/issues/51).
+- [FFOS #127 – möjlig framtida samordning (discovery only)](https://github.com/Motherpher/FFOS/issues/127).
+
+[Öppna QGIS-grenens README](https://github.com/Motherpher/Beredskap/blob/spatial/qgis-heby-uppsala-v1/spatial/README.md) · [Se atlasens åtta kartprodukter](https://github.com/Motherpher/Beredskap/blob/spatial/qgis-heby-uppsala-v1/spatial/ATLAS.md).
