@@ -127,3 +127,9 @@
 
 - [RECORDS](templates/RECORDS.md)
 
+
+## Artiklar – synopsis och storyboard
+- **[Artikel 1: Ett elverks tragedi](article/ARTIKEL_01_SYNOPSIS_STORYBOARD.md)** – fyra tidsskalor, elcentralens beroendekedja, historisk kunskap, risk och beslut.
+- **[Artikel 2: Vem tar hand om dem som tar hand om krisen?](article/ARTIKEL_02_SYNOPSIS_STORYBOARD.md)** – civilsamhällets vardagliga förutsättningar, logisk/praktisk närhet, egenvärde, data och samverkan.
+
+Båda är **redaktionella synopsis och storyboard v1.0**, inte färdigskrivna eller RefA-sakgranskade artiklar. Artikel 2:s barnomsorgsexempel är hypotetiskt.

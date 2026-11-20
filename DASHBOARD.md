@@ -69,3 +69,9 @@ QGIS-grenen har nu en [separat Draft PR #11](https://github.com/Motherpher/Bered
 - [FFOS #127 – möjlig framtida samordning (discovery only)](https://github.com/Motherpher/FFOS/issues/127).
 
 [Öppna QGIS-grenens README](https://github.com/Motherpher/Beredskap/blob/spatial/qgis-heby-uppsala-v1/spatial/README.md) · [Se atlasens åtta kartprodukter](https://github.com/Motherpher/Beredskap/blob/spatial/qgis-heby-uppsala-v1/spatial/ATLAS.md).
+
+## Artiklar – synopsis och storyboard
+- **[Artikel 1: Ett elverks tragedi](article/ARTIKEL_01_SYNOPSIS_STORYBOARD.md)** – fyra tidsskalor, elcentralens beroendekedja, historisk kunskap, risk och beslut.
+- **[Artikel 2: Vem tar hand om dem som tar hand om krisen?](article/ARTIKEL_02_SYNOPSIS_STORYBOARD.md)** – civilsamhällets vardagliga förutsättningar, logisk/praktisk närhet, egenvärde, data och samverkan.
+
+Båda är **redaktionella synopsis och storyboard v1.0**, inte färdigskrivna eller RefA-sakgranskade artiklar. Artikel 2:s barnomsorgsexempel är hypotetiskt.
