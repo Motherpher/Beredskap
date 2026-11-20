@@ -1,0 +1,33 @@
+{
+  "id": "HEBY-CIVIC-ATLAS-REQ-001",
+  "domains": [
+    "civil-society",
+    "participation",
+    "regional-context"
+  ],
+  "geography": "Heby kommun / Uppsala län",
+  "spatial_unit": "municipality",
+  "time": {
+    "from": 2000,
+    "to": 2026
+  },
+  "relations": [
+    "civil-society-organisations",
+    "public-venues",
+    "activity-areas",
+    "social-conditions"
+  ],
+  "exposures": [
+    "civil-society-organisations",
+    "public-venues",
+    "activity-areas"
+  ],
+  "outcomes": [
+    "organisation-activity",
+    "availability",
+    "accessibility"
+  ],
+  "uncertainty": "Organisationsstatistik får inte ersätta aktiva resurser. Geografisk attribution och aktivitet måste verifieras.",
+  "proxy_policy": "approval-required",
+  "authoritative_only": true
+}

@@ -1,0 +1,18 @@
+{
+  "status": "NOT_AUTHORIZED_NOT_DISPATCHED",
+  "schema": "beredskap.ffos-handoff-candidate/v1",
+  "source_repo": "Motherpher/Beredskap",
+  "source_branch": "spatial/qgis-heby-uppsala-v1",
+  "source_document": "spatial/ATLAS_REQUIREMENTS.json",
+  "target_spatial_owner": "Motherpher/FF-Spatial",
+  "optional_orchestrator": "Motherpher/FFOS",
+  "purpose": "Heby and Uppsala län thematic map pilots",
+  "director_approval": null,
+  "ffos_job_id": null,
+  "ffspatial_job_id": null,
+  "source_permissions_verified": false,
+  "spatial_asset_id": null,
+  "receipt": null,
+  "dispatch_enabled": false,
+  "secret_reference": null
+}
