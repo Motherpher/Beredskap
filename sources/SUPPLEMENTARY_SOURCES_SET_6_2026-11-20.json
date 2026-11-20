@@ -1,0 +1,83 @@
+[
+  {
+    "source_id": "X6-01",
+    "title": "Sala PwC granskning av krisberedskap 2020, sammanställd 2021",
+    "url": "https://www.sala.se/resources/files/_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunstyrelsen/2021/2021-09-08/3.Revisionsrapport%20Granskning%20av%20krisberedskap-yttrande.pdf",
+    "document_date": "2020_AUDIT_TO_2021",
+    "scope": "Audit contains RSA 2019 using 2007/2016 data, poor dissemination, FRG, person dependency; follow up",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-02",
+    "title": "Sala kommun KS 8 september 2021 ärendelista",
+    "url": "https://www.sala.se/meeting/28097",
+    "document_date": "2021-09-08",
+    "scope": "Contains both audit response and separate initiative on flood preparedness; individual responses and decisions pending",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-03",
+    "title": "Sala 2020 revision summary published 12 April 2021",
+    "url": "https://www.sala.se/resources/files/_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunfullm%C3%A4ktige/2021/2021-04-26/7.%20Revisionsber%C3%A4ttelse%202020%2C%20revisorernas%20redog%C3%B6relse%202020%20samt%20granskning%20av%20%C3%A5rsredovisning%202020.pdf",
+    "document_date": "2021-04-12",
+    "scope": "Independent auditors recommend volunteer organization inclusion, RSA measure owner/deadlines; do not generalize to Heby",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-04",
+    "title": "Tyréns PM dagvatten Brandmannen 1 och 2",
+    "url": "https://www.heby.se/download/18.7e5dde81187eb1c5d45a9997/1684759907814/PM%20Dagvatten%20Brandmannen%201%20och%202%20inkl%20bilagor%2020230512_SH.pdf",
+    "document_date": "2023-05-12",
+    "scope": "NEW critical pre-Sept technical report for Heby (likely central town), exact geography and parameters require full source review",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-05",
+    "title": "Sala 2023 follow-up audit of crisis preparedness",
+    "url": "https://www.sala.se/resources/files/1%20SALA%20KOMMUN/04%20Rapporter-redovisningar/Revisionsrapporter/2023/1%20Revisionsrapport%20-%20Uppf%C3%B6ljning%20granskning%20krisberedskap.pdf",
+    "document_date": "2023_DATE_UNVERIFIED",
+    "scope": "Need verify published before/after Sept 2023 and comparison to 2020 audit",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-06",
+    "title": "Naturvårdsverket – alternativa avloppstjänster official project page",
+    "url": "https://www.naturvardsverket.se/beredskap/beredskap-inom-avloppshantering/information-om-projekt-alternativa-losningar-vid-storning-i-den-allmanna-avloppstjansten",
+    "document_date": "2025_2026",
+    "scope": "Source index for 2025 report and December 2026 webinar; separate post-crisis methods",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-07",
+    "title": "Lund university student thesis record 9227929",
+    "url": "https://lup.lub.lu.se/student-papers/record/9227929",
+    "document_date": "2026",
+    "scope": "Vera Röös and Julia Wollentz, qualitative 30-ad analysis, hybrid role; abstract indexed, fulltext inaccessible",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-08",
+    "title": "Sala future flood preparedness after 2023",
+    "url": "https://www.sala.se/message/39947/",
+    "document_date": "POST_2023",
+    "scope": "Later improved barriers and plan, not evidence of pre-2023 preparation",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "source_id": "X6-09",
+    "title": "Heby 2025-01-23 adoption of skyfall plan SBN §12",
+    "url": "https://heby.se/download/18.bcaf1251948f28e8eaea3e0/1738067002341/Protokoll%20-%20Samh%C3%A4llsbyggnadsn%C3%A4mnden%2023%20januari%202025.pdf",
+    "document_date": "2025-01-23",
+    "scope": "Stated assignment commissioned 2023-11-30 following flood; annexes formalized post-2023",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "batch": 1,
+  "files": [
+    "MISSION.md",
+    "README.md",
+    "WORK_ORDER.md",
+    "article/ARTICLE_BRIEF.md",
+    "benchmarks/GAVLE_2021.md",
+    "benchmarks/VASTMANLAND_2014.md",
+    "data/CIVIC_OBSERVATION_MODEL.md",
+    "data/INDICATOR_PLAN.md",
+    "data/SIGNAL_TO_SCENARIO_PIPELINE.md",
+    "governance/CHANGE_ORDER_002.md",
+    "governance/CHANGE_ORDER_003_CIVIC_SENSING.md",
+    "governance/CHANGE_ORDER_004_WEAK_SIGNALS_FORESIGHT.md",
+    "governance/CHANGE_ORDER_005_FIRE_LEARNING_CIVIC_CAPACITY.md",
+    "governance/CHECKLIST.md"
+  ],
+  "unread": [],
+  "count": 2,
+  "hits": [
+    {
+      "url": "https://www.lansstyrelsen.se/gavleborg/om-oss/vara-tjanster/publikationer/2022/utredning-av-skyfall-och-oversvamningar-i-gavleborgs-lan-augusti-2021.html",
+      "path": "benchmarks/GAVLE_2021.md"
+    },
+    {
+      "url": "https://www.fhs.se/om-forsvarshogskolan/organisation/centrum-for-totalforsvar-och-samhallets-sakerhet/ctss-verksamhet/forskning-och-studier/publikationer/utvardering-skogsbranden-i-vastmanland-2014.html",
+      "path": "benchmarks/VASTMANLAND_2014.md"
+    }
+  ]
+}

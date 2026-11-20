@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-20",
+  "imported_registers": [
+    "sources/seed_sources.json",
+    "sources/user_submitted_2026-11-20.json",
+    "sources/CIVIC_SENSING_SOURCES_2026-11-20.json",
+    "sources/USER_SOURCES_SET_3_2026-11-20.json",
+    "sources/USER_SOURCES_SET_4_2026-11-20.json",
+    "sources/USER_SOURCES_SET_5_2026-11-20.json",
+    "sources/USER_SOURCES_SET_6_2026-11-20.json",
+    "sources/USER_SOURCES_SET_7_2026-11-20.json",
+    "sources/SUPPLEMENTARY_SOURCES_SET_4_2026-11-20.json",
+    "sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json",
+    "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json"
+  ],
+  "raw_records": 180,
+  "unique_sources": 177,
+  "aliases_deduplicated": 3,
+  "RefA_cleared": 0,
+  "status": "REGISTERED_ALL_11_JSON_AND_47_ORIGINAL_MARKDOWN_FILES_REFA_PENDING",
+  "shards": [
+    {
+      "file": "sources/registry/HARP_MASTER_01.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_02.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_03.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_04.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_05.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_06.json",
+      "count": 9
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_07.json",
+      "count": 18
+    }
+  ],
+  "tagging": "AUTO_CANDIDATES_REQUIRE_APPROVAL",
+  "markdown_scanned_files": 47,
+  "markdown_distinct_urls": 75,
+  "markdown_new_sources": 18
+}

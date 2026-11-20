@@ -1,0 +1,2003 @@
+[
+  {
+    "harp_id": "HARP-32612a57",
+    "title": "Reningsverket i Heby säkrat mot översvämningar",
+    "canonical_locator": "https://cirkulation.se/artiklar-och-notiser/reningsverket-i-heby-sakrat-mot-oversvamningar",
+    "aliases": [
+      "SRC-0003"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0003"
+      }
+    ],
+    "date_candidates": [
+      "2026"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "Cirkulation"
+    ],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:hydrology",
+      "subject:va",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "Cirkulation"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Reningsverket i Heby säkrat mot översvämningar",
+      "publisher_verified": null,
+      "original_locator": "https://cirkulation.se/artiklar-och-notiser/reningsverket-i-heby-sakrat-mot-oversvamningar",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-508cca13",
+    "title": "Lågpunktskartering Uppsala län – metadata",
+    "canonical_locator": "https://ext-geodatakatalog-forv.lansstyrelsen.se/PlaneringsKatalogen/GetMetaDataById?id=08285092-65e9-4d60-9b46-8d4049879caa_C",
+    "aliases": [
+      "SRC-0011"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0011"
+      }
+    ],
+    "date_candidates": [
+      "2019"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "Länsstyrelsen Uppsala"
+    ],
+    "tags": [
+      "data:geospatial",
+      "geo:sala",
+      "geo:uppsala-lan",
+      "part:d1",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "Länsstyrelsen Uppsala"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Lågpunktskartering Uppsala län – metadata",
+      "publisher_verified": null,
+      "original_locator": "https://ext-geodatakatalog-forv.lansstyrelsen.se/PlaneringsKatalogen/GetMetaDataById?id=08285092-65e9-4d60-9b46-8d4049879caa_C",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-ff050c2c",
+    "title": "Bara skog som brinner? Utvärdering av krishanteringen under skogsbranden i Västmanland 2014",
+    "canonical_locator": "https://fhs.diva-portal.org/smash/get/diva2:892551/FULLTEXT01.pdf",
+    "aliases": [
+      "SRC-0009"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0009"
+      }
+    ],
+    "date_candidates": [
+      "2015"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "Försvarshögskolan/FHS Crismart"
+    ],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "subject:fire",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "Försvarshögskolan/FHS Crismart"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Bara skog som brinner? Utvärdering av krishanteringen under skogsbranden i Västmanland 2014",
+      "publisher_verified": null,
+      "original_locator": "https://fhs.diva-portal.org/smash/get/diva2:892551/FULLTEXT01.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-355576b2",
+    "title": "Gratis Uppsala – Beredskapsveckan 2025",
+    "canonical_locator": "https://gratisuppsala.se/events/beredskapsveckan-2025",
+    "aliases": [
+      "U6-17"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-17"
+      }
+    ],
+    "date_candidates": [
+      "2025-09-22_TO_26"
+    ],
+    "reported_reviews": [
+      "ORIGINAL_HTML_READ"
+    ],
+    "reported_notes": [
+      "After-crisis FRG + Heby stand 26 Sep 2025, lectures and public information; plans do not prove attendance or effect"
+    ],
+    "types": [
+      "EVENT_PROGRAM"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:sala",
+      "geo:uppsala-lan",
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Gratis Uppsala – Beredskapsveckan 2025",
+      "publisher_verified": null,
+      "original_locator": "https://gratisuppsala.se/events/beredskapsveckan-2025",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-7236cda2",
+    "title": "Policy för krisberedskap HebyFS 2016:22",
+    "canonical_locator": "https://heby.se/download/18.3b26467617dc1ebe39ecedcb/1643211899398/Policy%20f%C3%B6r%20krisberedskap.pdf",
+    "aliases": [
+      "SRC-0004"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0004"
+      }
+    ],
+    "date_candidates": [
+      "2016"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "Heby kommun"
+    ],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "Heby kommun"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Policy för krisberedskap HebyFS 2016:22",
+      "publisher_verified": null,
+      "original_locator": "https://heby.se/download/18.3b26467617dc1ebe39ecedcb/1643211899398/Policy%20f%C3%B6r%20krisberedskap.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-cac757d0",
+    "title": "2023 KS §71 vattenrådsrepresentant",
+    "canonical_locator": "https://heby.se/download/18.676955dd1872311e10314e13/1680183987137/230328KSp.pdf",
+    "aliases": [
+      "LOCAL-01"
+    ],
+    "origins": [
+      {
+        "file": "sources/CIVIC_SENSING_SOURCES_2026-11-20.json",
+        "legacy_id": "LOCAL-01"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "documented"
+    ],
+    "reported_notes": [],
+    "types": [
+      "primary pre-2023 document"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:unassigned"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "2023 KS §71 vattenrådsrepresentant",
+      "publisher_verified": null,
+      "original_locator": "https://heby.se/download/18.676955dd1872311e10314e13/1680183987137/230328KSp.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-145fa995",
+    "title": "Kommunfullmäktige sammanträdeshandlingar december 2023 – styrdokument",
+    "canonical_locator": "https://heby.se/download/18.6e97e84a18c5159689293aea/1702561162242/Kf231218s.pdf",
+    "aliases": [
+      "SRC-0006"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0006"
+      }
+    ],
+    "date_candidates": [
+      "2023"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "Heby kommun"
+    ],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "Heby kommun"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Kommunfullmäktige sammanträdeshandlingar december 2023 – styrdokument",
+      "publisher_verified": null,
+      "original_locator": "https://heby.se/download/18.6e97e84a18c5159689293aea/1702561162242/Kf231218s.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-47740b5e",
+    "title": "Kommunstyrelsens protokoll 22 augusti 2023 – § 164 RSA KS/2023:99",
+    "canonical_locator": "https://heby.se/download/18.7252fcac18a2658716217877/1692957570794/ks230822p.pdf",
+    "aliases": [
+      "SRC-0005"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0005"
+      }
+    ],
+    "date_candidates": [
+      "2023"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "Heby kommun"
+    ],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "Heby kommun"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Kommunstyrelsens protokoll 22 augusti 2023 – § 164 RSA KS/2023:99",
+      "publisher_verified": null,
+      "original_locator": "https://heby.se/download/18.7252fcac18a2658716217877/1692957570794/ks230822p.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-03e1edae",
+    "title": "Heby 2025-01-23 adoption of skyfall plan SBN §12",
+    "canonical_locator": "https://heby.se/download/18.bcaf1251948f28e8eaea3e0/1738067002341/Protokoll%20-%20Samh%C3%A4llsbyggnadsn%C3%A4mnden%2023%20januari%202025.pdf",
+    "aliases": [
+      "X6-09"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-09"
+      }
+    ],
+    "date_candidates": [
+      "2025-01-23"
+    ],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Stated assignment commissioned 2023-11-30 following flood; annexes formalized post-2023"
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:hydrology",
+      "subject:stormwater",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Heby 2025-01-23 adoption of skyfall plan SBN §12",
+      "publisher_verified": null,
+      "original_locator": "https://heby.se/download/18.bcaf1251948f28e8eaea3e0/1738067002341/Protokoll%20-%20Samh%C3%A4llsbyggnadsn%C3%A4mnden%2023%20januari%202025.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-a81cb6da",
+    "title": "Heby Värbi – jobb 984394",
+    "canonical_locator": "https://hebykommun.varbi.com/se/what:job/jobID:984394/type:job/where:125/apply:1",
+    "aliases": [
+      "U6-20"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-20"
+      }
+    ],
+    "date_candidates": [
+      "2026_UNVERIFIED"
+    ],
+    "reported_reviews": [
+      "DIRECT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "Role, qualifications and employer requirements must be checked in original"
+    ],
+    "types": [
+      "MUNICIPAL_RECRUITMENT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Heby Värbi – jobb 984394",
+      "publisher_verified": null,
+      "original_locator": "https://hebykommun.varbi.com/se/what:job/jobID:984394/type:job/where:125/apply:1",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-63d75dc6",
+    "title": "Östhammar – erfarenhetsutbyte och C-sam stormöte",
+    "canonical_locator": "https://ines.osthammar.se/nyheter/2026/erfarenhetsutbyte-och-samverkan-pa-c-sam-stormote",
+    "aliases": [
+      "U6-27"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-27"
+      }
+    ],
+    "date_candidates": [
+      "2026-04"
+    ],
+    "reported_reviews": [
+      "INDEX_SEARCH_VERIFIED_DIRECT_FAIL"
+    ],
+    "reported_notes": [
+      "After-crisis C-sam multi-perspective preparedness; no specific Heby participation evidenced"
+    ],
+    "types": [
+      "REGIONAL_COORDINATION_EVENT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Östhammar – erfarenhetsutbyte och C-sam stormöte",
+      "publisher_verified": null,
+      "original_locator": "https://ines.osthammar.se/nyheter/2026/erfarenhetsutbyte-och-samverkan-pa-c-sam-stormote",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-b49a2bfa",
+    "title": "Citizen science data Swedish governance trust (2022)",
+    "canonical_locator": "https://journals.sagepub.com/doi/10.1177/03063127221085241",
+    "aliases": [
+      "METHOD-06"
+    ],
+    "origins": [
+      {
+        "file": "sources/CIVIC_SENSING_SOURCES_2026-11-20.json",
+        "legacy_id": "METHOD-06"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "2022"
+    ],
+    "reported_notes": [],
+    "types": [
+      "peer reviewed"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Citizen science data Swedish governance trust (2022)",
+      "publisher_verified": null,
+      "original_locator": "https://journals.sagepub.com/doi/10.1177/03063127221085241",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-4b2516b3",
+    "title": "Knivsta förslag program krisberedskap 2024–2027",
+    "canonical_locator": "https://knivstakommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunstyrelsen/kommunstyrelsen-2023-12-11/agenda/forslag-pa-program-for-krisberedskap-2024-2027pdf?downloadMode=open",
+    "aliases": [
+      "U7-09"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-09"
+      }
+    ],
+    "date_candidates": [
+      "2023-12-11"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "DRAFT not adopted proof; proposed volunteer integration, extremväder, social inclusion"
+    ],
+    "types": [
+      "POST_EVENT_LOCAL_COMPARISON"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Knivsta förslag program krisberedskap 2024–2027",
+      "publisher_verified": null,
+      "original_locator": "https://knivstakommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunstyrelsen/kommunstyrelsen-2023-12-11/agenda/forslag-pa-program-for-krisberedskap-2024-2027pdf?downloadMode=open",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-3de2e57f",
+    "title": "Prop. 2004/05:5 Vårt framtida försvar",
+    "canonical_locator": "https://lagen.nu/prop/2004/05:5",
+    "aliases": [
+      "U7-06"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-06"
+      }
+    ],
+    "date_candidates": [
+      "2004"
+    ],
+    "reported_reviews": [
+      "HTML_VERIFIED"
+    ],
+    "reported_notes": [
+      "Mainly defence/totalförsvar, low priority, cite specific 2004 provisions only"
+    ],
+    "types": [
+      "HISTORICAL_POLICY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:foresight",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Prop. 2004/05:5 Vårt framtida försvar",
+      "publisher_verified": null,
+      "original_locator": "https://lagen.nu/prop/2004/05:5",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-cb7570cd",
+    "title": "SOU 2024:65 kommuners och regioners grundläggande beredskap",
+    "canonical_locator": "https://lagen.nu/sou/2024:65",
+    "aliases": [
+      "U7-20"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-20"
+      }
+    ],
+    "date_candidates": [
+      "2024"
+    ],
+    "reported_reviews": [
+      "TIMEOUT"
+    ],
+    "reported_notes": [
+      "Reform proposal, not automatically in-force law"
+    ],
+    "types": [
+      "POST_EVENT_LAW_PROPOSAL"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SOU 2024:65 kommuners och regioners grundläggande beredskap",
+      "publisher_verified": null,
+      "original_locator": "https://lagen.nu/sou/2024:65",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-93889049",
+    "title": "Lund student paper 4925031 Tagen på sängen",
+    "canonical_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4925031&fileOId=4925039",
+    "aliases": [
+      "U7-19"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-19"
+      }
+    ],
+    "date_candidates": [
+      "2015"
+    ],
+    "reported_reviews": [
+      "BIBLIOGRAPHIC_INDEX_ONLY"
+    ],
+    "reported_notes": [
+      "Title detected from Lund registry, need fulltext and topical scope"
+    ],
+    "types": [
+      "PRE_EVENT_ACADEMIC"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "genre:academic",
+      "part:d1",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Lund student paper 4925031 Tagen på sängen",
+      "publisher_verified": null,
+      "original_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4925031&fileOId=4925039",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-8914f50a",
+    "title": "Lund student paper 9043910",
+    "canonical_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9043910&fileOId=9043911",
+    "aliases": [
+      "U7-28"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-28"
+      }
+    ],
+    "date_candidates": [
+      "UNKNOWN"
+    ],
+    "reported_reviews": [
+      "UNVERIFIED"
+    ],
+    "reported_notes": [
+      "No title confirmed, do not attribute findings"
+    ],
+    "types": [
+      "ACADEMIC_UNKNOWN"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Lund student paper 9043910",
+      "publisher_verified": null,
+      "original_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9043910&fileOId=9043911",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-cd0f444c",
+    "title": "Lund – Beredskap på annons (Röös & Wollentz 2026)",
+    "canonical_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9227929&fileOId=9233660",
+    "aliases": [
+      "U6-26"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-26"
+      }
+    ],
+    "date_candidates": [
+      "2026"
+    ],
+    "reported_reviews": [
+      "DIRECT_PDF_FAILED_METADATA_INDEX_FOUND"
+    ],
+    "reported_notes": [
+      "30 job advertisements; role hybrid coordination/specialist; not Heby-specific hiring"
+    ],
+    "types": [
+      "ACADEMIC_STUDENT_THESIS_PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Lund – Beredskap på annons (Röös & Wollentz 2026)",
+      "publisher_verified": null,
+      "original_locator": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9227929&fileOId=9233660",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-10e4ed07",
+    "title": "Lund university student thesis record 9227929",
+    "canonical_locator": "https://lup.lub.lu.se/student-papers/record/9227929",
+    "aliases": [
+      "X6-07"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-07"
+      }
+    ],
+    "date_candidates": [
+      "2026"
+    ],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Vera Röös and Julia Wollentz, qualitative 30-ad analysis, hybrid role; abstract indexed, fulltext inaccessible"
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Lund university student thesis record 9227929",
+      "publisher_verified": null,
+      "original_locator": "https://lup.lub.lu.se/student-papers/record/9227929",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-6e796c6d",
+    "title": "Mötesplats Vatten conference portal",
+    "canonical_locator": "https://motesplatsvatten.se/konferens",
+    "aliases": [
+      "U3-13"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-13"
+      }
+    ],
+    "date_candidates": [
+      "2027-10"
+    ],
+    "reported_reviews": [
+      "opened; upcoming 12–14 October 2027 with link to 2025 programme; future/current capacity example only"
+    ],
+    "reported_notes": [],
+    "types": [
+      "professional event/current"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Mötesplats Vatten conference portal",
+      "publisher_verified": null,
+      "original_locator": "https://motesplatsvatten.se/konferens",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-ab7d2c25",
+    "title": "OrtsAktuellt vattenkonferens Från Regn till Resiliens",
+    "canonical_locator": "https://ortsaktuellt.se/2026/10/vatten-amnet-pa-konferens",
+    "aliases": [
+      "U3-01"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-01"
+      }
+    ],
+    "date_candidates": [
+      "2026-10-27"
+    ],
+    "reported_reviews": [
+      "search result confirms 27 Oct 2026 and about 75 attendees; direct open cache miss"
+    ],
+    "reported_notes": [],
+    "types": [
+      "media post-2023"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:media",
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "OrtsAktuellt vattenkonferens Från Regn till Resiliens",
+      "publisher_verified": null,
+      "original_locator": "https://ortsaktuellt.se/2026/10/vatten-amnet-pa-konferens",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-528fdc60",
+    "title": "SGU K 91 Beskrivning till kartan Grundvattenförekomster i Heby kommun",
+    "canonical_locator": "https://resource.sgu.se/dokument/publikation/k/k91beskrivning/k91-beskrivning.pdf",
+    "aliases": [
+      "U3-09"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-09"
+      }
+    ],
+    "date_candidates": [
+      "~2008"
+    ],
+    "reported_reviews": [
+      "search identifies K91; direct PDF too large for web retrieval; publication year not confirmed in file"
+    ],
+    "reported_notes": [],
+    "types": [
+      "geological report PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "subject:groundwater",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SGU K 91 Beskrivning till kartan Grundvattenförekomster i Heby kommun",
+      "publisher_verified": null,
+      "original_locator": "https://resource.sgu.se/dokument/publikation/k/k91beskrivning/k91-beskrivning.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-ff6bc839",
+    "title": "Ansvar, samverkan, handling – åtgärder för stärkt krisberedskap",
+    "canonical_locator": "https://rib.msb.se/bib/Search/Download?url=media%2F28036.pdf",
+    "aliases": [
+      "SRC-0010"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0010"
+      }
+    ],
+    "date_candidates": [
+      "2016"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "MSB"
+    ],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "MSB"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Ansvar, samverkan, handling – åtgärder för stärkt krisberedskap",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/bib/Search/Download?url=media%2F28036.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-6e8176ca",
+    "title": "MSB stöd vid skogsbranden Västmanland 2014",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/27590.pdf",
+    "aliases": [
+      "U7-24"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-24"
+      }
+    ],
+    "date_candidates": [
+      "2015"
+    ],
+    "reported_reviews": [
+      "PDF_SEARCH_VERIFIED"
+    ],
+    "reported_notes": [
+      "Evaluation of MSB assistance during 2014 fire, local learning bridge"
+    ],
+    "types": [
+      "PRE_EVENT_FIRE_EVALUATION"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "subject:fire",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB stöd vid skogsbranden Västmanland 2014",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/27590.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-b6ba3935",
+    "title": "MSB1660 Rättsliga förutsättningar för beredskap",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/29478.pdf",
+    "aliases": [
+      "USR20261120-12"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-12"
+      }
+    ],
+    "date_candidates": [
+      "PRE_2023"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE"
+    ],
+    "reported_notes": [
+      "Faktablad om projekt 2020–2025; slutresultat söks separat"
+    ],
+    "types": [
+      "RESEARCH_PROSPECTUS_2020"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB1660 Rättsliga förutsättningar för beredskap",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/29478.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-6bf4975e",
+    "title": "MSB1872 Från passiv mottagare till aktiv resurs",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/29813.pdf",
+    "aliases": [
+      "USR20261120-13"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-13"
+      }
+    ],
+    "date_candidates": [
+      "PRE_2023"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE"
+    ],
+    "reported_notes": [
+      "Användarmedverkan och funktionsrätt; sök resultatrapport 2024"
+    ],
+    "types": [
+      "RESEARCH_PROSPECTUS_2021"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "subject:inclusion",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB1872 Från passiv mottagare till aktiv resurs",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/29813.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-1cc7564e",
+    "title": "MSB1954 Civilsamhället underutnyttjad samhällsresurs",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/29963.pdf",
+    "aliases": [
+      "USR20261120-15"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-15"
+      }
+    ],
+    "date_candidates": [
+      "PRE_2023"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE"
+    ],
+    "reported_notes": [
+      "Forskningsfråga – INTE en slutrapport; resultaten söks separat"
+    ],
+    "types": [
+      "RESEARCH_PROSPECTUS_2022"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:d2",
+      "subject:civil-society",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB1954 Civilsamhället underutnyttjad samhällsresurs",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/29963.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-677d790e",
+    "title": "MSB1966 Ras och skred",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/30068.pdf",
+    "aliases": [
+      "USR20261120-10"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-10"
+      }
+    ],
+    "date_candidates": [
+      "PRE_2023"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE"
+    ],
+    "reported_notes": [
+      "Sekundär risk vid vattenmättnad och erosion"
+    ],
+    "types": [
+      "RISK_CATALOG_2022"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB1966 Ras och skred",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/30068.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-0336ddc5",
+    "title": "MSB1964 Översvämningar",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/30076.pdf",
+    "aliases": [
+      "USR20261120-08"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-08"
+      }
+    ],
+    "date_candidates": [
+      "PRE_2023"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE"
+    ],
+    "reported_notes": [
+      "Ex ante kunskapsstöd; skiljer vattendrag/skyfall, befolkning, infrastruktur"
+    ],
+    "types": [
+      "RISK_CATALOG_2022"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:hydrology",
+      "subject:stormwater",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB1964 Översvämningar",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/30076.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-99af9a79",
+    "title": "MSB2148 Systematiska lägesbilder",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/30205.pdf",
+    "aliases": [
+      "USR20261120-14"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-14"
+      }
+    ],
+    "date_candidates": [
+      "PRE_2023"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE"
+    ],
+    "reported_notes": [
+      "ELISA och indikatorer för lokala lägesbilder; full rapport MSB2124"
+    ],
+    "types": [
+      "RESEARCH_SUMMARY_2022"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB2148 Systematiska lägesbilder",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/30205.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  }
+]

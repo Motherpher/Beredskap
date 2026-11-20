@@ -1,0 +1,51 @@
+{
+  "batch": 2,
+  "files": [
+    "governance/EVIDENCE_PROTOCOL.md",
+    "reports/HEBY_UNDER_YTAN_STRUCTURE.md",
+    "reports/REPORT_STRUCTURE.md",
+    "requests/CIVIL_SOCIETY_INFORMATION_REQUESTS.md",
+    "requests/UTLAMNANDE.md",
+    "research/CIVIC_SENSING_FRAMEWORK.md",
+    "research/CIVIL_SOCIETY_FRAMEWORK.md",
+    "research/CRISIS_LIVED_EXPERIENCE_SOURCE_PROTOCOL.md",
+    "research/DEEP_RESEARCH_DEL1_PROMPT.md",
+    "research/DEEP_RESEARCH_DEL2_PROMPT.md",
+    "research/DEEP_RESEARCH_EVIDENCE_HANDOFF.md",
+    "research/DEEP_RESEARCH_PROGRAM_V3.md",
+    "research/DEEP_RESEARCH_WEAK_SIGNALS_PROMPT.md",
+    "research/GEO_DATA_SOURCE_LAYERING.md"
+  ],
+  "unread": [],
+  "count": 7,
+  "hits": [
+    {
+      "url": "https://esh.diva-portal.org/smash/get/diva2%3A1811686/FULLTEXT01.pdf",
+      "path": "research/DEEP_RESEARCH_DEL2_PROMPT.md"
+    },
+    {
+      "url": "https://www.diva-portal.org/smash/get/diva2%3A1930269/FULLTEXT01.pdf",
+      "path": "research/CIVIL_SOCIETY_FRAMEWORK.md"
+    },
+    {
+      "url": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskapssystemet/samverkansforum/samarbete-med-civilsamhallet/",
+      "path": "research/CIVIL_SOCIETY_FRAMEWORK.md"
+    },
+    {
+      "url": "https://rib.msb.se/filer/pdf/31056.pdf",
+      "path": "research/DEEP_RESEARCH_DEL2_PROMPT.md"
+    },
+    {
+      "url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8964052&fileOId=8964410",
+      "path": "research/DEEP_RESEARCH_PROGRAM_V3.md"
+    },
+    {
+      "url": "https://www.mchs.se/arkiv/projekt/ccf/civkris---beredskapsvilja-inom-civilsamhallet.html",
+      "path": "research/DEEP_RESEARCH_DEL2_PROMPT.md"
+    },
+    {
+      "url": "https://www.sgu.se/grundvatten/grundvattennivaer/tidigare-grundvattennivaer/",
+      "path": "research/GEO_DATA_SOURCE_LAYERING.md"
+    }
+  ]
+}

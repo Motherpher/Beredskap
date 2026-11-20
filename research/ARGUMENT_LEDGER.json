@@ -1,0 +1,403 @@
+{
+  "version": "1.0",
+  "created_at": "2026-11-20",
+  "statuses": "Propositions reflect desired/testable arguments, with found preliminary leads; not all have verified evidence.",
+  "arguments": [
+    {
+      "id": "ARG-01",
+      "part": "D1",
+      "proposition": "Historisk och modern översvämningsrisk var i princip kartläggningsbar",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Historiskt Tämnarån 1916, scenario-kartering 2006/2015 och skyfallsdokument",
+      "counter_test": "Geografi olika, offentlig kunskap ≠ mottagen kunskap; läges- och mätosäkerhet",
+      "work_packages": [
+        "WP01",
+        "WP02",
+        "WP03"
+      ],
+      "milestone": "MS2",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-069c990d",
+        "HARP-057e2f64",
+        "HARP-03e1edae",
+        "HARP-042e2c21",
+        "HARP-07bd9f45",
+        "HARP-d436d232",
+        "HARP-b80eb9ae"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-02",
+      "part": "D1",
+      "proposition": "Heby hade skyfallsprinciper före 2023",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "HebyFS 2017:14 och Tyréns Harbo 2021",
+      "counter_test": "Avgränsad fysisk plats/plan; ingen automatisk effekt på elcentralen",
+      "work_packages": [
+        "WP03",
+        "WP05"
+      ],
+      "milestone": "MS4",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-3e415557",
+        "HARP-4ee8fec2",
+        "HARP-02eaed27"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-03",
+      "part": "D1",
+      "proposition": "Kunskap kan ha fallit bort mellan miljö-/vattenkvalitetsförvaltning och krisberedskap",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "VISS 2020, vattenråd juni 2023, Hebys presentationsinnehåll",
+      "counter_test": "Andra riskdokument kan ha hanterat översvämning korrekt",
+      "work_packages": [
+        "WP05",
+        "WP23"
+      ],
+      "milestone": "MS4",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-7b237f3e",
+        "HARP-82777b90",
+        "HARP-cac757d0",
+        "HARP-0d1279b4"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-04",
+      "part": "D1",
+      "proposition": "Elcentralens risk kan ha varit möjlig att begränsa före 2023",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Elcentralens faktiska händelse och efterföljande skydd rapporterat",
+      "counter_test": "Teknisk ålder/placering/varianter/rådighet/kostnad ännu ej visade",
+      "work_packages": [
+        "WP04",
+        "WP11"
+      ],
+      "milestone": "MS3",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-32612a57",
+        "HARP-6cfa66be"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-05",
+      "part": "D1",
+      "proposition": "Fyra dygn och sista timmarna kan avslöja verkligt handlingsutrymme",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Publicerade tidsuppgifter om säkra elfrånkopplingar och driftstopp",
+      "counter_test": "Inga verifierade timstämplar eller alternativa tekniska effekter",
+      "work_packages": [
+        "WP06"
+      ],
+      "milestone": "MS3",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-32612a57",
+        "HARP-6cfa66be",
+        "HARP-95fd7679",
+        "HARP-79c3caf5"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-06",
+      "part": "D1",
+      "proposition": "Jämförelsefall och branschkunskap kunde vara relevanta",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Gävle 2021, MSB2016, SVU2019-4",
+      "counter_test": "Vilket fanns, vem nåddes och vad var tekniskt jämförbart?",
+      "work_packages": [
+        "WP10",
+        "WP23"
+      ],
+      "milestone": "MS4",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-d2f7ebf3",
+        "HARP-ff050c2c",
+        "HARP-6e8176ca",
+        "HARP-6cfa66be",
+        "HARP-d190c88a",
+        "HARP-28ff28c8",
+        "HARP-8ba29df4"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-07",
+      "part": "D1",
+      "proposition": "Kostnader och skyldigheter måste prövas mot dåtidens förutsättningar",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "ABVA 2009, dagvattenpolicy 2017, VA-taxa/ramar",
+      "counter_test": "Ingen fastställd försummelse eller juridisk påföljd",
+      "work_packages": [
+        "WP08",
+        "WP11"
+      ],
+      "milestone": "MS4",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-c0daec35",
+        "HARP-80231146"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-08",
+      "part": "D2",
+      "proposition": "Ett levande civilsamhälle är kapacitet innan akut insats",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Röda Korset 2004–22, föreningsbaslinje 2022, Heby AIF",
+      "counter_test": "Föreningars faktiska aktivitetsgrad och självbestämmande",
+      "work_packages": [
+        "WP14",
+        "WP15"
+      ],
+      "milestone": "MS5",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-ce488a1c",
+        "HARP-b35466c1",
+        "HARP-0265656b",
+        "HARP-8adb5f0e",
+        "HARP-5100adb0",
+        "HARP-0788237b",
+        "HARP-1cc7564e"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-09",
+      "part": "D2",
+      "proposition": "Logisk närhet och praktisk närhet kan divergera",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Uhnoo/Persson 2022 fem dilemman; MSB2016",
+      "counter_test": "Operationalisering och Hebyintervjuer krävs",
+      "work_packages": [
+        "WP16",
+        "WP22"
+      ],
+      "milestone": "MS5",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-63d75dc6",
+        "HARP-d2f7ebf3",
+        "HARP-0b2d6fdc",
+        "HARP-ff050c2c",
+        "HARP-ff6bc839",
+        "HARP-6e8176ca",
+        "HARP-d190c88a"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-10",
+      "part": "D2",
+      "proposition": "Indirekt stöd kan frigöra direkt krisförmåga",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Västmanlandsbrandens dokumenterade logistik, mat, kunskap och utrustning",
+      "counter_test": "Barnomsorgsexemplet är HYPOTETISKT, ej dokumenterat Heby 2023",
+      "work_packages": [
+        "WP16",
+        "WP17"
+      ],
+      "milestone": "MS5",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-0b2d6fdc",
+        "HARP-00ced796",
+        "HARP-ff050c2c",
+        "HARP-6e8176ca",
+        "HARP-f69060c3",
+        "HARP-e83624b0"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-11",
+      "part": "D2",
+      "proposition": "Civilsamhället kan bidra med svaga signaler och bredare datalager",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Vattenråd, citizen science, observationer och SenseMaker-ram",
+      "counter_test": "Observation är inte hydrologisk verifiering eller scenario",
+      "work_packages": [
+        "WP18",
+        "WP20",
+        "WP21"
+      ],
+      "milestone": "MS6",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-7b237f3e",
+        "HARP-82777b90",
+        "HARP-c2958897",
+        "HARP-dbc056cd",
+        "HARP-d6c88bd1",
+        "HARP-e24d9f47",
+        "HARP-f3366db8"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-12",
+      "part": "D2",
+      "proposition": "Mångkällighet kan förbättra framsyn men också skapa brus",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "OECD horizon scanning, citizen sensing, diversitetsargument",
+      "counter_test": "Representativitet, falska positiva, rättigheter, faktiska beslut",
+      "work_packages": [
+        "WP20",
+        "WP21"
+      ],
+      "milestone": "MS6",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-31355893",
+        "HARP-2c73146b",
+        "HARP-0bd4361f"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-13",
+      "part": "D2",
+      "proposition": "Resurssvaga föreningar kan inte antas vara mobiliseringsbara",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Heby AIF skador/återhämtning och empirisk samverkansforskning",
+      "counter_test": "Kvantifiera resurser, lokaler, basverksamhet och undanträngning",
+      "work_packages": [
+        "WP14",
+        "WP15",
+        "WP17"
+      ],
+      "milestone": "MS5",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-ce488a1c",
+        "HARP-b35466c1",
+        "HARP-0265656b",
+        "HARP-8adb5f0e",
+        "HARP-5100adb0",
+        "HARP-0788237b",
+        "HARP-fe559106"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-14",
+      "part": "D2",
+      "proposition": "Offentlig mottagningskapacitet är en central förutsättningsstruktur",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Sala PwC2020 och MSB2016/2022 empiriska lärdomar",
+      "counter_test": "Sala inte Heby, organisationsöverföring ej belagd",
+      "work_packages": [
+        "WP15",
+        "WP22"
+      ],
+      "milestone": "MS5",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-e450d7cd",
+        "HARP-63e45c33",
+        "HARP-d190c88a",
+        "HARP-9c2a1236",
+        "HARP-355576b2",
+        "HARP-ce488a1c",
+        "HARP-240d6718"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    },
+    {
+      "id": "ARG-15",
+      "part": "BRIDGE",
+      "proposition": "Del 1 och 2 kan visa hur ett samhälle känner sin egen kontext",
+      "type": "TESTABLE_PROPOSITION_NOT_CONCLUSION",
+      "preliminary_support": "Historiska modeller, civila observationer och faktiska beslutsfall",
+      "counter_test": "Ingen slutlig kausal slutsats får bygga på narrativa paralleller",
+      "work_packages": [
+        "WP19"
+      ],
+      "milestone": "MS7",
+      "source_harp_ids": [],
+      "evidence_level": "PRELIMINARY_OR_OPEN",
+      "verified_claim": "NO",
+      "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-32612a57",
+        "HARP-07bd9f45",
+        "HARP-7236cda2",
+        "HARP-cac757d0",
+        "HARP-145fa995",
+        "HARP-47740b5e",
+        "HARP-03e1edae"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
+    }
+  ]
+}

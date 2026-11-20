@@ -1,0 +1,163 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-11-20",
+  "milestones": [
+    {
+      "id": "MS0",
+      "sequence": 0,
+      "title": "Källarkitektur och taggning",
+      "deliverable": "HARP master, ID-crosswalk, taxonomy, wiki-staging och valideringsscript",
+      "exit_criteria": "All known source batches registered; no false RefA clearance",
+      "existing_wp_scope": "WP00",
+      "status": "in_progress",
+      "depends_on": [],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 2,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/2",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS1",
+      "sequence": 1,
+      "title": "Datagap och originalåtkomst",
+      "deliverable": "Beställda dokument, råserier, original-SGU/SMHI/GIS, kommunala RSA och driftloggar",
+      "exit_criteria": "Each P1 gap has request, responsible source authority and documented answer",
+      "existing_wp_scope": "WP01-WP06",
+      "status": "not_started",
+      "depends_on": [
+        "MS0"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 3,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/3",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS2",
+      "sequence": 2,
+      "title": "Historisk risk- och scenario-baslinje",
+      "deliverable": "Kronologi 1900–2023, hydrogeografi och modellernas faktiskt dokumenterade täckning",
+      "exit_criteria": "Pre/post split and geographically verified hypotheses, no basin conflation",
+      "existing_wp_scope": "WP01-WP03,WP10",
+      "status": "not_started",
+      "depends_on": [
+        "MS0"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 4,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/4",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS3",
+      "sequence": 3,
+      "title": "Teknisk elcentral och krisens förlopp",
+      "deliverable": "Anläggningsbiografi, tidslinje varning→larm→säker frånkoppling→återstart",
+      "exit_criteria": "Critical events time-stamped or explicitly unknown; electrical safety external-reviewed",
+      "existing_wp_scope": "WP04,WP06,WP07",
+      "status": "not_started",
+      "depends_on": [
+        "MS1",
+        "MS2"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 5,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/5",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS4",
+      "sequence": 4,
+      "title": "Institutionell kunskap och handlingsalternativ",
+      "deliverable": "RSA→beslut→budget→åtgärd med samtida normer, jämförelse Gävle och Västmanland",
+      "exit_criteria": "No negligence asserted without applicable obligation, available action and causation",
+      "existing_wp_scope": "WP05,WP08,WP10,WP11,WP23",
+      "status": "not_started",
+      "depends_on": [
+        "MS2",
+        "MS3"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 6,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/6",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS5",
+      "sequence": 5,
+      "title": "Civilsamhällets baslinje och empiriska kedja",
+      "deliverable": "Föreningslivets nuläge/historik, FRG, Tegelvallen, VNV, Röda Korset och samverkansloggar",
+      "exit_criteria": "Registered/active/available/activated distinguished; 2023 claims corroborated",
+      "existing_wp_scope": "WP14-WP17,WP22",
+      "status": "not_started",
+      "depends_on": [
+        "MS0",
+        "MS1"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 7,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/7",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS6",
+      "sequence": 6,
+      "title": "Civic sensing och strategisk framsyn",
+      "deliverable": "Data-/observationsram, signalregister, pilotmetod, scenarier och governance",
+      "exit_criteria": "At least one counterexample, bias and privacy check; signal not treated as forecast",
+      "existing_wp_scope": "WP18,WP20,WP21",
+      "status": "not_started",
+      "depends_on": [
+        "MS5"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 8,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/8",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS7",
+      "sequence": 7,
+      "title": "Argumentbank och integrerad syntes",
+      "deliverable": "Evidens- och motargumentmatriser för Del 1 och Del 2",
+      "exit_criteria": "Every central claim has traceable source, strongest counterargument and RefA gate",
+      "existing_wp_scope": "WP12,WP13,WP19",
+      "status": "not_started",
+      "depends_on": [
+        "MS3",
+        "MS4",
+        "MS5",
+        "MS6"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 9,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/9",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    },
+    {
+      "id": "MS8",
+      "sequence": 8,
+      "title": "Granskad rapport och två artikelförutsättningar",
+      "deliverable": "Heby under ytan Del 1 och Del 2; artikel 1 Ett elverks tragedi",
+      "exit_criteria": "Independent technical/legal/factual review, HARP RefA, right of reply, public safety audit",
+      "existing_wp_scope": "WP12,WP13,WP19",
+      "status": "not_started",
+      "depends_on": [
+        "MS7"
+      ],
+      "due_date": null,
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 10,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/10",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
+    }
+  ]
+}

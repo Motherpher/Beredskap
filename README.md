@@ -1,1 +1,59 @@
 # Beredskap
+### Kunskapsutveckling och operativ design för civilsamhällets roll i kris och samhällelig resiliens
+
+**Form & Flöde · Fördjupning · Samverkan · Data · System · Strategi · Operativ design**
+
+Beredskap är en öppen, läsbar och spårbar arbetsyta för att förstå **hur samhällens förutsättningar, aktörer, resurser och kunskap utvecklar förmåga före, under och efter kriser**. Fokus ligger på **fredstida samhällsstörningar**, särskilt översvämningar och skogsbränder, med civilsamhället och den idéburna sektorn som ett eget samhällsperspektiv.
+
+> **Viktig avgränsning:** *Heby under ytan* är ett **fördjupningsarbete och kunskapsutveckling**, inte ett formellt forskningsprojekt. Deep Research är en insamlings- och analysmetod för rapportunderlag. Rapporter och artiklar är möjliga kunskapsprodukter, inte syftet i sig.
+
+## Öppna arbetet
+| Läsning | Vad du hittar |
+|---|---|
+| **[DASHBOARD – status och läge](DASHBOARD.md)** | Milstolpar, källor, kartor, nästa beslut och länkar till allt arbete |
+| **[STARTA HÄR – läs- och arbetsguide](START_HERE.md)** | Vägledning för att läsa, hitta och arbeta i repot |
+| **[Kunskapskarta – alla Markdown-sidor](INDEX.md)** | Samlad navigering till analyser, kataloger, governance och leveranser |
+| **[Uppdrag och perspektiv](MISSION.md)** | Varför detta arbete finns, vad som ska utvecklas och begreppen från Form & Flöde |
+| **[Fördjupningen Heby under ytan](kunskap/HEBY_UNDER_YTAN.md)** | Del 1, Del 2, historia 1900–2026, krisen 2023 och berättelsen om elcentralen |
+| **[Civilsamhället och idéburen beredskap](kunskap/CIVILSAMHALLET.md)** | Förutsättningar, närhet, förmågor, data och nyckelnyttor |
+| **[Kartor och den geografiska kontexten](kunskap/KARTOR_OCH_GEOGRAFI.md)** | Multinivåperspektiv på Heby och Uppsala län; FF-Spatial/QGIS-spåret |
+| **[Källbiblioteket](kallor/README.md)** | Läsbara Markdown-kataloger, HARP, taggar och källstatus |
+| **[Databehov](kunskap/DATA_OCH_BELAGG.md)** | Vad som behövs, vad som hittats och vad som måste verifieras |
+| **[Argumentbanken](kunskap/ARGUMENT_OCH_MOTPROVNING.md)** | Vilka resonemang prövas och vad skulle tala emot dem? |
+| **[Roadmapen](roadmap/MASTER_ROADMAP.md)** | Arbetsströmmar, WP00–WP23, milstolpar och ansvar |
+
+## Vad är Heby under ytan?
+**Heby under ytan – perspektiv på översvämningen 2023** använder ett verkligt krisförlopp för att förstå beredskap som en relation mellan **natur, offentlig styrning, infrastruktur, lokal kunskap och civilsamhällets vardagliga kapacitet**.
+
+| Fördjupning | Kärnfråga | Produkt |
+|---|---|---|
+| **Del 1 – Vilken kunskap rann förbi?** | Vilken riskkunskap och data fanns, var tog den vägen och hur omsattes den? | Rapportunderlag och artikeln *Ett elverks tragedi* |
+| **Del 2 – Hur ser vi det som bara rinner på?** | Hur kan civilsamhällets förutsättningar, relationer och kunskap stärka beredskapen? | Rapportunderlag, behovs-/nyckelnyttemodell och samverkansperspektiv |
+| **Multinivåkartor** | Vad blir synligt när samhällsgeografi, civilsamhälle, sårbarheter och förändring möts? | QGIS/FF-Spatial-piloter och kartbaserat kunskapsstöd |
+
+## Status – 20 november 2026
+| Register och leverans | Verifierat nuläge |
+|---|---:|
+| Kanoniskt registrerade källor | **177** |
+| Fullständigt HARP RefA-klarerade | **0** |
+| Prioriterade databehov | **20** |
+| Prövbara argument och motargument | **15** |
+| Öppnade ärenden för milstolpar | **9** |
+| Färdigverifierade Heby-kartprodukter | **0** |
+| API-kopplingar testade för Heby | **0** |
+
+**Status är en nulägesbild, inte en realtidsavläsning.** Fullkvalificerade belägg, QGIS-datainläsning och slutprodukter återstår. Se [dashboarden](DASHBOARD.md).
+
+## Infrastruktur och ansvar
+- **Beredskap** äger fördjupningens problemformulering, kontext, aktörer, tematiska kartbehov, argument, HARP-källregister och publikationer.
+- **[FF-Spatial](https://github.com/Motherpher/FF-Spatial)** äger auktoritativa geodata, geografisk versionshantering, QGIS-exekvering, lager- och kartkontrakt.
+- **[FFOS](https://github.com/Motherpher/FFOS)** är operativ samordning, **inte** automatisk överordnad dataägare eller aktiverad integration.
+- **Director** fastställer ambition, godkända API:er, utvecklingsgränser, publicering och aktivering av eventuella arbetsflöden.
+
+**[Öppna QGIS-arbetsgrenen](https://github.com/Motherpher/Beredskap/tree/spatial/qgis-heby-uppsala-v1)** – förberedelser för Heby/Uppsala, utan påstådd liveanslutning.
+
+### Käll- och säkerhetsprincip
+En källa som har hittats är inte automatiskt verifierad eller användbar för ett specifikt påstående. *Ex ante* kunskap skiljs från efterhandskunskap. Offentliga kartor över civilsamhället ska inte exponera privata hushåll, känsliga verksamheter eller skyddsvärda detaljer kring kritisk infrastruktur.
+
+---
+**Börja med [DASHBOARD](DASHBOARD.md), därefter [STARTA HÄR](START_HERE.md).** All central läsning finns som Markdown, även när maskinregister lagras i JSON/CSV.

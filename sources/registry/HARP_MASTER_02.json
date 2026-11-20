@@ -1,0 +1,2031 @@
+[
+  {
+    "harp_id": "HARP-8ee19016",
+    "title": "MSB2124 ELISA slutrapport",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/31056.pdf",
+    "aliases": [
+      "USR20261120-16"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-16"
+      }
+    ],
+    "date_candidates": [
+      "PRE_2023_WITH_REVISION"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE"
+    ],
+    "reported_notes": [
+      "Ursprung december 2022; tillgänglig PDF reviderad april 2025; särskilj versioner"
+    ],
+    "types": [
+      "RESEARCH_REPORT_2022_VERSION_2025"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "subject:inclusion",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB2124 ELISA slutrapport",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/31056.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-ceeb0da7",
+    "title": "MCF årsredovisning 2025 (MSB2652)",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/31275.pdf",
+    "aliases": [
+      "U7-17"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-17"
+      }
+    ],
+    "date_candidates": [
+      "2026-02"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "2025 annual report of MSB transition to MCF; contextual only"
+    ],
+    "types": [
+      "POST_EVENT_ORG_REPORT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MCF årsredovisning 2025 (MSB2652)",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/31275.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-84559548",
+    "title": "RIB 31555",
+    "canonical_locator": "https://rib.msb.se/filer/pdf/31555.pdf",
+    "aliases": [
+      "USR20261120-11"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-11"
+      }
+    ],
+    "date_candidates": [
+      "UNKNOWN"
+    ],
+    "reported_reviews": [
+      "OPEN_FAILED"
+    ],
+    "reported_notes": [
+      "Titel, typ, datering och relevans inte verifierad"
+    ],
+    "types": [
+      "UNIDENTIFIED_DOCUMENT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "RIB 31555",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/filer/pdf/31555.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-c2f1c5b5",
+    "title": "MSB Tryggare kan ingen? Svenskarnas uppfattning om trygghet",
+    "canonical_locator": "https://rib.msb.se/Filer/pdf%5C26161.pdf",
+    "aliases": [
+      "U7-32"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-32"
+      }
+    ],
+    "date_candidates": [
+      "2011-10"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "2011 perceptions of safety, distinguish from actual hazard exposure and readiness"
+    ],
+    "types": [
+      "PRE_EVENT_ATTITUDES"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MSB Tryggare kan ingen? Svenskarnas uppfattning om trygghet",
+      "publisher_verified": null,
+      "original_locator": "https://rib.msb.se/Filer/pdf%5C26161.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-9ebf4432",
+    "title": "Säkerhetsvärlden – ledigt jobb AF 31708900",
+    "canonical_locator": "https://sakerhetsvarlden.se/ledigt-jobb-af-31708900",
+    "aliases": [
+      "U6-19"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-19"
+      }
+    ],
+    "date_candidates": [
+      "2026_UNVERIFIED"
+    ],
+    "reported_reviews": [
+      "DIRECT_CACHE_MISS_MATCHED_OTHER_INDEX"
+    ],
+    "reported_notes": [
+      "Search result suggests Heby beredskapssamordnare role, exact ad not accessed"
+    ],
+    "types": [
+      "SECONDARY_JOB_AD"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Säkerhetsvärlden – ledigt jobb AF 31708900",
+      "publisher_verified": null,
+      "original_locator": "https://sakerhetsvarlden.se/ledigt-jobb-af-31708900",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-ce488a1c",
+    "title": "Sala-Heby Fotboll – Tre år sedan katastrofen på Tegelvallen",
+    "canonical_locator": "https://salahebyfotboll.se/2026/09/04/tre-ar-sedan-katastrofen-pa-tegelvallen-tusentals-mantimmar-har-lagts-ner",
+    "aliases": [
+      "X4-09"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_4_2026-11-20.json",
+        "legacy_id": "X4-09"
+      }
+    ],
+    "date_candidates": [
+      "2026-09-04"
+    ],
+    "reported_reviews": [
+      "SEARCH_VERIFIED_DIRECT_OPEN_FAILED"
+    ],
+    "reported_notes": [
+      "Beskriver ideella arbetsinsatser och återhämtning; sök originaltidrapporter, finansiering och medlems-/verksamhetsutfall."
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:sala",
+      "part:d2",
+      "subject:civil-society",
+      "subject:finance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala-Heby Fotboll – Tre år sedan katastrofen på Tegelvallen",
+      "publisher_verified": null,
+      "original_locator": "https://salahebyfotboll.se/2026/09/04/tre-ar-sedan-katastrofen-pa-tegelvallen-tusentals-mantimmar-har-lagts-ner",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-46a46b2c",
+    "title": "Boverket Segregationsbarometern Heby",
+    "canonical_locator": "https://segregationsbarometern.boverket.se/kommun/heby",
+    "aliases": [
+      "U5-09"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "U5-09"
+      }
+    ],
+    "date_candidates": [
+      "2024_REFERENCE"
+    ],
+    "reported_reviews": [
+      "FULL_WEB_OPENED"
+    ],
+    "reported_notes": [
+      "2024 14345 residents; 19.7% in areas classified type 2 socioeconomic challenges, 60% type 3, 20.3% type 4; not direct measure of flood exposure"
+    ],
+    "types": [
+      "OFFICIAL_SOCIOECONOMIC_CONTEXT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "part:d2",
+      "subject:governance",
+      "subject:hydrology",
+      "subject:inclusion",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Boverket Segregationsbarometern Heby",
+      "publisher_verified": null,
+      "original_locator": "https://segregationsbarometern.boverket.se/kommun/heby",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-0abe3328",
+    "title": "Stockholms Handelskammare – Uppsala län ett kluster för totalförsvar",
+    "canonical_locator": "https://stockholmshandelskammare.se/wp-content/uploads/2026/01/shk_rapport_uppsala_lan_ett_kluster_for_totalt_forsvar.pdf",
+    "aliases": [
+      "U6-25"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-25"
+      }
+    ],
+    "date_candidates": [
+      "2026-01"
+    ],
+    "reported_reviews": [
+      "PDF_TOO_LARGE_FOR_TOOL"
+    ],
+    "reported_notes": [
+      "Context-only: civil/military clusters; avoid making military preparedness core"
+    ],
+    "types": [
+      "REGIONAL_ECONOMIC_POST_REPORT_PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:sala",
+      "geo:uppsala-lan",
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Stockholms Handelskammare – Uppsala län ett kluster för totalförsvar",
+      "publisher_verified": null,
+      "original_locator": "https://stockholmshandelskammare.se/wp-content/uploads/2026/01/shk_rapport_uppsala_lan_ett_kluster_for_totalt_forsvar.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-069c990d",
+    "title": "Räddningsverket/Sweco översiktlig översvämningskartering Tämnarån",
+    "canonical_locator": "https://tamnaren.se/wp-content/uploads/2013/03/%C3%96VERSV%C3%84MNINGSKARTERING-L%C3%84NGS-T%C3%84MNAR%C3%85N.pdf",
+    "aliases": [
+      "U3-06"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-06"
+      }
+    ],
+    "date_candidates": [
+      "2006-09-29"
+    ],
+    "reported_reviews": [
+      "fulltext indexed; report dated 2006 NOT 2013; web screenshot failed; NOT Örsundaån"
+    ],
+    "reported_notes": [],
+    "types": [
+      "historical hydrology PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "geo:tamnaran",
+      "part:d1",
+      "subject:hydrology",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Räddningsverket/Sweco översiktlig översvämningskartering Tämnarån",
+      "publisher_verified": null,
+      "original_locator": "https://tamnaren.se/wp-content/uploads/2013/03/%C3%96VERSV%C3%84MNINGSKARTERING-L%C3%84NGS-T%C3%84MNAR%C3%85N.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-eb5fc517",
+    "title": "Naturvårdsverket rapport 5489 En bok om svensk vattenförvaltning",
+    "canonical_locator": "https://tamnaren.se/wp-content/uploads/2013/03/Vattenf%C3%B6rvaltning.pdf",
+    "aliases": [
+      "U3-07"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-07"
+      }
+    ],
+    "date_candidates": [
+      "2005-11"
+    ],
+    "reported_reviews": [
+      "fulltext indexed; 2005 report; web screenshot failed"
+    ],
+    "reported_notes": [],
+    "types": [
+      "public policy/history PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:tamnaran",
+      "part:d1",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Naturvårdsverket rapport 5489 En bok om svensk vattenförvaltning",
+      "publisher_verified": null,
+      "original_locator": "https://tamnaren.se/wp-content/uploads/2013/03/Vattenf%C3%B6rvaltning.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-dbc056cd",
+    "title": "Cynefin SenseMaker methodology",
+    "canonical_locator": "https://thecynefin.co/about-sensemaker",
+    "aliases": [
+      "METHOD-01"
+    ],
+    "origins": [
+      {
+        "file": "sources/CIVIC_SENSING_SOURCES_2026-11-20.json",
+        "legacy_id": "METHOD-01"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "current source"
+    ],
+    "reported_notes": [],
+    "types": [
+      "vendor methodology"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "subject:foresight"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Cynefin SenseMaker methodology",
+      "publisher_verified": null,
+      "original_locator": "https://thecynefin.co/about-sensemaker",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-5c045348",
+    "title": "VA-guiden beredskap archive",
+    "canonical_locator": "https://vaguiden.se/tagg/beredskap/page/3",
+    "aliases": [
+      "U7-13"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-13"
+      }
+    ],
+    "date_candidates": [
+      "MIXED"
+    ],
+    "reported_reviews": [
+      "INDEX_ONLY"
+    ],
+    "reported_notes": [
+      "Find individually dated pre-2023 preparedness guidance"
+    ],
+    "types": [
+      "PROFESSIONAL_PORTAL"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "VA-guiden beredskap archive",
+      "publisher_verified": null,
+      "original_locator": "https://vaguiden.se/tagg/beredskap/page/3",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-d3a33da1",
+    "title": "Vansjön Nordsjöns Vattenvårdsförening – hemsida",
+    "canonical_locator": "https://vansjonordsjo.se",
+    "aliases": [
+      "U4-07"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_4_2026-11-20.json",
+        "legacy_id": "U4-07"
+      }
+    ],
+    "date_candidates": [
+      "CURRENT_2026_WITH_HISTORICAL_BACKGROUND"
+    ],
+    "reported_reviews": [
+      "EXACT_SOURCE_OPENED"
+    ],
+    "reported_notes": [
+      "Dokumenterar sjöarnas vattenmiljö, föreningsarbete, mätning av vattennivå/väder/temperatur och regleringsprojekt; källor/årtal och mätmetoder måste kontrolleras separat; aktuella projekt inte retroaktivt belägg 2023"
+    ],
+    "types": [
+      "local_civil_society_water_association"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "subject:civil-society",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Vansjön Nordsjöns Vattenvårdsförening – hemsida",
+      "publisher_verified": null,
+      "original_locator": "https://vansjonordsjo.se",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-be564123",
+    "title": "Vansjön Nordsjön – nekad prövningstillstånd vattenreglering",
+    "canonical_locator": "https://vansjonordsjo.se/inget-provningstillstand-fran-mark-och-miljodomstolen",
+    "aliases": [
+      "X4-07"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_4_2026-11-20.json",
+        "legacy_id": "X4-07"
+      }
+    ],
+    "date_candidates": [
+      "2023-05-28"
+    ],
+    "reported_reviews": [
+      "ORIGINAL_WEB_OPENED"
+    ],
+    "reported_notes": [
+      "Föreningens samtida redovisning av MÖD nekat prövningstillstånd och syn på rättsliga hinder; begär domarna, ansökningar och underliggande beräkningar. Hydrologisk effekt i Heby tätort obestyrkt."
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "geo:heby",
+      "part:d1",
+      "part:d2",
+      "subject:civil-society",
+      "subject:hydrology"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Vansjön Nordsjön – nekad prövningstillstånd vattenreglering",
+      "publisher_verified": null,
+      "original_locator": "https://vansjonordsjo.se/inget-provningstillstand-fran-mark-och-miljodomstolen",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-6cfa66be",
+    "title": "Lindblom, Molin & Samuelsson – Resilient dimensionering av avloppsreningsverk, SVU 2023-1",
+    "canonical_locator": "https://vattenbokhandeln.svensktvatten.se/wp-content/uploads/2023/05/svu-rapport-2023-01.pdf",
+    "aliases": [
+      "X4-03"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_4_2026-11-20.json",
+        "legacy_id": "X4-03"
+      }
+    ],
+    "date_candidates": [
+      "2022_IMPRINT_2023_REPORT_NO_2023_05_URL"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "Osäkerhets- och känslighetsanalys, processimulering av rening; behandlar främst biologisk rening och dimensioneringsantaganden, EJ bevis för fysisk översvämningssäkerhet eller elcentralens nivå."
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "genre:academic",
+      "part:d1",
+      "subject:hydrology",
+      "subject:power",
+      "subject:va",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Lindblom, Molin & Samuelsson – Resilient dimensionering av avloppsreningsverk, SVU 2023-1",
+      "publisher_verified": null,
+      "original_locator": "https://vattenbokhandeln.svensktvatten.se/wp-content/uploads/2023/05/svu-rapport-2023-01.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-28b30738",
+    "title": "Vattenkollen homepage and coverage",
+    "canonical_locator": "https://vattenkollen.se",
+    "aliases": [
+      "U3-11"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-11"
+      }
+    ],
+    "date_candidates": [
+      "2026"
+    ],
+    "reported_reviews": [
+      "commercial private site; check original Heby/VA lab reports and potential commercial interests"
+    ],
+    "reported_notes": [],
+    "types": [
+      "commercial aggregator"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Vattenkollen homepage and coverage",
+      "publisher_verified": null,
+      "original_locator": "https://vattenkollen.se",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-bcd5b786",
+    "title": "Vattenkollen Heby dricksvatteninformation",
+    "canonical_locator": "https://vattenkollen.se/vattenkvalitet/heby",
+    "aliases": [
+      "U3-10"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-10"
+      }
+    ],
+    "date_candidates": [
+      "2026"
+    ],
+    "reported_reviews": [
+      "search identifies source and official-data link, direct open cache miss; not an official authority"
+    ],
+    "reported_notes": [],
+    "types": [
+      "commercial aggregator"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Vattenkollen Heby dricksvatteninformation",
+      "publisher_verified": null,
+      "original_locator": "https://vattenkollen.se/vattenkvalitet/heby",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-5222c71b",
+    "title": "Vattenpriset.se – Vattenpriset och VA-taxan i Heby",
+    "canonical_locator": "https://vattenpriset.se/kommun/heby",
+    "aliases": [
+      "U4-03"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_4_2026-11-20.json",
+        "legacy_id": "U4-03"
+      }
+    ],
+    "date_candidates": [
+      "2026_WITH_2022_2026_SERIES"
+    ],
+    "reported_reviews": [
+      "EXACT_SOURCE_OPENED_SECONDARY_NO_ORIGINAL_DOCUMENT_2026"
+    ],
+    "reported_notes": [
+      "Presenterar schablonkostnad vid 150 m3/år; 2022 7696 kr, 2023 7696 kr, 2024 11505 kr, 2025 12081 kr, 2026 12458 kr; 2026 originaltaxa anges saknas; ingen slutsats om orsak till taxeutveckling eller krisinvesteringar"
+    ],
+    "types": [
+      "private_secondary_price_aggregator"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:finance",
+      "subject:governance",
+      "subject:va",
+      "time:post2023-candidate",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Vattenpriset.se – Vattenpriset och VA-taxan i Heby",
+      "publisher_verified": null,
+      "original_locator": "https://vattenpriset.se/kommun/heby",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-d2f7ebf3",
+    "title": "SVU 2019-4 Anna Thomasson – Samverkan vid krishantering",
+    "canonical_locator": "https://vav.griffel.net/filer/svu-rapport-2019-04.pdf",
+    "aliases": [
+      "U7-08"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-08"
+      }
+    ],
+    "date_candidates": [
+      "2019"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "Drinking water and crisis coordination; strong pre-event comparative evidence, not Heby wastewater electrical rooms"
+    ],
+    "types": [
+      "PRE_EVENT_VA_RESEARCH"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "geo:heby",
+      "part:d1",
+      "subject:va",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SVU 2019-4 Anna Thomasson – Samverkan vid krishantering",
+      "publisher_verified": null,
+      "original_locator": "https://vav.griffel.net/filer/svu-rapport-2019-04.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-23b537f3",
+    "title": "ABF förslag ny svensk modell totalförsvar",
+    "canonical_locator": "https://www.abf.se/nyheter/abf-infor-en-ny-svensk-modell-for-totalforsvaret",
+    "aliases": [
+      "U7-30"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-30"
+      }
+    ],
+    "date_candidates": [
+      "2026"
+    ],
+    "reported_reviews": [
+      "HTML_VERIFIED"
+    ],
+    "reported_notes": [
+      "ABF advocacy position, not government decision"
+    ],
+    "types": [
+      "POST_EVENT_CIVIC_ADVOCACY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "subject:civil-society",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "ABF förslag ny svensk modell totalförsvar",
+      "publisher_verified": null,
+      "original_locator": "https://www.abf.se/nyheter/abf-infor-en-ny-svensk-modell-for-totalforsvaret",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-cb981ef6",
+    "title": "ABF Väst – Stärk din beredskap",
+    "canonical_locator": "https://www.abf.se/vast/nyheter/stark-din-beredskap-studiecirklar-och-forelasning-hos-abf-vast",
+    "aliases": [
+      "U7-05"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-05"
+      }
+    ],
+    "date_candidates": [
+      "UNKNOWN"
+    ],
+    "reported_reviews": [
+      "CACHE_MISS"
+    ],
+    "reported_notes": [
+      "Local preparedness education example, date and attendance unknown"
+    ],
+    "types": [
+      "CIVIC_EDUCATION"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:civil-society",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "ABF Väst – Stärk din beredskap",
+      "publisher_verified": null,
+      "original_locator": "https://www.abf.se/vast/nyheter/stark-din-beredskap-studiecirklar-och-forelasning-hos-abf-vast",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-a4645724",
+    "title": "ABF Demokratisk beredskap reformförslag",
+    "canonical_locator": "https://www.abf.se/wp-content/uploads/2026/03/Demokratisk-beredskap-%E2%80%93-en-reform-for-en-ny-svensk-modell-for-civil-beredskap-och-totalforsvar-ABF.pdf",
+    "aliases": [
+      "U7-31"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-31"
+      }
+    ],
+    "date_candidates": [
+      "2026-03"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "Proposal 1 bn SEK spread 200m per year x5, NOT adopted state funding"
+    ],
+    "types": [
+      "POST_EVENT_CIVIC_ADVOCACY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:civil-society",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "ABF Demokratisk beredskap reformförslag",
+      "publisher_verified": null,
+      "original_locator": "https://www.abf.se/wp-content/uploads/2026/03/Demokratisk-beredskap-%E2%80%93-en-reform-for-en-ny-svensk-modell-for-civil-beredskap-och-totalforsvar-ABF.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-0ffd0c8b",
+    "title": "DiVA fulltext diva2:967473",
+    "canonical_locator": "https://www.diva-portal.org/smash/get/diva2:967473/FULLTEXT01.pdf",
+    "aliases": [
+      "U7-12"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-12"
+      }
+    ],
+    "date_candidates": [
+      "UNKNOWN"
+    ],
+    "reported_reviews": [
+      "CACHE_MISS"
+    ],
+    "reported_notes": [
+      "No reliable bibliographic title or findings; preserve as unverified"
+    ],
+    "types": [
+      "ACADEMIC_UNKNOWN"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:academic",
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "DiVA fulltext diva2:967473",
+      "publisher_verified": null,
+      "original_locator": "https://www.diva-portal.org/smash/get/diva2:967473/FULLTEXT01.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-12e41459",
+    "title": "Energimyndigheten – portal",
+    "canonical_locator": "https://www.energimyndigheten.se",
+    "aliases": [
+      "U7-02"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-02"
+      }
+    ],
+    "date_candidates": [
+      "CURRENT"
+    ],
+    "reported_reviews": [
+      "INDEX_ONLY"
+    ],
+    "reported_notes": [
+      "Find historical energy continuity and redundant power guidance, not local electric room information"
+    ],
+    "types": [
+      "ENERGY_GATEWAY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:power"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Energimyndigheten – portal",
+      "publisher_verified": null,
+      "original_locator": "https://www.energimyndigheten.se",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-ecd88ab9",
+    "title": "Enköpings-Posten Heby under vatten reportage",
+    "canonical_locator": "https://www.eposten.se/nyheter/heby/artikel/brutala-uppvaknandet-efter-kraftskivan-heby-ligger-under-vatten/r3ow4oor",
+    "aliases": [
+      "U3-12"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-12"
+      }
+    ],
+    "date_candidates": [
+      "2023-09"
+    ],
+    "reported_reviews": [
+      "blocked/cache miss; no verified fulltext or precise event statements"
+    ],
+    "reported_notes": [],
+    "types": [
+      "local media"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:media",
+      "geo:heby",
+      "part:unassigned",
+      "time:event2023"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Enköpings-Posten Heby under vatten reportage",
+      "publisher_verified": null,
+      "original_locator": "https://www.eposten.se/nyheter/heby/artikel/brutala-uppvaknandet-efter-kraftskivan-heby-ligger-under-vatten/r3ow4oor",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-042e2c21",
+    "title": "Heby: Dialogmöte med anledning av Tämnarens höga vattenstånd",
+    "canonical_locator": "https://www.heby.se/arkiv/nyheter/2024/2024-05-13-dialogmote-med-anledning-av-tamnarens-hoga-vattenstand",
+    "aliases": [
+      "U5-10"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "U5-10"
+      }
+    ],
+    "date_candidates": [
+      "2024-05-13_IN_URL"
+    ],
+    "reported_reviews": [
+      "EXACT_URL_OPEN_FAILED"
+    ],
+    "reported_notes": [
+      "2024 dialogue source link unavailable; separately verified 2024-05-03 meeting referenced in May 14 SBN record; do not equate events"
+    ],
+    "types": [
+      "MUNICIPAL_EVENT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:tamnaran",
+      "part:d1",
+      "subject:hydrology",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Heby: Dialogmöte med anledning av Tämnarens höga vattenstånd",
+      "publisher_verified": null,
+      "original_locator": "https://www.heby.se/arkiv/nyheter/2024/2024-05-13-dialogmote-med-anledning-av-tamnarens-hoga-vattenstand",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-b35466c1",
+    "title": "Heby kommun: 14 maj 2024 vall vid Tegelvallen",
+    "canonical_locator": "https://www.heby.se/arkiv/nyheter/2024/2024-05-14-vall-ska-minska-risken-for-oversvamningar-vid-tegelvallen",
+    "aliases": [
+      "X5-03"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "X5-03"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP"
+    ],
+    "reported_notes": [
+      "Planned 1.5 m high flood barrier; does not establish actual construction or measured efficacy"
+    ],
+    "types": [
+      "MUNICIPAL_DECISION_NEWS"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "part:d2",
+      "subject:civil-society",
+      "subject:governance",
+      "subject:hydrology"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Heby kommun: 14 maj 2024 vall vid Tegelvallen",
+      "publisher_verified": null,
+      "original_locator": "https://www.heby.se/arkiv/nyheter/2024/2024-05-14-vall-ska-minska-risken-for-oversvamningar-vid-tegelvallen",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-39b0e8ee",
+    "title": "Heby hållbarhetslöften vatten 2025–2029",
+    "canonical_locator": "https://www.heby.se/arkiv/nyheter/2025/2025-12-09-heby-kommun-har-tecknat-hallbarhetsloften-om-vattenatgarder",
+    "aliases": [
+      "U3-14"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-14"
+      }
+    ],
+    "date_candidates": [
+      "2025-12-09"
+    ],
+    "reported_reviews": [
+      "opened: four focus areas include water management, drinking water, nutrient/resistant-substance loads"
+    ],
+    "reported_notes": [],
+    "types": [
+      "municipal announcement"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Heby hållbarhetslöften vatten 2025–2029",
+      "publisher_verified": null,
+      "original_locator": "https://www.heby.se/arkiv/nyheter/2025/2025-12-09-heby-kommun-har-tecknat-hallbarhetsloften-om-vattenatgarder",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-07bd9f45",
+    "title": "Heby – ansvar vid översvämningar",
+    "canonical_locator": "https://www.heby.se/boende-trafik-och-miljo/energi-miljo-och-klimat/klimat/skyfall-och-oversvamning/ansvar-oversvamningar",
+    "aliases": [
+      "U6-05"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-05"
+      }
+    ],
+    "date_candidates": [
+      "PAGE_2026_DATE_UNCONFIRMED"
+    ],
+    "reported_reviews": [
+      "ORIGINAL_HTML_READ"
+    ],
+    "reported_notes": [
+      "Municipality outlines state, county, municipal and property responsibility; page not evidence of 2023 legal version"
+    ],
+    "types": [
+      "CURRENT_MUNICIPAL_POLICY_WEB"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "subject:hydrology",
+      "subject:stormwater",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Heby – ansvar vid översvämningar",
+      "publisher_verified": null,
+      "original_locator": "https://www.heby.se/boende-trafik-och-miljo/energi-miljo-och-klimat/klimat/skyfall-och-oversvamning/ansvar-oversvamningar",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-d436d232",
+    "title": "Plan för hantering av skyfall och höga flöden",
+    "canonical_locator": "https://www.heby.se/boende-trafik-och-miljo/energi-miljo-och-klimat/klimat/skyfall-och-oversvamning/heby-kommuns-plan-for-hantering-av-skyfall-och-hoga-floden",
+    "aliases": [
+      "SRC-0001",
+      "U6-06"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0001"
+      },
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-06"
+      }
+    ],
+    "date_candidates": [
+      "2025",
+      "2025-01-23"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT",
+      "ORIGINAL_HTML_READ"
+    ],
+    "reported_notes": [
+      "Plan adopted Jan 2025, annex risk analysis and legal; explicitly post-crisis"
+    ],
+    "types": [
+      "MUNICIPAL_PLAN_INDEX"
+    ],
+    "author_candidates": [
+      "Heby kommun"
+    ],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "subject:hydrology",
+      "subject:stormwater",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "Heby kommun"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Plan för hantering av skyfall och höga flöden",
+      "publisher_verified": null,
+      "original_locator": "https://www.heby.se/boende-trafik-och-miljo/energi-miljo-och-klimat/klimat/skyfall-och-oversvamning/heby-kommuns-plan-for-hantering-av-skyfall-och-hoga-floden",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  }
+]
