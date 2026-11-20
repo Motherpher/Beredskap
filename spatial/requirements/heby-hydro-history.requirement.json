@@ -1,0 +1,33 @@
+{
+  "id": "HEBY-HYDRO-HISTORY-REQ-001",
+  "domains": [
+    "hydrology",
+    "flood-risk",
+    "historical-context"
+  ],
+  "geography": "Heby municipality and relevant catchments",
+  "spatial_unit": "catchment",
+  "time": {
+    "from": 2000,
+    "to": 2026
+  },
+  "relations": [
+    "Tämnarån",
+    "Örsundaån",
+    "rainfall",
+    "terrain",
+    "historical-flood-models"
+  ],
+  "exposures": [
+    "Tämnarån",
+    "Örsundaån",
+    "rainfall"
+  ],
+  "outcomes": [
+    "exposure-context",
+    "scenario-coverage"
+  ],
+  "uncertainty": "Tämnarån and Örsundaån are separate catchments; low points are not a dynamic pluvial model; no protected infrastructure detail.",
+  "proxy_policy": "approval-required",
+  "authoritative_only": true
+}

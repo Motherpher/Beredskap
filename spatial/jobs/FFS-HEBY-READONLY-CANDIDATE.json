@@ -1,0 +1,14 @@
+{
+  "job_id": "FFS-HEBY-READONLY-CANDIDATE-001",
+  "engine": "qgis",
+  "dataset": null,
+  "operations": [
+    "inspect_project"
+  ],
+  "parameters": {
+    "purpose": "Static contract sample only. NO execution without Director authority, FF-Spatial receipt and approved data."
+  },
+  "write_policy": "none",
+  "source_policy": "read_only",
+  "save_project": false
+}

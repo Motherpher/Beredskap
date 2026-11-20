@@ -1,0 +1,23 @@
+{
+  "template_only": true,
+  "NOT_A_REAL_ASSET": true,
+  "asset_id": null,
+  "asset_version_id": null,
+  "map_id": null,
+  "ffspatial_job_id": null,
+  "ffos_work_order_id": null,
+  "source_ids": [],
+  "harp_ids": [],
+  "observation_period": null,
+  "geography_type": null,
+  "geography_vintage": null,
+  "crs": null,
+  "license_review": null,
+  "access_authorization_receipt": null,
+  "artifact_uri": null,
+  "artifact_sha256": null,
+  "quality_receipt": null,
+  "privacy_clearance": null,
+  "editorial_clearance": null,
+  "accepted_by_director": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "HEBY-UPPSALA-BASELINE-REQ-001",
+  "domains": [
+    "administrative-geography",
+    "socioeconomic-conditions",
+    "civic-context"
+  ],
+  "geography": "Uppsala län including Heby",
+  "spatial_unit": "municipality",
+  "time": {
+    "from": 2000,
+    "to": 2026
+  },
+  "relations": [
+    "county",
+    "municipality",
+    "vintage-boundaries"
+  ],
+  "exposures": [
+    "county",
+    "municipality",
+    "vintage-boundaries"
+  ],
+  "outcomes": [
+    "population",
+    "civic-density-context",
+    "service-accessibility"
+  ],
+  "uncertainty": "Use authoritative vintage geometry and correct code system; no DeSO join without explicit compatible boundaries.",
+  "proxy_policy": "approval-required",
+  "authoritative_only": true
+}

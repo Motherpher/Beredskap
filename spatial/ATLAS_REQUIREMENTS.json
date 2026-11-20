@@ -1,0 +1,260 @@
+{
+  "schema_version": "beredskap.maps/v1",
+  "created_at": "2026-11-20",
+  "plan_status": "NO_LIVE_DATA_NO_MAPS",
+  "products": [
+    {
+      "map_id": "MAP-01",
+      "title": "Heby i Uppsala län",
+      "analytical_question": "Hur positioneras Heby i regional och administrativ kontext?",
+      "spatial_grains": [
+        "county",
+        "municipality",
+        "locality"
+      ],
+      "data_requirement_ids": [
+        "DATA-01",
+        "DATA-03",
+        "DATA-12"
+      ],
+      "work_package": "GEO-WP03",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    },
+    {
+      "map_id": "MAP-02",
+      "title": "Civilsamhällets landskap",
+      "analytical_question": "Var finns verifierat aktiva idéburna organisationer och vilken geografisk närvaro kan styrkas?",
+      "spatial_grains": [
+        "municipality",
+        "verified_activity_area"
+      ],
+      "data_requirement_ids": [
+        "DATA-12",
+        "DATA-15",
+        "DATA-16"
+      ],
+      "work_package": "GEO-WP04",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    },
+    {
+      "map_id": "MAP-03",
+      "title": "Föreningarnas praktiska geografier",
+      "analytical_question": "Hur skiljer sig registreringsort, lokal, verksamhet och rörelsemönster?",
+      "spatial_grains": [
+        "municipality",
+        "safe_aggregated_activity"
+      ],
+      "data_requirement_ids": [
+        "DATA-12",
+        "DATA-13",
+        "DATA-14"
+      ],
+      "work_package": "GEO-WP04",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    },
+    {
+      "map_id": "MAP-04",
+      "title": "Samhällsvillkor och delaktighet",
+      "analytical_question": "Hur skiljer sig tillgänglighet, resurser och demografiska villkor?",
+      "spatial_grains": [
+        "county",
+        "municipality",
+        "verified_aggregated_area"
+      ],
+      "data_requirement_ids": [
+        "DATA-12",
+        "DATA-15",
+        "DATA-16"
+      ],
+      "work_package": "GEO-WP05",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    },
+    {
+      "map_id": "MAP-05",
+      "title": "Vatten, avrinning och kända risker",
+      "analytical_question": "Vad visar verifierade historiska data och skilda hydrologiska modeller?",
+      "spatial_grains": [
+        "catchment",
+        "municipality",
+        "historical_scenarios"
+      ],
+      "data_requirement_ids": [
+        "DATA-01",
+        "DATA-02",
+        "DATA-03",
+        "DATA-04"
+      ],
+      "work_package": "GEO-WP05",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    },
+    {
+      "map_id": "MAP-06",
+      "title": "Före, under och efter 2023",
+      "analytical_question": "Vilken longitudinell förändring kan faktiskt följas utan geografi- och metodbrytning?",
+      "spatial_grains": [
+        "municipality",
+        "time_series"
+      ],
+      "data_requirement_ids": [
+        "DATA-07",
+        "DATA-08",
+        "DATA-09",
+        "DATA-13"
+      ],
+      "work_package": "GEO-WP05",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    },
+    {
+      "map_id": "MAP-07",
+      "title": "Civila observationer och weak signals",
+      "analytical_question": "Hur kan aggregerade observationer komplettera mätdata och beslutsprocesser?",
+      "spatial_grains": [
+        "safe_aggregated_observation_units"
+      ],
+      "data_requirement_ids": [
+        "DATA-17",
+        "DATA-18"
+      ],
+      "work_package": "GEO-WP06",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    },
+    {
+      "map_id": "MAP-08",
+      "title": "Samverkans- och förutsättningsnätverk",
+      "analytical_question": "Hur relaterar aktörers verkliga förmåga, offentliga behov och geografisk tillgänglighet?",
+      "spatial_grains": [
+        "municipality",
+        "region",
+        "network_and_geo"
+      ],
+      "data_requirement_ids": [
+        "DATA-13",
+        "DATA-14",
+        "DATA-15",
+        "DATA-19"
+      ],
+      "work_package": "GEO-WP06",
+      "geographic_focus": [
+        "Heby kommun",
+        "Uppsala län"
+      ],
+      "time_model": "explicit_vintage_and_event_window_required",
+      "theme_owner": "Motherpher/Beredskap",
+      "spatial_owner": "Motherpher/FF-Spatial",
+      "orchestration_optional": "Motherpher/FFOS",
+      "source_admission": "NOT_READY",
+      "ff_spatial_asset_id": null,
+      "ff_spatial_job_id": null,
+      "ffos_work_order_id": null,
+      "qa_receipt": null,
+      "product_status": "SPECIFICATION_ONLY_NOT_PRODUCED",
+      "publication_clearance": "NOT_CLEARED",
+      "privacy_review": "PENDING"
+    }
+  ]
+}
