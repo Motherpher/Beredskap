@@ -47,3 +47,7 @@ G. Harvardreferenser med primärkällornas fullständiga titel, sida/tabell, URL
 
 ## Käll- och framingtillägg (Ändringsorder 004)
 Säkra originalpresentationsmaterial från vattenkonferensen **14 juni 2023**: Hebys egen presentation om aktuellt vattenarbete, SLU:s föredrag om GIS, vattenrådets dokumentation och besluts-/uppföljningsspår. Granska om lokala signaler om vattenförhållanden nådde risk-/beredskapsplanering vid sidan av miljö- och vattenkvalitetsplaneringen. Den kända översiktliga Tämnarånskarteringen är daterad **2006-09-29** (inte 2013) och gäller **inte automatiskt Örsundaån/Heby reningsverk**. Undersök kunskapsöverföring utan att tolka tystnad i ett enstaka föredrag som kommunal okunskap.
+
+
+## Tillägg – källbatch 4, nationell VA-kunskap och ekonomisk kontext
+Sök original-SVU-rapport 2023-1 om resilient dimensionering (bibliografiskt år 2022/rapportnummer 2023-1), Svenskt Vattens 2023-01-25 och 2023-08-16 branschmaterial, samt historiska VASS- och Hållbarhetsindex-uppgifter specifikt för Heby. Pröva vilka delar som berör översvämning, process, elsäkerhet eller infrastruktur; gör ingen analogi som om processmodellering automatiskt modellerar byggnadens yttre vatteninträngning. Använd 2022–2026 års VA-taxor endast som undersökningsspår och kontrollera originalbeslut och kostnadsdrivare. Den nuvarande RISE-konferensartikeln är publicerad 2025 och kan bara användas för efterföljande kompetensmiljö.

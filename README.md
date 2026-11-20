@@ -46,3 +46,13 @@ Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). 
 - [Datakedja observation → signal → scenario → beslut](data/SIGNAL_TO_SCENARIO_PIPELINE.md)
 - [Hebys vattenkunskap 2005–2026 och källstatus](research/HEBY_WATER_KNOWLEDGE_FRAMING.md)
 - [Användarens ytterligare 14 länkrader, en sammanslagen URL uppdelad till två](sources/USER_SOURCES_SET_3_2026-11-20.json)
+
+
+## Källbatch 4 – Heby AIF, VNV, LRF och VA-sektorns förhandskunskap
+- [7 användarlänkar – status och tidsklassning](sources/USER_SOURCES_SET_4_2026-11-20.json)
+- [10 kompletterande källor](sources/SUPPLEMENTARY_SOURCES_SET_4_2026-11-20.json)
+- [Heby AIF/Tegelvallen – civilsamhällets egen kris och återhämtning](research/HEBY_AIF_RECOVERY_CASE.md)
+- [Vansjön–Nordsjön – lokal ex ante-vattenkunskap och tillståndskonflikt](research/VANSJON_VNV_PRECRISIS_KNOWLEDGE.md)
+- [Nationell VA-kunskap och priskällornas begränsningar](research/VA_SECTOR_KNOWLEDGE_FINANCE.md)
+
+**Källgrind:** Unt/Sala Allehanda-sidorna gick inte att öppna; de är källspår, inga belagda artikeluppgifter. Pdf-texter inspekterades för SVU och 2025 års KS-protokoll, men skärmavbilder kunde inte hämtas i webbläsarverktyget. Publicering kräver originalverifiering enligt HARP.

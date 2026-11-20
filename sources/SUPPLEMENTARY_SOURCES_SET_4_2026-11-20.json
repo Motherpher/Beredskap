@@ -1,0 +1,112 @@
+[
+  {
+    "id": "X4-01",
+    "title": "Svenskt Vatten – Många kommuner saknar plan för skyfall och översvämningar",
+    "url": "https://www.svensktvatten.se/om-oss/nyheter-och-press/nyheter/manga-kommuner-saknar-plan-for-skyfall-och-oversvamningar/",
+    "date": "2023-01-25",
+    "period": "PRE_2023",
+    "finding": "Hållbarhetsindex: 30 procent av deltagande kommuner saknade utredning av potentiellt sårbara översvämningsområden; gäller deltagande kommuner, inte Heby specifikt.",
+    "audit": "ORIGINAL_WEB_OPENED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-02",
+    "title": "Svenskt Vatten – Skyfall och översvämningar i rampljuset",
+    "url": "https://www.svensktvatten.se/om-oss/nyheter-och-press/nyheter/skyfall-och-oversvamningar-i-rampljuset/",
+    "date": "2023-08-16",
+    "period": "PRE_2023",
+    "finding": "Före 1 september 2023 varnar branschorganisationen om skyfall, flöden, bräddning och behov av skyfallsytor; ingen dokumentation om mottagande hos Heby.",
+    "audit": "ORIGINAL_WEB_OPENED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-03",
+    "title": "Lindblom, Molin & Samuelsson – Resilient dimensionering av avloppsreningsverk, SVU 2023-1",
+    "url": "https://vattenbokhandeln.svensktvatten.se/wp-content/uploads/2023/05/svu-rapport-2023-01.pdf",
+    "date": "2022_IMPRINT_2023_REPORT_NO_2023_05_URL",
+    "period": "PRE_2023",
+    "finding": "Osäkerhets- och känslighetsanalys, processimulering av rening; behandlar främst biologisk rening och dimensioneringsantaganden, EJ bevis för fysisk översvämningssäkerhet eller elcentralens nivå.",
+    "audit": "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-04",
+    "title": "Heby AIF – Skadegörelse på Tegelvallen",
+    "url": "https://www.hebyaif.nu/nyheter/?ID=116433&NID=1123207",
+    "date": "2024-02-04",
+    "period": "POST_2023",
+    "finding": "Föreningens egen rapport om anlagd brand på läktare medan översvämningsåterställning pågick och mötesplatsens vardagliga värde; partsnära men förstahandsförstoring.",
+    "audit": "SEARCH_VERIFIED_DIRECT_DECODE_FAILED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-05",
+    "title": "P4 Uppland – Heby AIF får nytt miljonstöd",
+    "url": "https://www.sverigesradio.se/artikel/heby-far-nytt-miljonstod-for-att-aterstalla-tegelvallen",
+    "date": "2025-01-14",
+    "period": "POST_2023",
+    "finding": "Rapporterar nästan 4 mkr i Leader/Jordbruksverket-stöd till återställning; skilj från kommunala fastighetskostnader och ersättningar.",
+    "audit": "SEARCH_VERIFIED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-06",
+    "title": "Heby kommun KS protokoll §8 – tilläggsbudget investering Tegelvallen",
+    "url": "https://www.heby.se/download/18.2eb7586b1948ed2d2c720260/1737631216346/Kommunstyrelsens%20sammantr%C3%A4de%2021%20januari%202025%20-%20protokoll.pdf",
+    "date": "2025-01-21",
+    "period": "POST_2023",
+    "finding": "Kommunalt fastighetsansvar, skadekostnadsbedömning >4m kr, försäkringsuppgörelse 2,2m kr, förslag på tilläggsbudget 1m kr, dialog med föreningen om möjligt fastighetsövertagande som avböjdes; beloppen avser olika poster och får inte adderas som en total.",
+    "audit": "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-07",
+    "title": "Vansjön Nordsjön – nekad prövningstillstånd vattenreglering",
+    "url": "https://vansjonordsjo.se/inget-provningstillstand-fran-mark-och-miljodomstolen/",
+    "date": "2023-05-28",
+    "period": "PRE_2023",
+    "finding": "Föreningens samtida redovisning av MÖD nekat prövningstillstånd och syn på rättsliga hinder; begär domarna, ansökningar och underliggande beräkningar. Hydrologisk effekt i Heby tätort obestyrkt.",
+    "audit": "ORIGINAL_WEB_OPENED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-08",
+    "title": "SVT – Kritiken: Översvämningarna hade kunnat stoppas",
+    "url": "https://www.svt.se/nyheter/lokalt/uppsala/kritiken-oversvamningarna-hade-kunnat-stoppas--6mfzjo",
+    "date": "2023-09-06",
+    "period": "POST_EVENT",
+    "finding": "Föreningsrepresentant säger damm kunnat fördröja/stoppa; domstolsbesked bristfällig utredning och felaktiga uppgifter i MKB. Påstådd hypotetisk effekt ej fastställd.",
+    "audit": "ORIGINAL_WEB_OPENED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-09",
+    "title": "Sala-Heby Fotboll – Tre år sedan katastrofen på Tegelvallen",
+    "url": "https://salahebyfotboll.se/2026/09/04/tre-ar-sedan-katastrofen-pa-tegelvallen-tusentals-mantimmar-har-lagts-ner/",
+    "date": "2026-09-04",
+    "period": "POST_2023",
+    "finding": "Beskriver ideella arbetsinsatser och återhämtning; sök originaltidrapporter, finansiering och medlems-/verksamhetsutfall.",
+    "audit": "SEARCH_VERIFIED_DIRECT_OPEN_FAILED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  },
+  {
+    "id": "X4-10",
+    "title": "Heby AIF – Hej alla medlemmar i Heby AIF",
+    "url": "https://www.hebyaif.nu/nyheter/?ID=116433&NID=1334188&sida=3",
+    "date": "2026_UNVERIFIED_EXACT_DATE",
+    "period": "POST_2023",
+    "finding": "Styrelsen uppger behov av varaktig ideell bemanningsstruktur för ekonomi och kontinuitet efter översvämningen; datum och fördelningsnycklar behöver originalkontroll.",
+    "audit": "SEARCH_VERIFIED_DIRECT_OPEN_FAILED",
+    "harp_refa": "PENDING",
+    "registered_at": "2026-11-20"
+  }
+]
