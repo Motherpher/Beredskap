@@ -17,3 +17,12 @@
 Godkänn pilotens första API-källor och användningsändamål, verifiera återanvändbara assets i FF-Spatial och kör **read-only** baslinjen innan analyskartor byggs. Detta dokument får endast ändras när en faktisk verifieringsreceipt finns.
 
 [Läs atlasen](ATLAS.md) · [API-kraven](API_ADMISSION.md) · [QA](QA_ACCEPTANCE.md)
+
+
+## Koordinerad uppföljning via GitHub
+- [Beredskap #12 – tematik och leveransacceptans](https://github.com/Motherpher/Beredskap/issues/12).
+- [FF-Spatial #51 – source promotion, asset/QGIS compatibility](https://github.com/Motherpher/FF-Spatial/issues/51).
+- [FFOS #127 – framtida upptäckt av cross-repo-samordning](https://github.com/Motherpher/FFOS/issues/127), **inte aktiverad dispatch**.
+- [Beredskap Draft PR #11 – QGIS-grenen](https://github.com/Motherpher/Beredskap/pull/11).
+
+Samordningsärenden är granskbara beroenden, inte bevis för att API:er, geodata eller runtime är operativa.

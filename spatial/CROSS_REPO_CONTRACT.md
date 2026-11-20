@@ -40,3 +40,12 @@ flowchart LR
 Ingen credential, rå persongeografi, kritisk VA/elteknisk detalj eller dold API-key i GitHub. Käll- eller schemaförändring i FF-Spatial måste föranleda ny kompatibilitetskontroll. Originaldata bevaras oförändrade i auktoriserad lagring, och GitHub-bifogade artifacts är inte utan vidare en långsiktig databas.
 
 **Aktuellt läge:** kontrakt **förberett**; inga externa FF-Spatial- eller FFOS-ändringar har gjorts genom denna gren.
+
+
+## Koordinerad uppföljning via GitHub
+- [Beredskap #12 – tematik och leveransacceptans](https://github.com/Motherpher/Beredskap/issues/12).
+- [FF-Spatial #51 – source promotion, asset/QGIS compatibility](https://github.com/Motherpher/FF-Spatial/issues/51).
+- [FFOS #127 – framtida upptäckt av cross-repo-samordning](https://github.com/Motherpher/FFOS/issues/127), **inte aktiverad dispatch**.
+- [Beredskap Draft PR #11 – QGIS-grenen](https://github.com/Motherpher/Beredskap/pull/11).
+
+Samordningsärenden är granskbara beroenden, inte bevis för att API:er, geodata eller runtime är operativa.

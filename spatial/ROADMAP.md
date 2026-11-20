@@ -25,3 +25,12 @@ Beredskaps register `DATA-01–20` och `ARG-01–15` tillhandahåller tematiska 
 
 ## Status
 GEO-WP01: dokumentation förberedd. GEO-WP02–07: **inte genomförda**. GMS0: struktur levererad. GMS1–GMS5: väntar på åtkomst och validering.
+
+
+## Koordinerad uppföljning via GitHub
+- [Beredskap #12 – tematik och leveransacceptans](https://github.com/Motherpher/Beredskap/issues/12).
+- [FF-Spatial #51 – source promotion, asset/QGIS compatibility](https://github.com/Motherpher/FF-Spatial/issues/51).
+- [FFOS #127 – framtida upptäckt av cross-repo-samordning](https://github.com/Motherpher/FFOS/issues/127), **inte aktiverad dispatch**.
+- [Beredskap Draft PR #11 – QGIS-grenen](https://github.com/Motherpher/Beredskap/pull/11).
+
+Samordningsärenden är granskbara beroenden, inte bevis för att API:er, geodata eller runtime är operativa.

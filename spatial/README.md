@@ -37,3 +37,12 @@ För att skapa en **multinivåbild av Heby och dess kontext**, med särskilt fok
 | FFOS-synk/dispatch | **Inte auktoriserat eller genomfört** |
 
 [Kanonisk Beredskap-portal](https://github.com/Motherpher/Beredskap) · [FF-Spatials QGIS-guide](https://github.com/Motherpher/FF-Spatial/blob/main/qgis/README.md) · [FFOS:s orkestreringsprincip](https://github.com/Motherpher/FFOS/blob/main/README.md)
+
+
+## Koordinerad uppföljning via GitHub
+- [Beredskap #12 – tematik och leveransacceptans](https://github.com/Motherpher/Beredskap/issues/12).
+- [FF-Spatial #51 – source promotion, asset/QGIS compatibility](https://github.com/Motherpher/FF-Spatial/issues/51).
+- [FFOS #127 – framtida upptäckt av cross-repo-samordning](https://github.com/Motherpher/FFOS/issues/127), **inte aktiverad dispatch**.
+- [Beredskap Draft PR #11 – QGIS-grenen](https://github.com/Motherpher/Beredskap/pull/11).
+
+Samordningsärenden är granskbara beroenden, inte bevis för att API:er, geodata eller runtime är operativa.

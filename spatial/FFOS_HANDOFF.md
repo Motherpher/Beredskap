@@ -18,3 +18,12 @@
 Läs: [FFOS-mandat](https://github.com/Motherpher/FFOS/blob/main/README.md) · [Projekt-synkronisering – review candidate](https://github.com/Motherpher/FFOS/blob/main/docs/governance/github-estate/PROJECT-SYNCHRONISATION-CONTRACT-v1.md).
 
 **Ingen extern ändring i FFOS görs som ett led i denna initiering.**
+
+
+## Koordinerad uppföljning via GitHub
+- [Beredskap #12 – tematik och leveransacceptans](https://github.com/Motherpher/Beredskap/issues/12).
+- [FF-Spatial #51 – source promotion, asset/QGIS compatibility](https://github.com/Motherpher/FF-Spatial/issues/51).
+- [FFOS #127 – framtida upptäckt av cross-repo-samordning](https://github.com/Motherpher/FFOS/issues/127), **inte aktiverad dispatch**.
+- [Beredskap Draft PR #11 – QGIS-grenen](https://github.com/Motherpher/Beredskap/pull/11).
+
+Samordningsärenden är granskbara beroenden, inte bevis för att API:er, geodata eller runtime är operativa.
