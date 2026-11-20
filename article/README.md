@@ -1,20 +1,29 @@
 # Artiklar – Heby under ytan
+**Redaktionell riktning v1.1 · 20 november 2026**
 
-Beredskap är en **kunskapsutvecklingsplattform**; *Heby under ytan* är dess första fördjupningsarbete. De två artiklarna ska vara populärvetenskapliga och medborgarinbjudande berättelser som hämtar faktastöd ur rapporterna, snarare än ersätta dem.
+Beredskap är en kunskapsutvecklingsplattform. *Heby under ytan* är dess fördjupningsarbete – inte ett formellt forskningsprojekt. De två korta populärvetenskapliga samhällsessäerna ska vara **stringenta, skarpa, tankeöppnande och sakligt förankrade**, inte rapportreferat eller anklagelser mot Heby.
 
-| Artikel | Synopsis / storyboard | Berättelsemotor |
+| Artikel | Synopsis och niofunktioners storyboard | Mått |
 |---|---|---|
-| **1. Ett elverks tragedi** | [Läs fullständigt redaktionellt underlag](ARTIKEL_01_SYNOPSIS_STORYBOARD.md) | Fyra timmar → fyra dygn → institutionell historia → 120 år → tillbaka till handling |
-| **2. Vem tar hand om dem som tar hand om krisen?** | [Läs fullständigt redaktionellt underlag](ARTIKEL_02_SYNOPSIS_STORYBOARD.md) | Indirekt vardagsberoende → civilsamhällets egen förmåga → logisk/praktisk närhet → data och möjlig framtida samverkan |
+| **1. Ett elverks tragedi** | [Redaktionellt huvudunderlag v1.1](ARTIKEL_01_SYNOPSIS_STORYBOARD.md) – elcentralen som motvillig huvudperson; fyra tidslinjer; strukturella kunskapsglapp och vad som får vetande att bli förmåga | **1 100–1 400 ord** |
+| **2. Vem tar hand om dem som tar hand om krisen?** | [Redaktionellt huvudunderlag v1.1](ARTIKEL_02_SYNOPSIS_STORYBOARD.md) – Tegelvallen, civilsamhällets egenvärde, ömsesidig beredskapsnytta, två slags närhet, observationsförmåga och framtidslinser | **1 200–1 500 ord** |
 
-## Gemensamt redaktionellt löfte
-- Beskriv händelserna klart men skuld och alternativ får inte avgöras i förväg.
-- Civilsamhället ska ses som självständig sektor, inte som gratis krisreserv.
-- Skillnad mellan hypotetisk vinjett och verifierat Hebyfall måste synas för läsaren.
-- Rör dig från det konkreta till systemfrågan och tillbaka till människors vardag.
-- Redovisa osäkerheter och sakgranskning; inga publiceringsklara fakta utan **HARP RefA**.
+## Gemensam berättelsestruktur
+**Situation → Perspektiv 1 → Perspektiv 2 → Perspektiv 3 → Källor som driver → Syntes → Argumentation → Relevansgods → Brygga.**
 
-## Underlag och produktion
-[Uppdrag](../MISSION.md) · [Fördjupningen](../kunskap/HEBY_UNDER_YTAN.md) · [Argumentbank](../kunskap/ARGUMENT_OCH_MOTPROVNING.md) · [Källbibliotek](../kallor/README.md) · [Rapportstrukturen](../reports/REPORT_STRUCTURE.md) · [Milstolpar](../roadmap/MASTER_ROADMAP.md)
+Detta är **nio berättelsefunktioner**. Den publicerade texten behöver inte nio stora mellanrubriker, och den ska inte överlastas med data eller metodbegrepp.
 
-**Status 2026-11-20:** två redaktionella synopsis med storyboard; fulla artiklar, intervjuer, sidkontroll och publicistisk slutrevision återstår.
+## Var ska udden ligga?
+- **Artikel 1:** Kommunala och institutionella kunskapsstrukturer kan ge reala gap mellan data och förmåga. Pröva detta utan att anklaga Heby eller personalen för försumlighet. Elcentralen ger distans, stram komik och ett 120-årigt tidsdjup.
+- **Artikel 2:** Civilsamhällets beredskapsnytta går åt båda håll. Sektorn har eget ändamål och kan argumentera för resurser, tidig delaktighet och bättre samverkan; det offentliga och privata behöver också förstå dess potential och förutsättningar.
+- **Gemensamt:** förmåga växer genom struktur, relationer och förmågan att ansamla, se, tolka och använda kunskap. Det finns inget påstått kausalsamband från civilsamhället till just elcentralen.
+
+## Källor i berättelsen
+[Redaktionell källmetod](KALLOR_I_BERATTELSEN.md): alla 177 kandidatkällor är ett journalistiskt sökfält, inte en obligatorisk referenskvot. Källorna kan **bekräfta, förklara, situera, förstärka, nyansera, motsäga eller kullkasta** en linje. Detta prövas per påstående och HARP-käll-ID; källor som kullkastar en tolkning måste få ändra den.
+
+## Samhällston och läsarens roll
+Ingen hjälteberättelse om civilsamhället, ingen syndabockskommun, ingen självmarknadsföring och inget låtsat tekniskt facit. Texten ska lämna läsaren med en användbar tankehjälp. Artikel 2 ska även kunna läsas i en **studie- eller bokcirkel om beredskap** och avslutas med öppna samtalsfrågor.
+
+**Redaktionell status:** v1.1-disposition och synopsis färdiga. Fullständig faktakontroll, HARP RefA för centrala sakpåståenden och faktiskt manus återstår.
+
+[Dashboard](../DASHBOARD.md) · [Uppdraget](../MISSION.md) · [Källbibliotek](../kallor/README.md) · [Argumentbanken](../kunskap/ARGUMENT_OCH_MOTPROVNING.md)

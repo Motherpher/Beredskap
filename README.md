@@ -72,3 +72,8 @@ QGIS-grenen har nu en [separat Draft PR #11](https://github.com/Motherpher/Bered
 - **[Artikel 2: Vem tar hand om dem som tar hand om krisen?](article/ARTIKEL_02_SYNOPSIS_STORYBOARD.md)** – civilsamhällets vardagliga förutsättningar, logisk/praktisk närhet, egenvärde, data och samverkan.
 
 Båda är **redaktionella synopsis och storyboard v1.0**, inte färdigskrivna eller RefA-sakgranskade artiklar. Artikel 2:s barnomsorgsexempel är hypotetiskt.
+
+
+### Aktuell redaktionell brief v1.1
+
+[Artikel 1 och 2 – korta, berättande synopsis och storyboard](article/README.md) · [Källor som stödjer, problematiserar och kan kullkasta ett resonemang](article/KALLOR_I_BERATTELSEN.md). Den gemensamma strukturen är **situation → perspektiv 1–3 → källor → syntes → argumentation → relevansgods → brygga**. Artiklarna är essäer inom kunskapsutveckling, inte formaliserade forskningsrapporter.

@@ -75,3 +75,14 @@ QGIS-grenen har nu en [separat Draft PR #11](https://github.com/Motherpher/Bered
 - **[Artikel 2: Vem tar hand om dem som tar hand om krisen?](article/ARTIKEL_02_SYNOPSIS_STORYBOARD.md)** – civilsamhällets vardagliga förutsättningar, logisk/praktisk närhet, egenvärde, data och samverkan.
 
 Båda är **redaktionella synopsis och storyboard v1.0**, inte färdigskrivna eller RefA-sakgranskade artiklar. Artikel 2:s barnomsorgsexempel är hypotetiskt.
+
+
+## Redaktionell precisering – artiklarna v1.1
+
+Den långa källinsamlingen är en **journalistisk fördjupningsresurs**, inte en skyldighet att genomföra samtliga data-/intervjupaket. Artikel 1 och 2 arbetar genom nio korta berättelsefunktioner: situation, tre perspektiv, drivande källor, syntes, argument, relevansgods och brygga.
+
+- [Artikel 1 v1.1 – elcentralen, tidslinjer och strukturell kunskapsförmåga](article/ARTIKEL_01_SYNOPSIS_STORYBOARD.md) (**1 100–1 400 ord**).
+- [Artikel 2 v1.1 – civilsamhället, ömsesidig beredskapsnytta och framtidslinser](article/ARTIKEL_02_SYNOPSIS_STORYBOARD.md) (**1 200–1 500 ord**).
+- [Källor som berättelsens drivkraft – stöd, motsägelser, kritik och omprövning](article/KALLOR_I_BERATTELSEN.md).
+
+**Viktig skillnad:** litteratur, dokument och lokala fall hjälper oss utveckla positioner och argument, inte i förväg fastställa Hebys ansvar eller civilsamhällets faktiska mobiliseringsförmåga.
