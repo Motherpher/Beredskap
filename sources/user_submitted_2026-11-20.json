@@ -1,0 +1,178 @@
+[
+  {
+    "id": "USR20261120-01",
+    "title": "SMHI öppna data",
+    "url": "https://www.smhi.se/data/sok-oppna-data-i-utforskaren",
+    "kind": "DATA_PORTAL",
+    "review_status": "ACCESSIBLE",
+    "research_use": "Meteorologi/hydrologi; observationsserie kräver egen beställning",
+    "time_class": "LONGITUDINAL",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-02",
+    "title": "Räddningstjänsten Sala-Heby",
+    "url": "https://www.sala.se/contact/1872",
+    "kind": "INSTITUTION",
+    "review_status": "ACCESSIBLE",
+    "research_use": "Gemensam organisation och kontakt; nuvarande webbsida uppdaterad 2026",
+    "time_class": "AS_OF_2026",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-03",
+    "title": "Heby Energi- och klimatplan 2030",
+    "url": "https://www.heby.se/download/18.389588cc19f56d569a3e031d/1784276825906/HebyFS%20202631%20Energi-%20och%20klimatplan%202030%20Heby%20kommun.pdf",
+    "kind": "MUNICIPAL_POLICY",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Samverkan/energiberedskap efter händelsen; ej ex ante-bevis",
+    "time_class": "POST_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-04",
+    "title": "Heby Lagstiftning bilaga 2",
+    "url": "https://www.heby.se/download/18.345601d8194cd7ce7321e76b/1738682774410/Lagstiftning,%20bilaga%202.pdf",
+    "kind": "LEGAL_APPENDIX",
+    "review_status": "OPEN_FAILED",
+    "research_use": "Kräver åtkomst till exakt original",
+    "time_class": "UNKNOWN",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-05",
+    "title": "Heby Samrådsredogörelse",
+    "url": "https://www.heby.se/download/18.37692b9319dcd4858de33807/1782807334893/Samr%C3%A5dsredog%C3%B6relse.pdf",
+    "kind": "MUNICIPAL_PROCESS",
+    "review_status": "OPEN_FAILED",
+    "research_use": "Kräver dokumentidentitet, samrådets föremål, datum och originaltext",
+    "time_class": "UNKNOWN",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-06",
+    "title": "Länsstyrelsen Uppsala RSA",
+    "url": "https://www.lansstyrelsen.se/uppsala/samhalle/sakerhet-och-beredskap/risk--och-sarbarhetsanalys.html",
+    "kind": "RSA_GUIDE",
+    "review_status": "ACCESSIBLE",
+    "research_use": "Regional riskanalys; inte Hebys egen RSA",
+    "time_class": "GENERAL",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-07",
+    "title": "MCF Riskkatalog ingång",
+    "url": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskap-for-aktorer/risk--och-sarbarhetsanalyser/riskkatalog/",
+    "kind": "RISK_CATALOG",
+    "review_status": "OPEN_FAILED",
+    "research_use": "Länken öppnades inte; underliggande kapitel inspekterade",
+    "time_class": "GENERAL",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-08",
+    "title": "MSB1964 Översvämningar",
+    "url": "https://rib.msb.se/filer/pdf/30076.pdf",
+    "kind": "RISK_CATALOG_2022",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Ex ante kunskapsstöd; skiljer vattendrag/skyfall, befolkning, infrastruktur",
+    "time_class": "PRE_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-09",
+    "title": "Riskkatalog användarguide",
+    "url": "https://www.mcf.se/siteassets/dokument/amnesomraden/krisberedskap-och-civilt-forsvar/stod-till-kommuner/handbok-i-kommunal-krisberedskap/riskkatalog/riskkatalog-anvandarguide.pdf",
+    "kind": "METHODOLOGY_2022",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Riskbedömning för hela geografiska området och befolkningen",
+    "time_class": "PRE_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-10",
+    "title": "MSB1966 Ras och skred",
+    "url": "https://rib.msb.se/filer/pdf/30068.pdf",
+    "kind": "RISK_CATALOG_2022",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Sekundär risk vid vattenmättnad och erosion",
+    "time_class": "PRE_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-11",
+    "title": "RIB 31555",
+    "url": "https://rib.msb.se/filer/pdf/31555.pdf",
+    "kind": "UNIDENTIFIED_DOCUMENT",
+    "review_status": "OPEN_FAILED",
+    "research_use": "Titel, typ, datering och relevans inte verifierad",
+    "time_class": "UNKNOWN",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-12",
+    "title": "MSB1660 Rättsliga förutsättningar för beredskap",
+    "url": "https://rib.msb.se/filer/pdf/29478.pdf",
+    "kind": "RESEARCH_PROSPECTUS_2020",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Faktablad om projekt 2020–2025; slutresultat söks separat",
+    "time_class": "PRE_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-13",
+    "title": "MSB1872 Från passiv mottagare till aktiv resurs",
+    "url": "https://rib.msb.se/filer/pdf/29813.pdf",
+    "kind": "RESEARCH_PROSPECTUS_2021",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Användarmedverkan och funktionsrätt; sök resultatrapport 2024",
+    "time_class": "PRE_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-14",
+    "title": "MSB2148 Systematiska lägesbilder",
+    "url": "https://rib.msb.se/filer/pdf/30205.pdf",
+    "kind": "RESEARCH_SUMMARY_2022",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "ELISA och indikatorer för lokala lägesbilder; full rapport MSB2124",
+    "time_class": "PRE_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-15",
+    "title": "MSB1954 Civilsamhället underutnyttjad samhällsresurs",
+    "url": "https://rib.msb.se/filer/pdf/29963.pdf",
+    "kind": "RESEARCH_PROSPECTUS_2022",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Forskningsfråga – INTE en slutrapport; resultaten söks separat",
+    "time_class": "PRE_2023",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  },
+  {
+    "id": "USR20261120-16",
+    "title": "MSB2124 ELISA slutrapport",
+    "url": "https://rib.msb.se/filer/pdf/31056.pdf",
+    "kind": "RESEARCH_REPORT_2022_VERSION_2025",
+    "review_status": "PDF_TEXT_READ_SCREENSHOT_UNAVAILABLE",
+    "research_use": "Ursprung december 2022; tillgänglig PDF reviderad april 2025; särskilj versioner",
+    "time_class": "PRE_2023_WITH_REVISION",
+    "full_HARP_audit": "PENDING",
+    "source_provided_by_user": true
+  }
+]

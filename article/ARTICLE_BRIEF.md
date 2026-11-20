@@ -1,22 +1,18 @@
-# Artikelbrief – Ett elverks tragedi
-**Arbetsrubrik:** Vilken chans till överlevnad hade Heby reningsverks elcentral – sett över 120 år?
+# Ett elverks tragedi – artikel inom Heby under ytan
+**Status:** underlag och berättande konstruktion, inte publiceringsklar artikel.
 
-## Centralt grepp
-Berätta genom en teknisk funktion som blev beroende av att vattnet inte steg för högt. Låt en skydds- och säkerhetsavstängning den 2 september 2023 stå i kontrast till flera generationers riskkunskap och möjligheter att agera. Elcentralen är **inte** en fiktiv person eller ett dricksvattenverk.
+**Funktion:** locka läsaren in i den temporala beredskapsfrågan genom reningsverkets elcentral och det avstängningsbeslut som följde av översvämningshotet. Slutpoängen ska leda vidare till hur samhällsfunktioner och civilsamhällets kapacitet byggs långt före krisen.
 
-## Dramaturgisk båge
-1. Lördagsmorgonen: vatten vid dörrarna och beslutet att bryta strömmen.
-2. Tillbakablick: landskapet, Örsundaån, tidigare vattenhändelser och anläggningens tillkomst.
-3. Riskens dokumentära liv: kartor, modeller, kommunala planer, beslut och uteblivna handlingar.
-4. Förvarningen: vad kunde förstås månader, veckor, dagar och timmar före?
-5. Konsekvenser: rening, bräddning, människor, kostnader och återställning.
-6. Motprövning: vad var möjligt, rimligt och känt då?
-7. Efterkrisens skydd och frågan om tidigare undvikbarhet.
+## Grepp
+- Inledning: driftpersonal ser stigande vatten; säker avstängning av elektricitet (inte bevisad föregående kortslutning).
+- Återblick 1900–2023: landskap, VA-anläggningens tillkomst, mätningar, modeller, riskkunskap och beslut.
+- Timme för timme där data finns; inga påhittade händelser eller exakta tider.
+- Konsekvenser: reningsprocess, bräddning, arbete, samhällets funktion, följdverkningar och okändheter.
+- Analytisk övergång: precis som en kritisk elcentral behöver förutsättningar före ett skyfall behöver samhällets organisationer också byggas före en kris.
+- Civilsamhället: välj **verifierat fall** för logisk och praktisk närhet. Frågan om vem som tar hand om beredskapspersonalens barn är en möjlig öppning i sidoberättelsen, **inte** ett belagt Hebyfall.
+- Avslutning: om kapacitet inte existerar före krisen kan man inte förutsätta att den finns att mobilisera under den.
 
-## Publiceringsregler
-- Ingen påhittad dialog, känsla eller exakt klockslag utan primärstöd.
-- Skilj reningsverkets avstängning från bevisad elskada.
-- Använd korta dokumenterade citat och tydliga sidkällor.
-- Undvik att offentliggöra exakta sårbarhetskonfigurationer i aktiv anläggning.
-- Berörd kommun och verksamhet ges möjlighet att bemöta centrala slutsatser.
-- Forskningens osäkerheter måste överleva journalistisk komprimering.
+## Publiceringsgrind
+**Heby under ytan** ska tillhandahålla belägg, alternativtolkningar, ansvar/rådighet och öppen metod. Civil sektor får inte instrumentaliseras eller behandlas som ersättning för kommunens ansvar. Rätt till sakligt bemötande, barnskydd och säkerhetssekretess ska upprätthållas.
+
+Se [huvudrapport](../reports/HEBY_UNDER_YTAN_STRUCTURE.md), [analysram](../research/CIVIL_SOCIETY_FRAMEWORK.md) och [källprotokoll](../governance/EVIDENCE_PROTOCOL.md).

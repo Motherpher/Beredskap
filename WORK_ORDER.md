@@ -196,3 +196,9 @@ Begär **befintliga allmänna handlingar**, inte att myndigheten ska framställa
 16. Referenser och käll-/data-/metodbilagor
 
 **Publiceringsgrind:** Artikeln får inte beskriva den säkra frånkopplingen som ett bevisat elfel, efterhandsåtgärder som automatiskt bevis på tidigare vårdslöshet, eller 2026 års rättsläge som om det gällde 2023. Slutsatsnivån ska motsvara evidensnivån.
+
+---
+
+## Ändringsorder 002 (2026-11-20): huvudrapport och civilsamhällesdimension
+
+**Huvudrapporten är numera `Heby under ytan – perspektiv på översvämningen 2023`.** Elcentralens mikrofall och artikeln `Ett elverks tragedi` är ett berättande delspår. Uppdraget utökas med WP14–WP19 enligt [governance/CHANGE_ORDER_002.md](governance/CHANGE_ORDER_002.md). Civil samhällskapacitet ska undersökas före, under och efter krisen med tvåsidiga behov/nyckelbehov/nyckelnyttor och begreppen logisk/praktisk närhet. Utgå inte från att Heby saknade civilsamhälle: Region Uppsalas 2022-kartläggning redovisar 460 idéburna organisationer; faktisk beredskapskapacitet, FRG-status och dess användning 2023 återstår att verifiera. Se [MISSION.md](MISSION.md).
