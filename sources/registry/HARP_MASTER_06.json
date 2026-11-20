@@ -1,0 +1,598 @@
+[
+  {
+    "harp_id": "HARP-fdd55a4a",
+    "title": "UNT – Bildextra Östervåla dränkt i vatten",
+    "canonical_locator": "https://www.unt.se/nyheter/ostervala/artikel/bildextra-ostervala-drankt-i-vatten-har-badar-barn-pa-gatan/jd3eee1l",
+    "aliases": [
+      "U6-11"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-11"
+      }
+    ],
+    "date_candidates": [
+      "DATE_UNVERIFIED"
+    ],
+    "reported_reviews": [
+      "UNREAD_DIRECT_ROBOTS"
+    ],
+    "reported_notes": [
+      "Potential visual testimony; no reuse of images without permissions and dating"
+    ],
+    "types": [
+      "EVENT_VISUAL_NEWS"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:media",
+      "part:d2",
+      "subject:inclusion"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "UNT – Bildextra Östervåla dränkt i vatten",
+      "publisher_verified": null,
+      "original_locator": "https://www.unt.se/nyheter/ostervala/artikel/bildextra-ostervala-drankt-i-vatten-har-badar-barn-pa-gatan/jd3eee1l",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-80f325a1",
+    "title": "Vattenmyndigheterna vattenorganisationer",
+    "canonical_locator": "https://www.vattenmyndigheterna.se/vattenforvaltning/vattenforvaltning-i-sverige/vattenorganisationernas-roll.html",
+    "aliases": [
+      "METHOD-04"
+    ],
+    "origins": [
+      {
+        "file": "sources/CIVIC_SENSING_SOURCES_2026-11-20.json",
+        "legacy_id": "METHOD-04"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "current source"
+    ],
+    "reported_notes": [],
+    "types": [
+      "agency guide"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Vattenmyndigheterna vattenorganisationer",
+      "publisher_verified": null,
+      "original_locator": "https://www.vattenmyndigheterna.se/vattenforvaltning/vattenforvaltning-i-sverige/vattenorganisationernas-roll.html",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-fe559106",
+    "title": "Volontärbyrån rapporter",
+    "canonical_locator": "https://www.volontarbyran.org/bocker-och-rapporter",
+    "aliases": [
+      "U7-14"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-14"
+      }
+    ],
+    "date_candidates": [
+      "MIXED"
+    ],
+    "reported_reviews": [
+      "HTML_VERIFIED"
+    ],
+    "reported_notes": [
+      "Recruitment, organizing, volunteer statistics and organizational resourcing; retrieve individual reports"
+    ],
+    "types": [
+      "CIVIC_DATA_PORTAL"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d2",
+      "subject:civil-society"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Volontärbyrån rapporter",
+      "publisher_verified": null,
+      "original_locator": "https://www.volontarbyran.org/bocker-och-rapporter",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-efa12b6a",
+    "title": "WSP Kommunernas kamp 2025",
+    "canonical_locator": "https://www.wsp.com/sv-se/insikter/kommunernas-kamp-2025",
+    "aliases": [
+      "U7-10"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-10"
+      }
+    ],
+    "date_candidates": [
+      "2025"
+    ],
+    "reported_reviews": [
+      "403_FORBIDDEN"
+    ],
+    "reported_notes": [
+      "Report link inaccessible; verify from another official source and actual pdf"
+    ],
+    "types": [
+      "MUNICIPAL_CAPACITY_ANALYSIS"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "WSP Kommunernas kamp 2025",
+      "publisher_verified": null,
+      "original_locator": "https://www.wsp.com/sv-se/insikter/kommunernas-kamp-2025",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-4adb571b",
+    "title": "Mälarens vattenvårdsförbund video channel",
+    "canonical_locator": "https://www.youtube.com/@malarensvattenvardsforbund950",
+    "aliases": [
+      "U3-03"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_3_2026-11-20.json",
+        "legacy_id": "U3-03"
+      }
+    ],
+    "date_candidates": [
+      "unknown"
+    ],
+    "reported_reviews": [
+      "direct open failed; videos and dates must be verified individually"
+    ],
+    "reported_notes": [],
+    "types": [
+      "video archive"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Mälarens vattenvårdsförbund video channel",
+      "publisher_verified": null,
+      "original_locator": "https://www.youtube.com/@malarensvattenvardsforbund950",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-b87a48d5",
+    "title": "WSP Kommunernas kamp 2025 local file URL",
+    "canonical_locator": "LOCAL_FILE_NOT_AVAILABLE",
+    "aliases": [
+      "U7-11"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-11"
+      }
+    ],
+    "date_candidates": [
+      "2025"
+    ],
+    "reported_reviews": [
+      "UNAVAILABLE_LOCAL_LINK"
+    ],
+    "reported_notes": [
+      "file:// URL from user's own computer is not accessible; avoid publishing personal directory path"
+    ],
+    "types": [
+      "LOCAL_UNMOUNTED_PATH"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "WSP Kommunernas kamp 2025 local file URL",
+      "publisher_verified": null,
+      "original_locator": "LOCAL_FILE_NOT_AVAILABLE",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-0d1279b4",
+    "title": "VISS VISSMEASURE0428575 uploaded 3-page PDF",
+    "canonical_locator": "local_upload:VISSMEASURE0428575.pdf",
+    "aliases": [
+      "U5-11"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "U5-11"
+      }
+    ],
+    "date_candidates": [
+      "2020-04-09_DATABASE_ENTRY"
+    ],
+    "reported_reviews": [
+      "USER_PDF_TEXT_AND_IMAGES_VERIFIED"
+    ],
+    "reported_notes": [
+      "VISS cycle 2017–2021, action possible for 30 small wastewater systems against phosphorus; planned 2022–2027; 3m SEK investment, 120k yearly running, 5m total and 300k yearly total schablon; NOT Heby municipal wastewater treatment plant or flood measure"
+    ],
+    "types": [
+      "OFFICIAL_WATER_MEASURES_RECORD"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "geo:heby",
+      "part:d1",
+      "subject:hydrology",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "VISS VISSMEASURE0428575 uploaded 3-page PDF",
+      "publisher_verified": null,
+      "original_locator": "local_upload:VISSMEASURE0428575.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-eb3064b3",
+    "title": "Inläst PDF: MSB Ansvar, samverkan, handling, MSB996",
+    "canonical_locator": "UPLOADED_FILE_SHA256:04822a0faf18041ccab11f7a21841ac82bce8d68fb28022f980507d0baa68b8e",
+    "aliases": [
+      "U7-34"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-34"
+      }
+    ],
+    "date_candidates": [
+      "2016-04-12"
+    ],
+    "reported_reviews": [
+      "UPLOADED_FULLTEXT_READ"
+    ],
+    "reported_notes": [
+      "94 pages, 26 fire reports, proposed not enacted principles handlingsprincip etc; geodata and voluntary inclusion"
+    ],
+    "types": [
+      "PRE_EVENT_NATIONAL_REPORT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "part:d1",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Inläst PDF: MSB Ansvar, samverkan, handling, MSB996",
+      "publisher_verified": null,
+      "original_locator": "UPLOADED_FILE_SHA256:04822a0faf18041ccab11f7a21841ac82bce8d68fb28022f980507d0baa68b8e",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-0b2d6fdc",
+    "title": "Inläst PDF: Uhnoo och Persson, skogsbrand samverkan 2022",
+    "canonical_locator": "UPLOADED_FILE_SHA256:223fb5549b572e0548087b2665ebd0e95e0507c4efbd9344ad659c2be6686066",
+    "aliases": [
+      "U7-33"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-33"
+      }
+    ],
+    "date_candidates": [
+      "2022"
+    ],
+    "reported_reviews": [
+      "UPLOADED_FULLTEXT_READ"
+    ],
+    "reported_notes": [
+      "93 pages; 31 semistructured interviews/34 people; 2149 social media posts; 5 dilemmas, Sala-Heby rescue participated"
+    ],
+    "types": [
+      "PRE_EVENT_ACADEMIC_FULLTEXT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:sala",
+      "part:d2",
+      "subject:fire",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Inläst PDF: Uhnoo och Persson, skogsbrand samverkan 2022",
+      "publisher_verified": null,
+      "original_locator": "UPLOADED_FILE_SHA256:223fb5549b572e0548087b2665ebd0e95e0507c4efbd9344ad659c2be6686066",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  }
+]

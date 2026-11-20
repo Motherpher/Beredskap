@@ -1,0 +1,2023 @@
+[
+  {
+    "harp_id": "HARP-e059d446",
+    "title": "MCF Riskkatalog ingång",
+    "canonical_locator": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskap-for-aktorer/risk--och-sarbarhetsanalyser/riskkatalog",
+    "aliases": [
+      "USR20261120-07"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-07"
+      }
+    ],
+    "date_candidates": [
+      "GENERAL"
+    ],
+    "reported_reviews": [
+      "OPEN_FAILED"
+    ],
+    "reported_notes": [
+      "Länken öppnades inte; underliggande kapitel inspekterade"
+    ],
+    "types": [
+      "RISK_CATALOG"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MCF Riskkatalog ingång",
+      "publisher_verified": null,
+      "original_locator": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskap-for-aktorer/risk--och-sarbarhetsanalyser/riskkatalog",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-057e2f64",
+    "title": "Översvämningskarteringar – Tämnarån 2015",
+    "canonical_locator": "https://www.mcf.se/sv/amnesomraden/skydd-mot-olyckor-och-farliga-amnen/naturolyckor-och-klimat/oversvamning/oversvamningskarteringar",
+    "aliases": [
+      "SRC-0012"
+    ],
+    "origins": [
+      {
+        "file": "sources/seed_sources.json",
+        "legacy_id": "SRC-0012"
+      }
+    ],
+    "date_candidates": [
+      "2015"
+    ],
+    "reported_reviews": [
+      "PUBLIC_SEARCH_RESULT"
+    ],
+    "reported_notes": [],
+    "types": [],
+    "author_candidates": [
+      "MCF/MSB"
+    ],
+    "tags": [
+      "data:geospatial",
+      "geo:tamnaran",
+      "part:d1",
+      "subject:hydrology",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [
+        "MCF/MSB"
+      ],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Översvämningskarteringar – Tämnarån 2015",
+      "publisher_verified": null,
+      "original_locator": "https://www.mcf.se/sv/amnesomraden/skydd-mot-olyckor-och-farliga-amnen/naturolyckor-och-klimat/oversvamning/oversvamningskarteringar",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-1308239a",
+    "title": "MFD Krisberedskap för alla",
+    "canonical_locator": "https://www.mfd.se/contentassets/550fcc2bd4844a21ad44923f2046ec1f/krisberedskap-for-alla.pdf",
+    "aliases": [
+      "U7-22"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-22"
+      }
+    ],
+    "date_candidates": [
+      "2025"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "56 interviewees from 20 municipalities 4 county boards 3 DPOs, not representative of all Sweden"
+    ],
+    "types": [
+      "POST_EVENT_EMPIRICAL_REPORT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:governance",
+      "subject:inclusion",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MFD Krisberedskap för alla",
+      "publisher_verified": null,
+      "original_locator": "https://www.mfd.se/contentassets/550fcc2bd4844a21ad44923f2046ec1f/krisberedskap-for-alla.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-570288db",
+    "title": "Myndigheten för delaktighet – remissvar grundläggande beredskap",
+    "canonical_locator": "https://www.mfd.se/material/remissvar/kommuners-och-regioners-grundlaggande-beredskap-infor-kris-och-krig",
+    "aliases": [
+      "U6-23"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-23"
+      }
+    ],
+    "date_candidates": [
+      "2025-02-07"
+    ],
+    "reported_reviews": [
+      "ORIGINAL_HTML_READ"
+    ],
+    "reported_notes": [
+      "Disability organizations as expertise in emergency planning; not specific evidence on Heby 2023"
+    ],
+    "types": [
+      "NATIONAL_DISABILITY_RIGHTS_POSITION"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "part:d2",
+      "subject:governance",
+      "subject:inclusion",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Myndigheten för delaktighet – remissvar grundläggande beredskap",
+      "publisher_verified": null,
+      "original_locator": "https://www.mfd.se/material/remissvar/kommuners-och-regioners-grundlaggande-beredskap-infor-kris-och-krig",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-5d59b48c",
+    "title": "MFD ny rapport om krisberedskap",
+    "canonical_locator": "https://www.mfd.se/nyhetsarkiv/ny-rapport-om-krisberedskap",
+    "aliases": [
+      "U7-21"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-21"
+      }
+    ],
+    "date_candidates": [
+      "2025-02-10"
+    ],
+    "reported_reviews": [
+      "HTML_VERIFIED"
+    ],
+    "reported_notes": [
+      "MFD finds disability groups seldom involved in planning, after 2023"
+    ],
+    "types": [
+      "POST_EVENT_PUBLIC_RESEARCH"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:governance",
+      "subject:inclusion",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MFD ny rapport om krisberedskap",
+      "publisher_verified": null,
+      "original_locator": "https://www.mfd.se/nyhetsarkiv/ny-rapport-om-krisberedskap",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-ea311fcb",
+    "title": "MFD kommunernas krisberedskap",
+    "canonical_locator": "https://www.mfd.se/samhallsomraden/krisberedskap/kommunernas-krisberedskap",
+    "aliases": [
+      "U7-26"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-26"
+      }
+    ],
+    "date_candidates": [
+      "CURRENT"
+    ],
+    "reported_reviews": [
+      "INDEX_ONLY"
+    ],
+    "reported_notes": [
+      "Inclusion, accessible formats, practical continuity"
+    ],
+    "types": [
+      "POST_EVENT_MUNICIPAL_GUIDANCE"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:governance",
+      "subject:inclusion"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MFD kommunernas krisberedskap",
+      "publisher_verified": null,
+      "original_locator": "https://www.mfd.se/samhallsomraden/krisberedskap/kommunernas-krisberedskap",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-e0cbaab6",
+    "title": "MFD Heby funktionshinderspolitik uppföljning",
+    "canonical_locator": "https://www.mfd.se/uppfoljning-och-statistik/uppfoljning-av-funktionshinderpolitiken/aterkoppling-till-kommuner/heby-kommun",
+    "aliases": [
+      "U7-16"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-16"
+      }
+    ],
+    "date_candidates": [
+      "2024_DATA_2025_PUBLISHED"
+    ],
+    "reported_reviews": [
+      "HTML_VERIFIED"
+    ],
+    "reported_notes": [
+      "Heby self-assessed accessibility/delaktighet autumn 2024, not pre-2023 data, not crisis readiness test"
+    ],
+    "types": [
+      "POST_EVENT_SELF_ASSESSMENT"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "part:d2",
+      "subject:governance",
+      "subject:inclusion",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "MFD Heby funktionshinderspolitik uppföljning",
+      "publisher_verified": null,
+      "original_locator": "https://www.mfd.se/uppfoljning-och-statistik/uppfoljning-av-funktionshinderpolitiken/aterkoppling-till-kommuner/heby-kommun",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-02aec88f",
+    "title": "Naturvårdsverket – Alternativa toalettlösningar vid avloppsstörning",
+    "canonical_locator": "https://www.naturvardsverket.se/4a83b4/globalassets/beredskap/beredskap-inom-avloppshantering/omvarldsbevakning-alternativa-toalettlosningar-under-storning-av-ordinarie-avloppstjanst.pdf",
+    "aliases": [
+      "U6-24"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-24"
+      }
+    ],
+    "date_candidates": [
+      "2025_FROM_OFFICIAL_INDEX"
+    ],
+    "reported_reviews": [
+      "DIRECT_CACHE_MISS_OFFICIAL_INDEX_VERIFIED"
+    ],
+    "reported_notes": [
+      "Post-crisis alternative sanitation continuity framework; underlying PDF unread"
+    ],
+    "types": [
+      "SANITATION_CONTINUITY_REPORT_PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "subject:va",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Naturvårdsverket – Alternativa toalettlösningar vid avloppsstörning",
+      "publisher_verified": null,
+      "original_locator": "https://www.naturvardsverket.se/4a83b4/globalassets/beredskap/beredskap-inom-avloppshantering/omvarldsbevakning-alternativa-toalettlosningar-under-storning-av-ordinarie-avloppstjanst.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-a174334b",
+    "title": "Naturvårdsverket – alternativa avloppstjänster official project page",
+    "canonical_locator": "https://www.naturvardsverket.se/beredskap/beredskap-inom-avloppshantering/information-om-projekt-alternativa-losningar-vid-storning-i-den-allmanna-avloppstjansten",
+    "aliases": [
+      "X6-06"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-06"
+      }
+    ],
+    "date_candidates": [
+      "2025_2026"
+    ],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Source index for 2025 report and December 2026 webinar; separate post-crisis methods"
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "subject:va",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Naturvårdsverket – alternativa avloppstjänster official project page",
+      "publisher_verified": null,
+      "original_locator": "https://www.naturvardsverket.se/beredskap/beredskap-inom-avloppshantering/information-om-projekt-alternativa-losningar-vid-storning-i-den-allmanna-avloppstjansten",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-1eac1f78",
+    "title": "Naturvårdsverket ansvar markavvattningsföretag",
+    "canonical_locator": "https://www.naturvardsverket.se/vagledning-och-stod/miljobalken/omprovning-och-aterkallelse-av-tillstand-till-markavvattning",
+    "aliases": [
+      "METHOD-05"
+    ],
+    "origins": [
+      {
+        "file": "sources/CIVIC_SENSING_SOURCES_2026-11-20.json",
+        "legacy_id": "METHOD-05"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "current source"
+    ],
+    "reported_notes": [],
+    "types": [
+      "legal guidance"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:unassigned"
+    ],
+    "priority": "P3",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Naturvårdsverket ansvar markavvattningsföretag",
+      "publisher_verified": null,
+      "original_locator": "https://www.naturvardsverket.se/vagledning-och-stod/miljobalken/omprovning-och-aterkallelse-av-tillstand-till-markavvattning",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-34b03fe8",
+    "title": "Newsworthy Heby kommunekonomi mandatperiod",
+    "canonical_locator": "https://www.newsworthy.se/artikel/432733/tuffare-ekonomiskt-f%C3%B6r-landets-kommuner---s%C3%A5-klarade-heby-mandatperioden",
+    "aliases": [
+      "U7-15"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-15"
+      }
+    ],
+    "date_candidates": [
+      "UNKNOWN"
+    ],
+    "reported_reviews": [
+      "CACHE_MISS"
+    ],
+    "reported_notes": [
+      "No verifiable figures; analyze original SCB/Kolada budgets"
+    ],
+    "types": [
+      "SECONDARY_MUNICIPAL_FINANCE"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:finance",
+      "subject:governance"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Newsworthy Heby kommunekonomi mandatperiod",
+      "publisher_verified": null,
+      "original_locator": "https://www.newsworthy.se/artikel/432733/tuffare-ekonomiskt-f%C3%B6r-landets-kommuner---s%C3%A5-klarade-heby-mandatperioden",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-f69060c3",
+    "title": "SOU 2019:7 Skogsbränderna sommaren 2018",
+    "canonical_locator": "https://www.regeringen.se/contentassets/8a43cbc3286c4eb39be8b347ce78da16/skogsbranderna-sommaren-2018-sou-2019-7.pdf",
+    "aliases": [
+      "U7-27"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-27"
+      }
+    ],
+    "date_candidates": [
+      "2019"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_AND_SCREENSHOT_VERIFIED"
+    ],
+    "reported_notes": [
+      "Second wildfire case with pre-2023 institutional lessons, focus rescue/public-private coordination"
+    ],
+    "types": [
+      "PRE_EVENT_FIRE_COMPARISON"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "part:d2",
+      "subject:fire",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SOU 2019:7 Skogsbränderna sommaren 2018",
+      "publisher_verified": null,
+      "original_locator": "https://www.regeringen.se/contentassets/8a43cbc3286c4eb39be8b347ce78da16/skogsbranderna-sommaren-2018-sou-2019-7.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-0ed75e9f",
+    "title": "Heby remissyttrande – En ny beredskapssektor",
+    "canonical_locator": "https://www.regeringen.se/contentassets/a355b012579b48e1ac49a0654b5c609c/heby-kommun.pdf",
+    "aliases": [
+      "U6-21"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-21"
+      }
+    ],
+    "date_candidates": [
+      "2024-07_TWO_INTERNAL_DATES"
+    ],
+    "reported_reviews": [
+      "ORIGINAL_PDF_TEXT_VERIFIED_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "Local resources, financing, operational capability, preschool and staffing, despite defence context; post-2023"
+    ],
+    "types": [
+      "MUNICIPAL_REMIT_TO_GOVERNMENT_PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Heby remissyttrande – En ny beredskapssektor",
+      "publisher_verified": null,
+      "original_locator": "https://www.regeringen.se/contentassets/a355b012579b48e1ac49a0654b5c609c/heby-kommun.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-f5596206",
+    "title": "SOU 2024:82 Ökad VA-beredskap",
+    "canonical_locator": "https://www.regeringen.se/contentassets/eaa465fec765467194961d56dc69f277/okad-va-beredskap-sou-202482.pdf",
+    "aliases": [
+      "U7-25"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-25"
+      }
+    ],
+    "date_candidates": [
+      "2024-11"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "Initiated by 2022 directive, final 2024 cannot be retroactively a 2023 duty; electricity resilience, water service scope"
+    ],
+    "types": [
+      "POST_EVENT_VA_POLICY_STUDY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "part:d1",
+      "subject:governance",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SOU 2024:82 Ökad VA-beredskap",
+      "publisher_verified": null,
+      "original_locator": "https://www.regeringen.se/contentassets/eaa465fec765467194961d56dc69f277/okad-va-beredskap-sou-202482.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-8b9f75af",
+    "title": "RISE/Svenska näringsplattformen – Årets nationella konferens om avlopp och miljö en succé!",
+    "canonical_locator": "https://www.ri.se/sv/svenskanaringsplattformen/nyheter/arets-nationella-konferens-om-avlopp-och-miljo-en-succe",
+    "aliases": [
+      "U4-01"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_4_2026-11-20.json",
+        "legacy_id": "U4-01"
+      }
+    ],
+    "date_candidates": [
+      "2025-01-31"
+    ],
+    "reported_reviews": [
+      "EXACT_SOURCE_OPENED"
+    ],
+    "reported_notes": [
+      "Uppsala Jan 2025 Svenskt Vattens avlopps- och miljökonferens, om bl.a. avloppsdirektiv, reningsprocesser och återvinning; ej bevis om Heby-deltagande eller 2023-beredskap"
+    ],
+    "types": [
+      "research_and_industry_meeting_report"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:sala",
+      "geo:uppsala-lan",
+      "part:d1",
+      "subject:governance",
+      "subject:va",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "RISE/Svenska näringsplattformen – Årets nationella konferens om avlopp och miljö en succé!",
+      "publisher_verified": null,
+      "original_locator": "https://www.ri.se/sv/svenskanaringsplattformen/nyheter/arets-nationella-konferens-om-avlopp-och-miljo-en-succe",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-9b55b766",
+    "title": "Uppsala Röda Korset – Kriser vi har hanterat 2004–2022",
+    "canonical_locator": "https://www.rodakorset.se/siteassets/pa-din-ort/uppsala/uppsala/krisskrift_webb-1_-1_.pdf",
+    "aliases": [
+      "U7-03"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_7_2026-11-20.json",
+        "legacy_id": "U7-03"
+      }
+    ],
+    "date_candidates": [
+      "2022"
+    ],
+    "reported_reviews": [
+      "PDF_TEXT_READ_SCREENSHOT_CACHE_MISS"
+    ],
+    "reported_notes": [
+      "2004–2022 firsthand organizational history, separate self-report from independent audit"
+    ],
+    "types": [
+      "LOCAL_CIVIC_ARCHIVE"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:sala",
+      "geo:uppsala-lan",
+      "part:d2",
+      "subject:civil-society",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Uppsala Röda Korset – Kriser vi har hanterat 2004–2022",
+      "publisher_verified": null,
+      "original_locator": "https://www.rodakorset.se/siteassets/pa-din-ort/uppsala/uppsala/krisskrift_webb-1_-1_.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-2cfca90c",
+    "title": "Räddningstjänsten Sala-Heby",
+    "canonical_locator": "https://www.sala.se/contact/1872",
+    "aliases": [
+      "USR20261120-02"
+    ],
+    "origins": [
+      {
+        "file": "sources/user_submitted_2026-11-20.json",
+        "legacy_id": "USR20261120-02"
+      }
+    ],
+    "date_candidates": [
+      "AS_OF_2026"
+    ],
+    "reported_reviews": [
+      "ACCESSIBLE"
+    ],
+    "reported_notes": [
+      "Gemensam organisation och kontakt; nuvarande webbsida uppdaterad 2026"
+    ],
+    "types": [
+      "INSTITUTION"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:sala",
+      "part:unassigned",
+      "time:post2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Räddningstjänsten Sala-Heby",
+      "publisher_verified": null,
+      "original_locator": "https://www.sala.se/contact/1872",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-8b006647",
+    "title": "Sala kommun KS 8 september 2021 ärendelista",
+    "canonical_locator": "https://www.sala.se/meeting/28097",
+    "aliases": [
+      "X6-02"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-02"
+      }
+    ],
+    "date_candidates": [
+      "2021-09-08"
+    ],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Contains both audit response and separate initiative on flood preparedness; individual responses and decisions pending"
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "geo:sala",
+      "part:d1",
+      "subject:governance",
+      "subject:hydrology",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala kommun KS 8 september 2021 ärendelista",
+      "publisher_verified": null,
+      "original_locator": "https://www.sala.se/meeting/28097",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-3d310b6d",
+    "title": "Sala future flood preparedness after 2023",
+    "canonical_locator": "https://www.sala.se/message/39947",
+    "aliases": [
+      "X6-08"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-08"
+      }
+    ],
+    "date_candidates": [
+      "POST_2023"
+    ],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Later improved barriers and plan, not evidence of pre-2023 preparation"
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "geo:sala",
+      "part:d1",
+      "subject:hydrology",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala future flood preparedness after 2023",
+      "publisher_verified": null,
+      "original_locator": "https://www.sala.se/message/39947",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-e450d7cd",
+    "title": "Sala 2020 revision summary published 12 April 2021",
+    "canonical_locator": "https://www.sala.se/resources/files/_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunfullm%C3%A4ktige/2021/2021-04-26/7.%20Revisionsber%C3%A4ttelse%202020%2C%20revisorernas%20redog%C3%B6relse%202020%20samt%20granskning%20av%20%C3%A5rsredovisning%202020.pdf",
+    "aliases": [
+      "X6-03"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-03"
+      }
+    ],
+    "date_candidates": [
+      "2021-04-12"
+    ],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Independent auditors recommend volunteer organization inclusion, RSA measure owner/deadlines; do not generalize to Heby"
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:sala",
+      "part:d1",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala 2020 revision summary published 12 April 2021",
+      "publisher_verified": null,
+      "original_locator": "https://www.sala.se/resources/files/_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunfullm%C3%A4ktige/2021/2021-04-26/7.%20Revisionsber%C3%A4ttelse%202020%2C%20revisorernas%20redog%C3%B6relse%202020%20samt%20granskning%20av%20%C3%A5rsredovisning%202020.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-63e45c33",
+    "title": "Sala KS 2021 – Revisionsrapport om krisberedskap, yttrande",
+    "canonical_locator": "https://www.sala.se/resources/files/_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunstyrelsen/2021/2021-09-08/3.Revisionsrapport%20Granskning%20av%20krisberedskap-yttrande.pdf",
+    "aliases": [
+      "U6-22",
+      "X6-01"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-22"
+      },
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-01"
+      }
+    ],
+    "date_candidates": [
+      "AUDIT_2020_AGENDA_2021-09-08",
+      "2020_AUDIT_TO_2021"
+    ],
+    "reported_reviews": [
+      "ORIGINAL_PDF_TEXT_INDEX_VERIFIED_SCREENSHOT_NOT_AVAILABLE"
+    ],
+    "reported_notes": [
+      "2020 PwC audit; old RSA inputs from 2007/2016, weak internal uptake, FRG existed in Sala; 2021 council file includes responses; not findings about Heby",
+      "Audit contains RSA 2019 using 2007/2016 data, poor dissemination, FRG, person dependency; follow up"
+    ],
+    "types": [
+      "PRE_CRISIS_AUDIT_AND_RESPONSE_PDF"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "geo:heby",
+      "geo:sala",
+      "part:d1",
+      "subject:governance",
+      "time:pre2023-candidate"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala KS 2021 – Revisionsrapport om krisberedskap, yttrande",
+      "publisher_verified": null,
+      "original_locator": "https://www.sala.se/resources/files/_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunstyrelsen/2021/2021-09-08/3.Revisionsrapport%20Granskning%20av%20krisberedskap-yttrande.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-9c2a1236",
+    "title": "Sala 2023 follow-up audit of crisis preparedness",
+    "canonical_locator": "https://www.sala.se/resources/files/1%20SALA%20KOMMUN/04%20Rapporter-redovisningar/Revisionsrapporter/2023/1%20Revisionsrapport%20-%20Uppf%C3%B6ljning%20granskning%20krisberedskap.pdf",
+    "aliases": [
+      "X6-05"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "X6-05"
+      }
+    ],
+    "date_candidates": [
+      "2023_DATE_UNVERIFIED"
+    ],
+    "reported_reviews": [],
+    "reported_notes": [
+      "Need verify published before/after Sept 2023 and comparison to 2020 audit"
+    ],
+    "types": [],
+    "author_candidates": [],
+    "tags": [
+      "geo:sala",
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala 2023 follow-up audit of crisis preparedness",
+      "publisher_verified": null,
+      "original_locator": "https://www.sala.se/resources/files/1%20SALA%20KOMMUN/04%20Rapporter-redovisningar/Revisionsrapporter/2023/1%20Revisionsrapport%20-%20Uppf%C3%B6ljning%20granskning%20krisberedskap.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-79e6a263",
+    "title": "Sala Allehanda – Krisberedskapen uppmärksammades i Heby",
+    "canonical_locator": "https://www.salaallehanda.com/heby/krisberedskapen-uppmarksammades-i-heby-det-ar-en-annan-slags-beredskap-nu",
+    "aliases": [
+      "U6-16"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_6_2026-11-20.json",
+        "legacy_id": "U6-16"
+      }
+    ],
+    "date_candidates": [
+      "DATE_UNVERIFIED"
+    ],
+    "reported_reviews": [
+      "UNREAD_OR_NOT_VERIFIED"
+    ],
+    "reported_notes": [
+      "Do not infer quote or comparison with 2023 without full text"
+    ],
+    "types": [
+      "LOCAL_EVENT_MEDIA"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:media",
+      "geo:heby",
+      "geo:sala",
+      "part:d1",
+      "subject:governance"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala Allehanda – Krisberedskapen uppmärksammades i Heby",
+      "publisher_verified": null,
+      "original_locator": "https://www.salaallehanda.com/heby/krisberedskapen-uppmarksammades-i-heby-det-ar-en-annan-slags-beredskap-nu",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-d6af6ff4",
+    "title": "Sala Allehanda – Heby AIF:s kamp mot vatten och eld snart över",
+    "canonical_locator": "https://www.salaallehanda.com/sport/heby-aifs-kamp-mot-vatten-och-eld-snart-over",
+    "aliases": [
+      "U4-05"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_4_2026-11-20.json",
+        "legacy_id": "U4-05"
+      }
+    ],
+    "date_candidates": [
+      "UNVERIFIED"
+    ],
+    "reported_reviews": [
+      "EXACT_SOURCE_OPEN_FAILED"
+    ],
+    "reported_notes": [
+      "Sannolikt föreningens återhämtning efter översvämning och brand; exakt innehåll, datum och citat ej verifierade"
+    ],
+    "types": [
+      "local_news"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "genre:media",
+      "geo:heby",
+      "geo:sala",
+      "part:d1",
+      "part:d2",
+      "subject:civil-society",
+      "subject:hydrology"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "Sala Allehanda – Heby AIF:s kamp mot vatten och eld snart över",
+      "publisher_verified": null,
+      "original_locator": "https://www.salaallehanda.com/sport/heby-aifs-kamp-mot-vatten-och-eld-snart-over",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-5bae2c6f",
+    "title": "SCB medborgarundersökning 2021 methodology break",
+    "canonical_locator": "https://www.scb.se/contentassets/c3479a44b3524800bc636ea005b7bf33/allt-du-behover-veta-om-scbs-medborgarundersokning.pdf",
+    "aliases": [
+      "X5-02"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "X5-02"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP"
+    ],
+    "reported_notes": [
+      "SCB says old 2010-2020 NKI and redesigned 2021 survey are not directly comparable"
+    ],
+    "types": [
+      "OFFICIAL_METHODOLOGY"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "part:d1"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SCB medborgarundersökning 2021 methodology break",
+      "publisher_verified": null,
+      "original_locator": "https://www.scb.se/contentassets/c3479a44b3524800bc636ea005b7bf33/allt-du-behover-veta-om-scbs-medborgarundersokning.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-bd654460",
+    "title": "SCB medborgarundersökning 2026 availability",
+    "canonical_locator": "https://www.scb.se/lamna-uppgifter/undersokningar/scbs-medborgarundersokning/?menu=open",
+    "aliases": [
+      "X5-07"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "X5-07"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP"
+    ],
+    "reported_notes": [
+      "As of Nov 20, 2026 2026 municipal results scheduled December; do not fabricate Heby 2026 satisfaction figures"
+    ],
+    "types": [
+      "OFFICIAL_RELEASE_SCHEDULE"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "geo:heby",
+      "part:d1"
+    ],
+    "priority": "P1",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SCB medborgarundersökning 2026 availability",
+      "publisher_verified": null,
+      "original_locator": "https://www.scb.se/lamna-uppgifter/undersokningar/scbs-medborgarundersokning/?menu=open",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-8ca03994",
+    "title": "SGU startsida",
+    "canonical_locator": "https://www.sgu.se",
+    "aliases": [
+      "U5-03"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "U5-03"
+      }
+    ],
+    "date_candidates": [
+      "CURRENT_PORTAL"
+    ],
+    "reported_reviews": [
+      "SEARCH_NAV"
+    ],
+    "reported_notes": [
+      "Gateway; do not treat as specific dated observation"
+    ],
+    "types": [
+      "OFFICIAL_PORTAL"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "part:d1",
+      "subject:groundwater"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SGU startsida",
+      "publisher_verified": null,
+      "original_locator": "https://www.sgu.se",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-82f6ab44",
+    "title": "SGU Grundvattennivåer i ett förändrat klimat (2015)",
+    "canonical_locator": "https://www.sgu.se/globalassets/produkter/publikationer/tidigare/grundvattennivaer-i-ett-forandrat-klimat--nya-klimatscenarier.pdf",
+    "aliases": [
+      "X5-05"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "X5-05"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP"
+    ],
+    "reported_notes": [
+      "Historical hydrogeological climatology, not local Sept 2023 observation; need exact region/parameters"
+    ],
+    "types": [
+      "PRE_2023_SCIENCE"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "part:d1",
+      "subject:groundwater"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SGU Grundvattennivåer i ett förändrat klimat (2015)",
+      "publisher_verified": null,
+      "original_locator": "https://www.sgu.se/globalassets/produkter/publikationer/tidigare/grundvattennivaer-i-ett-forandrat-klimat--nya-klimatscenarier.pdf",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-34bc77c7",
+    "title": "SGU aktuella grundvattennivåer",
+    "canonical_locator": "https://www.sgu.se/grundvatten/grundvattennivaer/aktuella-grundvattennivaer",
+    "aliases": [
+      "U5-05"
+    ],
+    "origins": [
+      {
+        "file": "sources/USER_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "U5-05"
+      }
+    ],
+    "date_candidates": [
+      "2026_CURRENT"
+    ],
+    "reported_reviews": [
+      "FULL_WEB_OPENED"
+    ],
+    "reported_notes": [
+      "Current levels must not be used as historical 2023 conditions; access historical SGU archive and station metadata"
+    ],
+    "types": [
+      "OFFICIAL_DYNAMIC_DATA"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "part:d1",
+      "subject:groundwater",
+      "time:post2023-candidate"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "PARTIAL_READ_REPORTED_FULL_AUDIT_PENDING",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SGU aktuella grundvattennivåer",
+      "publisher_verified": null,
+      "original_locator": "https://www.sgu.se/grundvatten/grundvattennivaer/aktuella-grundvattennivaer",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  },
+  {
+    "harp_id": "HARP-a830c55b",
+    "title": "SGU tidigare grundvattennivåer",
+    "canonical_locator": "https://www.sgu.se/grundvatten/grundvattennivaer/tidigare-grundvattennivaer",
+    "aliases": [
+      "X5-01"
+    ],
+    "origins": [
+      {
+        "file": "sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json",
+        "legacy_id": "X5-01"
+      }
+    ],
+    "date_candidates": [],
+    "reported_reviews": [
+      "INDEXED_OR_DIRECT_OPEN_NOT_FULL_HARP"
+    ],
+    "reported_notes": [
+      "1984+ anomaly maps; method change June 2020; pre-2023 original data route"
+    ],
+    "types": [
+      "OFFICIAL_ARCHIVE"
+    ],
+    "author_candidates": [],
+    "tags": [
+      "data:geospatial",
+      "part:d1",
+      "subject:groundwater"
+    ],
+    "priority": "P2",
+    "harp": {
+      "standard": "Pius System Codex 5.0 Appendix O",
+      "required_audit": "RefA",
+      "ITR1": "CANDIDATE_LOCATED_NOT_ORIGINAL_CONFIRMED",
+      "ITR2": "NOT_FULLY_VERIFIED",
+      "ITR4": "HARVARD_REFERENCE_PENDING",
+      "ITR5": "MANUAL_VALIDATION_PENDING",
+      "ITR6": "NOT_CLEARED",
+      "overall": "RefA_PENDING"
+    },
+    "harvard": {
+      "author_verified": null,
+      "author_candidates": [],
+      "publication_year_verified": null,
+      "verified_date": null,
+      "title": "SGU tidigare grundvattennivåer",
+      "publisher_verified": null,
+      "original_locator": "https://www.sgu.se/grundvatten/grundvattennivaer/tidigare-grundvattennivaer",
+      "access_date_verified": null,
+      "reference_formatted": null
+    },
+    "evidence": {
+      "publication_date_verified": null,
+      "observation_date_verified": null,
+      "ex_ante_2023_09_01": "UNKNOWN",
+      "municipal_receipt": "UNKNOWN",
+      "claims": [],
+      "pages_verified": [],
+      "independent_corroboration": "UNKNOWN"
+    },
+    "tagging_method": "AUTO_CANDIDATES_NOT_MANUALLY_APPROVED",
+    "security_status": "REVIEW_REQUIRED",
+    "licence_status": "REVIEW_REQUIRED",
+    "next_action": "Verify original, exact author/date, fulltext/page, claim relevance, temporal/geographic scope, rights and safety"
+  }
+]

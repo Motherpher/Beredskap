@@ -87,3 +87,21 @@ Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). 
 - [Ändringsorder 005 med WP22/WP23, D1-F7 och D2-F9](governance/CHANGE_ORDER_005_FIRE_LEARNING_CIVIC_CAPACITY.md)
 
 **Metod:** två uppladdade original-PDF:er verifierade lokalt och SHA256 registrerade; inte publicerade i öppet repo. För externa PDF:er lyckades vanligen textläsning men inte grafiska skärmavbilder; SOU 2019:7-omslaget kontrollerades. Full HARP RefA och källsidgranskning kvarstår.
+
+
+---
+
+## 2026-11-20 · Kanoniskt HARP-register, taggsystem, wiki och roadmap
+**Forskningsgren:** `research/heby-elcentralen-v1`. Inga avsnitt påstår färdig Deep Research eller RefA.
+
+- **[HARP-register / katalog](sources/registry/README.md)**: 11 ursprungliga JSON-register, 162 registreringar → 159 URL-/locator-distinkta poster, tidigare ID:n bevarade; **0 RefA-klarerade**.
+- **[Fullständigt HARP-index](sources/registry/HARP_MASTER_INDEX.json)** och **[sökbar CSV](sources/registry/HARP_SOURCE_INDEX.csv)**.
+- **[Kontrollerad taggtaxonomi](governance/TAG_TAXONOMY.md)** och **[HARP Appendix O-regler](governance/HARP_REGISTER_PROTOCOL.md)**.
+- **[Wiki – start och navigering](wiki/Home.md)**: versionsstyrda wiki-källsidor; publicering till separat GitHub Wiki inväntar särskild synkning ([instruktion](governance/WIKI_PUBLISHING.md)).
+- **[Master-roadmap](roadmap/MASTER_ROADMAP.md)** med nio milstolpar, sju arbetsströmmar och samtliga befintliga WP00–WP23.
+- **[20 prioriterade databehov](data/DATA_REQUIREMENTS.json)** och **[15 prövbara argument med motprövning](research/ARGUMENT_LEDGER.json)**.
+- **[Operativ exekveringsorder](roadmap/EXECUTION_ORDER.md)**.
+- **Sökning:** `python scripts/search_sources.py --query "Heby" --tag part:d1`.
+- **Validering:** `python scripts/validate_research_registry.py`.
+
+**Källkritik:** Automatisk taggning är preliminär; faktiskt källstöd, Harvardreferenser, lokala mottagningskedjor och slutliga förmågeslutsatser återstår att verifiera.

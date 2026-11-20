@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-20",
+  "imported_registers": [
+    "sources/seed_sources.json",
+    "sources/user_submitted_2026-11-20.json",
+    "sources/CIVIC_SENSING_SOURCES_2026-11-20.json",
+    "sources/USER_SOURCES_SET_3_2026-11-20.json",
+    "sources/USER_SOURCES_SET_4_2026-11-20.json",
+    "sources/USER_SOURCES_SET_5_2026-11-20.json",
+    "sources/USER_SOURCES_SET_6_2026-11-20.json",
+    "sources/USER_SOURCES_SET_7_2026-11-20.json",
+    "sources/SUPPLEMENTARY_SOURCES_SET_4_2026-11-20.json",
+    "sources/SUPPLEMENTARY_SOURCES_SET_5_2026-11-20.json",
+    "sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json"
+  ],
+  "raw_records": 162,
+  "unique_sources": 159,
+  "aliases_deduplicated": 3,
+  "RefA_cleared": 0,
+  "status": "REGISTRATION_COMPLETE_FOR_11_JSON_REGISTERS_REFA_NOT_COMPLETE",
+  "shards": [
+    {
+      "file": "sources/registry/HARP_MASTER_01.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_02.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_03.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_04.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_05.json",
+      "count": 30
+    },
+    {
+      "file": "sources/registry/HARP_MASTER_06.json",
+      "count": 9
+    }
+  ],
+  "tagging": "AUTO_CANDIDATES_REQUIRE_APPROVAL"
+}

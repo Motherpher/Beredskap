@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "streams": [
+    {
+      "stream_id": "P0",
+      "name": "Källstyrning och registrering",
+      "existing_work_packages": [
+        "WP00",
+        "WP13"
+      ],
+      "milestones": [
+        "MS0",
+        "MS7"
+      ],
+      "deliverable": "HARP, original, DOI/filhash, dataetik, RefA",
+      "status": "PLANNED",
+      "scope_note": "Portfolio mapping preserves original WP00–WP23; no renumbering."
+    },
+    {
+      "stream_id": "P1",
+      "name": "Naturhistorisk och geografisk rekonstruktion",
+      "existing_work_packages": [
+        "WP01",
+        "WP02",
+        "WP03"
+      ],
+      "milestones": [
+        "MS1",
+        "MS2"
+      ],
+      "deliverable": "1900–2023 serier, geografi, kartor och regn/flödesmodeller",
+      "status": "PLANNED",
+      "scope_note": "Portfolio mapping preserves original WP00–WP23; no renumbering."
+    },
+    {
+      "stream_id": "P2",
+      "name": "Teknisk funktionsbiografi och fyra dygn",
+      "existing_work_packages": [
+        "WP04",
+        "WP06",
+        "WP07"
+      ],
+      "milestones": [
+        "MS3"
+      ],
+      "deliverable": "anläggningshistoria, elsäkerhetskedja, tidslinje, effekter",
+      "status": "PLANNED",
+      "scope_note": "Portfolio mapping preserves original WP00–WP23; no renumbering."
+    },
+    {
+      "stream_id": "P3",
+      "name": "Styrning, rätt och jämförelser",
+      "existing_work_packages": [
+        "WP05",
+        "WP08",
+        "WP10",
+        "WP11",
+        "WP23"
+      ],
+      "milestones": [
+        "MS4"
+      ],
+      "deliverable": "RSA, kunskapsmottagning, beslut, alternativa åtgärder, jämförelsefall",
+      "status": "PLANNED",
+      "scope_note": "Portfolio mapping preserves original WP00–WP23; no renumbering."
+    },
+    {
+      "stream_id": "P4",
+      "name": "Civilsamhällets förutsättningsstruktur",
+      "existing_work_packages": [
+        "WP09",
+        "WP14",
+        "WP15",
+        "WP16",
+        "WP17",
+        "WP22"
+      ],
+      "milestones": [
+        "MS5"
+      ],
+      "deliverable": "föreningsbaslinje, indirekta stödresurser, behov/nyckelbehov",
+      "status": "PLANNED",
+      "scope_note": "Portfolio mapping preserves original WP00–WP23; no renumbering."
+    },
+    {
+      "stream_id": "P5",
+      "name": "Observationssystem och framsyn",
+      "existing_work_packages": [
+        "WP18",
+        "WP20",
+        "WP21"
+      ],
+      "milestones": [
+        "MS6"
+      ],
+      "deliverable": "medborgardata, SenseMaker, weak signals, scenarier och återkoppling",
+      "status": "PLANNED",
+      "scope_note": "Portfolio mapping preserves original WP00–WP23; no renumbering."
+    },
+    {
+      "stream_id": "P6",
+      "name": "Publicistisk syntes och revision",
+      "existing_work_packages": [
+        "WP12",
+        "WP13",
+        "WP19"
+      ],
+      "milestones": [
+        "MS7",
+        "MS8"
+      ],
+      "deliverable": "två delstudier, artikel, argument/motargument, Harvard och sakgranskning",
+      "status": "PLANNED",
+      "scope_note": "Portfolio mapping preserves original WP00–WP23; no renumbering."
+    }
+  ]
+}
