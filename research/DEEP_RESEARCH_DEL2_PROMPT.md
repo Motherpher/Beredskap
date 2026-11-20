@@ -51,3 +51,26 @@ G. Begränsningar: oberoende föreningsändamål, juridiska gränser för barn/o
 H. Harvardreferenser med verifierbara sid-/kapitelhänvisningar. Lista öppna frågor för intervjuer och handlingsoffentlighet.
 
 **Stoppregel:** Anta inte att FRG saknades i Heby, att alla 460 registrerade organisationer var aktiva eller att civilsamhällets möjlighet till hjälp automatiskt innebar ett formellt offentligt uppdrag. Publicera inte personuppgifter eller riskkänsliga driftsdetaljer.
+
+
+## D2-F7 – Civilsamhället som distribuerat observations- och kunskapssystem
+Hur kan föreningars, lokala nätverks och markägares **återkommande och varierade rörelser i landskapet**, erfarenheter och berättelser komplettera officiella mätningar och GIS-data; vilka kunskapssignaler upptäcks, hur verifieras de och när blir de handlingsgrundande?
+
+Pröva särskilt vattenråd, naturföreningar, scoutverksamhet, orientering, fiskevård, lantbruk och andra grupper som regelbundet rör sig i och använder miljön. Förväxla aldrig föreningsexistens med bevisat deltagande eller observerad risk i Heby.
+
+Studera tre separata datalager: (1) **objektsnära observationer** om datum/plats/förändring, (2) **deltagarens egen berättelse och självsignifiering**, eventuellt med SenseMaker, och (3) **myndigheternas verifiering och beslut**. Deltagarens lokala tolkning ska bevaras, men får inte automatiskt beskrivas som hydrologiskt fastställd orsak.
+
+Hebyspår: Örsundaåns vattenråd bildades 2020, kommunen beslutade om medlemskap 2022 och utsåg representant i mars 2023; den 14 juni 2023 höll rådet, Heby och Enköping en vattenkonferens i Heby. Begär program, presentationer, frågor, minnesanteckningar, åtgärdslistor och uppföljning **före** september 2023. Det är **inte belagt** att en varning om 2023 års skyfall framfördes.
+
+Jämförelsekällor: SPARC (SMHI, projekt 2021–2025, webbpublicerad 2024); Artportalen/SLU om medborgardata och kvalitetssäkring; Vattenmyndigheternas vattenråd; SenseMaker®/Cynefin om självsignifierade mikronarrativ; svenska vetenskapliga artiklar om tillit till medborgarforskningsdata.
+
+**Rättslig och ekologisk avgränsning:** Ett igenväxt dike, en översvämmad trumma eller nedfallet träd är först en observation. Det är inte bevis för otillräckligt underhåll eller en uppmaning till rensning; naturliga vattendrag, markavvattningsföretag, ekologiska värden, tillstånd, rådighet och nedströmseffekter ska prövas.
+
+**Leverans:** datakatalog och observationsschema, pilotupplägg med både återkommande observationsplatser och bredare öppna berättelser, bias-/täckningsanalys, verifierings- och återkopplingskedja, samt högst 5–8 empiriska källfall som visar när medborgardata faktiskt har lett till bättre beredskaps-/miljöbeslut.
+
+## Särskilda slutprodukter för D2-F7
+I. Kartlägg **vem som observerar, var, hur ofta och vad som inte observeras**; representativitet får inte antas från antalet observationer.
+II. Separera geolokaliserad miljöobservation från egenberättelse och SenseMaker-baserad självsignifiering.
+III. Dokumentera den praktiska kedjan observation → verifiering → juridisk ansvarig → beslutsvärdering → återkoppling.
+IV. Utred ägande/underhåll för relevanta diknings- och markavvattningsanläggningar via arkiv och beslutshandlingar, utan att utgå från att de var 'slumrande' eller att rensning var rätt åtgärd.
+V. Använd pre-2023-förenings-/vattenrådsmaterial för ex ante-frågor; forskning publicerad 2024–2026 får endast fungera som metodiskt jämförelsematerial om den inte faktiskt fanns 2023.

@@ -1,0 +1,92 @@
+[
+  {
+    "source_id": "LOCAL-01",
+    "title": "2023 KS §71 vattenrådsrepresentant",
+    "url": "https://heby.se/download/18.676955dd1872311e10314e13/1680183987137/230328KSp.pdf",
+    "type": "primary pre-2023 document",
+    "status": "documented",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "LOCAL-02",
+    "title": "Örsundaåns vattenråd fakta och grundande 2020",
+    "url": "https://www.malaren.se/vattenrad/orsundaans-vattenrad/",
+    "type": "organization current page with historical claim",
+    "status": "documented on web",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "LOCAL-03",
+    "title": "Örsundaåns vattenråd presentationer, konferens 14 juni 2023",
+    "url": "https://www.malaren.se/vattenrad/orsundaans-vattenrad/presentationer/",
+    "type": "source index",
+    "status": "further source audit",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "LOCAL-04",
+    "title": "Heby ansvar och underhåll av vattenanläggningar",
+    "url": "https://www.heby.se/boende-trafik-och-miljo/energi-miljo-och-klimat/klimat/skyfall-och-oversvamning/vattenanlaggningar---ansvar-och-underhall-av-diken-och-invallningar",
+    "type": "municipality current page",
+    "status": "date unverified",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "METHOD-01",
+    "title": "Cynefin SenseMaker methodology",
+    "url": "https://thecynefin.co/about-sensemaker/",
+    "type": "vendor methodology",
+    "status": "current source",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "METHOD-02",
+    "title": "SMHI SPARC citizen flood observations",
+    "url": "https://www.smhi.se/forskning/forskningsprojekt/vara-forskningsprojekt/sparc---medborgarforskning-for-battre-hantering-av-oversvamningsrisker",
+    "type": "research project",
+    "status": "2024 website; project 2021-2025",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "METHOD-03",
+    "title": "SLU Artportalen verification principles",
+    "url": "https://www.slu.se/artdatabanken/rapportering-och-fynd/fynduppgifter-och-skyddsklassade-arter/verifiering-av-fynduppgifter/grundprinciper-for-verifiering-i-artportalen/",
+    "type": "official methodology",
+    "status": "current source",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "METHOD-04",
+    "title": "Vattenmyndigheterna vattenorganisationer",
+    "url": "https://www.vattenmyndigheterna.se/vattenforvaltning/vattenforvaltning-i-sverige/vattenorganisationernas-roll.html",
+    "type": "agency guide",
+    "status": "current source",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "METHOD-05",
+    "title": "Naturvårdsverket ansvar markavvattningsföretag",
+    "url": "https://www.naturvardsverket.se/vagledning-och-stod/miljobalken/omprovning-och-aterkallelse-av-tillstand-till-markavvattning/",
+    "type": "legal guidance",
+    "status": "current source",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  },
+  {
+    "source_id": "METHOD-06",
+    "title": "Citizen science data Swedish governance trust (2022)",
+    "url": "https://journals.sagepub.com/doi/10.1177/03063127221085241",
+    "type": "peer reviewed",
+    "status": "2022",
+    "ref_a_audit": "PENDING",
+    "date_checked": "2026-11-20"
+  }
+]

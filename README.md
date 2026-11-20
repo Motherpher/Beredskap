@@ -29,3 +29,11 @@ Källor är startpunkter och måste granskas i original (HARP RefA). Skillnaden 
 Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). Kompletterande forskning om socialt kapital i landsbygderna, CivKris och ELISA.
 
 **Governance:** Pius Codex 5.0 Appendix O (HARP); forskningsrapporter får publiceringsstatus först efter relevant käll- och sakgranskning.
+
+
+## Nytt forskningsspår: lokal observationsförmåga (Ändringsorder 003)
+- [Civilsamhället som distribuerad observationskapacitet](research/CIVIC_SENSING_FRAMEWORK.md)
+- [D2-F7 och WP20](governance/CHANGE_ORDER_003_CIVIC_SENSING.md)
+- [Data- och verifieringsmodell](data/CIVIC_OBSERVATION_MODEL.md)
+- [Heby 2020–2023: Örsundaåns vattenråd och vattenkonferensen](research/HEBY_WATER_COUNCIL_2023.md)
+- [Nya källspår](sources/CIVIC_SENSING_SOURCES_2026-11-20.json)

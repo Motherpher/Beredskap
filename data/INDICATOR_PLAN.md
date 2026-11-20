@@ -30,3 +30,7 @@ Krisbehov: trygg informationsspridning till personer som saknar digitala kanaler
 
 ## Arbetssätt
 Inspireras av ELISA (Joeri van Laere 2022): få, återkommande indikatorer; tydliga definitioner; automatisk import när säkert och lagligt; återkommande gemensam tolkning; offentlighet och föreningar ska se hur data påverkar beslut. Undvik att skapa ett nytt rapporteringskrav som dränerar små föreningar.
+
+
+## Tillägg 003 – kontinuerligt lokalt observationslager
+Förslaget har två separata strömmar: **(1) strukturerad plats- och tillståndsobservation** och **(2) upplevelsebaserade mikronarrativ med deltagarens egen tolkning**. Observationers antal mäter inte automatiskt problemens förekomst. Registrera besökta rutter, återbesök, uteblivna observationer, säsong, väder, källa, valideringsstatus och offentlig återkoppling. Undvik exakta positioner för skyddade arter, privatpersoner och känslig infrastruktur. Se [CIVIC_OBSERVATION_MODEL.md](CIVIC_OBSERVATION_MODEL.md).
