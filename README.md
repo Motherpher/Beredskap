@@ -66,3 +66,14 @@ Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). 
 - [Tegelvallen 2023–2024: beslut och återkopplingskedja](research/HEBY_TEGELVALLEN_2024_DECISION_TRACE.md): SBN §81 den 14 maj 2024, 352 000 SEK, planerad 1,5 m vall
 
 **Kvalitet:** SCB:s gamla och nya medborgarundersökningar (brytår 2021) är inte direkt jämförbara, SGU aktuella nivåer visar inte 2023, Boverkets områdestyper visar inte faktiskt flood exposure. UNT och kommunens exakta länk för dialogmöte 13 maj 2024 gick inte att öppna. Protokoll från 14 maj 2024 visar ett separat dialogmöte den 3 maj 2024; likställ inte dessa utan kontroll.
+
+
+## Källbatch 6 (2026-11-20) – Dagvattenpolicy, Sala-revision, Hebys remissvar och civila erfarenheter
+- [27 användarkällor med åtkomst och tidsklassning](sources/USER_SOURCES_SET_6_2026-11-20.json)
+- [9 kompletterande källor och kunskapsvägar](sources/SUPPLEMENTARY_SOURCES_SET_6_2026-11-20.json)
+- [Hebys förkriskunskap 2017 och Harbo-studien 2021](research/HEBY_2017_2021_EX_ANTE_SUDS_POLICY.md)
+- [Sala 2020/2021: revision, RSA och frivilligsamverkan](research/SALA_2020_2021_AUDIT_COMPARISON.md)
+- [Hebys efterkrisremiss och beredskapens förutsättningsberoenden](research/HEBY_REMIT_2024_AND_PARTICIPATION.md)
+- [Metod för vittnesmål och lokaljournalistik](research/CRISIS_LIVED_EXPERIENCE_SOURCE_PROTOCOL.md)
+
+**Källgrind:** både PDF-originaltext och datering kontrollerades för Hebys 2017/2009/2021-dokument och Hebys 2024-remiss; webbscreenshots misslyckades på grund av cache. Salas PwC-rapport från 2020 ingår i 2021 års politiska dokument och kan läsas som indexerad originaltext. UNT-artiklar och flera SR-sidor samt nya 2025/2026 PDF:er kunde inte läsas i original; inga artikelpåståenden härleds från rubrikerna. Deep Research-instruktioner uppdaterade, slutgranskning återstår.
