@@ -8,3 +8,6 @@
 
 **Redaktionella gränser:** cirka 1172 ord före källapparaten; personifierad elcentral, tidsmässig skalväxling, sakligt förankrad strukturell kritik, ingen tillskriven kommunal försummelse. HARP RefA återstår. **Ingen förändring på main.**
 
+
+
+**HARP-stil (20 november 2026):** Hänvisningarna i manus är parentetiska enligt författare–år med tryckta sidnummer för paginerade PDF-källor, och utan sidnummer för opaginerade webbsidor. Tillhörande fullständig Harvardförteckning finns i manusets slut. Källloggen redovisar varje hänvisnings beläggsida och återstående RefA-kontroll.

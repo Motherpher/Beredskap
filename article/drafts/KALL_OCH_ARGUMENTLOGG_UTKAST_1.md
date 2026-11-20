@@ -52,3 +52,21 @@ Kontrollera först **precision och läsbarhet**, inte om ännu fler datakällor 
 
 [Synopsis v1.1](../ARTIKEL_01_SYNOPSIS_STORYBOARD.md) · [Källmetoden](../KALLOR_I_BERATTELSEN.md) · [HARP-protokoll](../../governance/HARP_REGISTER_PROTOCOL.md)
 
+
+
+## Harvard/HARP – korrigering av in-text-referenser 20 november 2026
+
+Alla åtta tidigare numeriska hänvisningar (`[1]`–`[7]`) i artikeltexten har ersatts med parentetisk författare–år-form. **För paginerade original anges den tryckta sidnumreringen, inte PDF-läsarens sidindex:**
+
+| Påstående/avsnitt | Ny hänvisning i manus | Kontrollerat textstöd | Avgränsning |
+|---|---|---|---|
+| Reningsverkets säkra frånkoppling och bräddning | `(Winnfors Wannberg, 2023; Länsstyrelsen Västmanland, 2024, s. 30)` | Cirkulations offentliga artikelutdrag, länsstyrelsens s. 30 | Cirkulation saknar paginering i webbversion; ingen påstådd kortslutning |
+| 2017 års skyfallsmål och samordningssyfte | `(Heby kommun, 2017, s. 1–2)` | HebyFS 2017:14, tryckta s. 1–2 | Gäller dagvattenpolicy, inte specifikt reningsverket |
+| Utredning Harbo 2021 | `(Tyréns, 2021, s. 3, 12–13)` | Sammanfattning s. 3 och tekniska beräkningar s. 12–13 | Harbo är inte reningsverket i Heby tätort |
+| Vattenkonferens 14 juni 2023 | `(Mälarens vattenvårdsförbund, u.å.)` | Arrangörens opaginerade webbsida | 2023 är evenemangsår, inte verifierat publiceringsår |
+| Örsundaåns nationella kartunderlag | `(Länsstyrelsen Västmanland, 2024, s. 16)` | Länsstyrelsens s. 16 | Avsaknad hos SMHI/MSB är inte frånvaro av alla lokala analyser |
+| Kommunstorlek, samverkan och kapacitetsvillkor | `(Thomasson, 2019, s. 21–22, 27)` | Rapportens s. 21–22 och 27 | Avser främst dricksvatten, ej specifikt Heby ARV |
+| Bedömning av påverkan och snabb återstart | `(Länsstyrelsen Västmanland, 2024, s. 30)` | Länsstyrelsens s. 30 | Miljöpåverkan har inte undersökts fullt ut |
+| 2025 års skyfallsplan | `(Heby kommun, 2025)` | Kommunens opaginerade webbtext | Beslut 2025 får inte bakdateras |
+
+**Sidverifieringens begränsning:** Originalens paginerade textlager visade tryckta sidnummer, men webbverktygets PDF-skärmbild fick `Cache miss`. Externa sidor och rapporter har inte därmed uppgraderats till `RefA_CLEARED` i masterregistret; inga sådana påståenden görs. Publiceringsgrinden gäller fortsatt.

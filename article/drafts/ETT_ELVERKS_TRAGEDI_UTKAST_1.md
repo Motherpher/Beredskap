@@ -5,7 +5,7 @@ Det finns huvudpersoner som tar plats i historien genom stora beslut, djärva id
 
 Den vid Hebys avloppsreningsverk tillhörde den senare kategorin. Dess huvudsakliga ambition, om en elcentral nu kan tillskrivas en sådan, var att fortsätta förse reningsverkets funktioner med elektricitet. Gärna utan större uppmärksamhet. Den hade knappast räknat med att bli föremål för en berättelse om samhällsberedskap.
 
-Men lördagen den 2 september 2023 kom vattnet. Översvämningen nådde reningsverket och elcentralen hotades. I samråd med elektriker togs beslutet att stänga av strömmen. Anläggningen var sedan ur drift i nära fyra dygn. Det var en säkerhetsåtgärd inför risken för elfel, inte ett belagt fall av att elcentralen först kortslöt och därefter gav upp. Avloppsvatten bräddades under störningen till Örsundaåns avrinningsområde. [1][2]
+Men lördagen den 2 september 2023 kom vattnet. Översvämningen nådde reningsverket och elcentralen hotades. I samråd med elektriker togs beslutet att stänga av strömmen. Anläggningen var sedan ur drift i nära fyra dygn. Det var en säkerhetsåtgärd inför risken för elfel, inte ett belagt fall av att elcentralen först kortslöt och därefter gav upp. Avloppsvatten bräddades under störningen till Örsundaåns avrinningsområde (Winnfors Wannberg, 2023; Länsstyrelsen Västmanland, 2024, s. 30).
 
 Där kunde historien ha slutat: exceptionella vattenmängder, en utsatt anläggning, ett nödvändigt beslut, ett mödosamt återställningsarbete.
 
@@ -29,13 +29,13 @@ Det är inte alltid deras gränser sammanfaller.
 
 Det vore enkelt, men fel, att göra detta till berättelsen om en kommun som aldrig hade tänkt på skyfall.
 
-I Hebys dagvattenriktlinjer från 2017 formulerades uttryckligen målet att förebygga och minska översvämningsskador vid skyfall. Riktlinjerna skulle bland annat bidra till en gemensam syn mellan förvaltningar och till bättre beslutsunderlag vid planering. [3]
+I Hebys dagvattenriktlinjer från 2017 formulerades uttryckligen målet att förebygga och minska översvämningsskador vid skyfall. Riktlinjerna skulle bland annat bidra till en gemensam syn mellan förvaltningar och till bättre beslutsunderlag vid planering (Heby kommun, 2017, s. 1–2).
 
-År 2021 lät kommunen göra en dagvattenutredning för ett planområde i Harbo. Där prövades avrinningsförhållanden och möjliga tekniska lösningar. Det var inte en riskanalys av elcentralen i Heby. Just därför är exemplet intressant: teknikerna, begreppen och förmågan att beställa kvalificerad analys fanns i vissa kommunala sammanhang, utan att vi därmed vet hur kunskapen fördes vidare mellan dem. [4]
+År 2021 lät kommunen göra en dagvattenutredning för ett planområde i Harbo. Där prövades avrinningsförhållanden och möjliga tekniska lösningar. Det var inte en riskanalys av elcentralen i Heby. Just därför är exemplet intressant: teknikerna, begreppen och förmågan att beställa kvalificerad analys fanns i vissa kommunala sammanhang, utan att vi därmed vet hur kunskapen fördes vidare mellan dem (Tyréns, 2021, s. 3, 12–13).
 
-Och den 14 juni 2023 – mindre än tre månader före översvämningen – arrangerades en vattenkonferens i Heby tillsammans med Örsundaåns vattenråd och Enköpings kommun. Den samlade olika intressenter kring framtidens vattenhantering. Det finns inget belägg här för att konferensen innehöll en varning om reningsverkets elcentral. Däremot visar den att frågan om vattnets framtid redan hade ett forum före krisen. [5]
+Och den 14 juni 2023 – mindre än tre månader före översvämningen – arrangerades en vattenkonferens i Heby tillsammans med Örsundaåns vattenråd och Enköpings kommun. Den samlade olika intressenter kring framtidens vattenhantering. Det finns inget belägg här för att konferensen innehöll en varning om reningsverkets elcentral. Däremot visar den att frågan om vattnets framtid redan hade ett forum före krisen (Mälarens vattenvårdsförbund, u.å.).
 
-Samtidigt kan kunskap saknas där vi allra helst skulle vilja finna den. När länsstyrelserna senare undersökte 2023 års översvämningar konstaterade de att SMHI inte hade gjort någon översvämningskartering av Örsundaån och att motsvarande underlag saknades på MSB:s Översvämningsportal. Det är en uppgift ur en **efterhandsutredning**. Den bevisar inte att inga andra lokala analyser fanns, eller att någon underlät att använda en tillgänglig karta. Men den visar hur ojämnt fördelad den geografiska riskkunskapen kan vara. [2]
+Samtidigt kan kunskap saknas där vi allra helst skulle vilja finna den. När länsstyrelserna senare undersökte 2023 års översvämningar konstaterade de att SMHI inte hade gjort någon översvämningskartering av Örsundaån och att motsvarande underlag saknades på MSB:s Översvämningsportal. Det är en uppgift ur en **efterhandsutredning**. Den bevisar inte att inga andra lokala analyser fanns, eller att någon underlät att använda en tillgänglig karta. Men den visar hur ojämnt fördelad den geografiska riskkunskapen kan vara (Länsstyrelsen Västmanland, 2024, s. 16).
 
 Vi lever alltså inte i ett samhälle utan kunskap. Vi lever i ett samhälle där kunskap har adresser, format, avgränsningar och ibland mycket långa vägar till användning.
 
@@ -47,7 +47,7 @@ Det krävs fler steg: att någon hittar informationen, förstår dess räckvidd,
 
 Det är lätt att rita den kedjan. Den är svårare att upprätthålla.
 
-I en studie publicerad av Svenskt Vatten Utveckling 2019 visade Anna Thomasson hur kommuners resurser, kompetens, organisationsformer och samverkan påverkar deras förutsättningar för krisarbete. Studien handlar framför allt om dricksvatten, inte om Hebys avloppsreningsverk. Dess relevans här är alltså **strukturell**, inte bevisförande om vad en viss förvaltning gjorde 2023. [6]
+I en studie publicerad av Svenskt Vatten Utveckling 2019 visade Anna Thomasson hur kommuners resurser, kompetens, organisationsformer och samverkan påverkar deras förutsättningar för krisarbete. Studien handlar framför allt om dricksvatten, inte om Hebys avloppsreningsverk. Dess relevans här är alltså **strukturell**, inte bevisförande om vad en viss förvaltning gjorde 2023 (Thomasson, 2019, s. 21–22, 27).
 
 Särskilt för mindre kommuner blir frågan påtaglig. Samma verklighet kräver både att dagens verksamhet fungerar och att morgondagens undantag förbereds. Kompetens kan vara koncentrerad till få personer. Budgeten ska räcka till sådant som redan är nödvändigt. Under tiden växer mängden data och behovet av analyser.
 
@@ -61,7 +61,7 @@ Inte därför att någon nödvändigtvis blundar. Utan därför att kunskap inte
 
 Tillbaka i september 2023 måste ett konkret beslut fattas. Det elektriska beroendet gick inte att förhandla bort med en ny arbetsgrupp eller en bättre formulerad riskanalys. När vattnet hotade elcentralen behövde de ansvariga hantera den omedelbara säkerheten.
 
-I länsstyrelsernas efterhandsutredning bedömdes miljöpåverkan från reningsverkens bräddningar som begränsad utifrån tillgängligt material. Utredarna lyfte också att kommunen snabbt lyckades få i gång reningsprocessen igen. Det förtjänar att stå bredvid berättelsen om driftstoppet. [2]
+I länsstyrelsernas efterhandsutredning bedömdes miljöpåverkan från reningsverkens bräddningar som begränsad utifrån tillgängligt material. Utredarna lyfte också att kommunen snabbt lyckades få i gång reningsprocessen igen. Det förtjänar att stå bredvid berättelsen om driftstoppet (Länsstyrelsen Västmanland, 2024, s. 30).
 
 Så vad är egentligen tragedin?
 
@@ -71,7 +71,7 @@ Tragedin – om vi nu låter den ordet få ett visst mått av komisk överdrift 
 
 Det är inte en slutsats om varför just elcentralen stod där den stod. Det är en fråga som dess öde tillåter oss att ställa.
 
-Kommunen har efter översvämningen arbetat vidare med en plan för skyfall och höga flöden, antagen 2025. Det är ett uttryck för fortsatt hantering av risk, inte ett facit över vad som skulle ha varit möjligt tjugo år tidigare. [7]
+Kommunen har efter översvämningen arbetat vidare med en plan för skyfall och höga flöden, antagen 2025. Det är ett uttryck för fortsatt hantering av risk, inte ett facit över vad som skulle ha varit möjligt tjugo år tidigare (Heby kommun, 2025).
 
 Den viktigaste frågan är därför kanske inte om vi borde ha vetat mer.
 
@@ -83,20 +83,20 @@ Det är också en berättelse värd att följa.
 
 ---
 
-### Källor som driver utkastet
+### Referenser
 
-**[1]** Cirkulation (2023), [*Heby-verket byggs om efter översvämning*](https://cirkulation.se/artiklar-och-notiser/heby-verket-byggs-om-efter-oversvamning/), 8 november 2023. Offentligt tillgängligt artikelutdrag; resterande artikel kräver abonnemang.
+Heby kommun (2017) *Riktlinjer för dagvatten i Heby kommun*. HebyFS 2017:14. Heby kommun. Tillgänglig: https://www.heby.se/download/18.3b26467617dc1ebe39ece3cc/1643207019008/Riktlinje%20f%C3%B6r%20dagvatten%20i%20Heby%20kommun.pdf (Hämtad: 20 november 2026).
 
-**[2]** Länsstyrelserna (2024), [*Utredning av översvämningar i Västmanlands och Uppsala län september 2023*](https://www.lansstyrelsen.se/download/18.791d03ad18e75f375cd5126b/1712668496493/Rapport%20om%20Utredning%20av%20%C3%B6versv%C3%A4mningar%20i%20V%C3%A4stmanlands%20och%20Uppsala%20l%C3%A4n%20september%202023-TGA.pdf), särskilt s. 16–17, 30–31 (sidhänvisningar kontrolleras före publicering).
+Heby kommun (2025) *Heby kommuns plan för hantering av skyfall och höga flöden*. Heby kommun. Tillgänglig: https://www.heby.se/boende-trafik-och-miljo/energi-miljo-och-klimat/klimat/skyfall-och-oversvamning/heby-kommuns-plan-for-hantering-av-skyfall-och-hoga-floden (Hämtad: 20 november 2026).
 
-**[3]** Heby kommun (2017), [*Riktlinjer för dagvatten i Heby kommun*, HebyFS 2017:14](https://www.heby.se/download/18.3b26467617dc1ebe39ece3cc/1643207019008/Riktlinje%20f%C3%B6r%20dagvatten%20i%20Heby%20kommun.pdf), s. 1–2.
+Länsstyrelsen Västmanland (2024) *Utredning av översvämningarna i Västmanlands och Uppsala län i september 2023*. Dnr 452-4653-2023. Länsstyrelsen Västmanland. Tillgänglig: https://www.lansstyrelsen.se/download/18.791d03ad18e75f375cd5126b/1712668496493/Rapport%20om%20Utredning%20av%20%C3%B6versv%C3%A4mningar%20i%20V%C3%A4stmanlands%20och%20Uppsala%20l%C3%A4n%20september%202023-TGA.pdf (Hämtad: 20 november 2026).
 
-**[4]** Tyréns (2021), [*Dagvattenutredning, DP 393 Harbo*](https://www.heby.se/download/18.6a953b7e17dc20ff91a9da9/1641378011346/dp-393-hogta-dagvattenutredning.pdf), beställd av Heby kommun. **Gäller Harbo, inte reningsverket i Heby tätort.**
+Mälarens vattenvårdsförbund (u.å.) *Presentationer från Framtidsverkstad och samverkan*. Mälarens vattenvårdsförbund. Tillgänglig: https://www.malaren.se/vattenrad/orsundaans-vattenrad/presentationer/ (Hämtad: 20 november 2026). **Not:** Vattenkonferensen ägde rum den 14 juni 2023; webbplatsens publiceringsår är inte fastställt.
 
-**[5]** Örsundaåns vattenråd/Mälarens vattenvårdsförbund, [*Presentationer från Framtidsverkstad och samverkan*](https://www.malaren.se/vattenrad/orsundaans-vattenrad/presentationer/), uppgift om vattenkonferensen den 14 juni 2023.
+Thomasson, A. (2019) *Samverkan vid krishantering – hur arbetar svenska kommuner?* Svenskt Vatten Utveckling, rapport 2019-4. Bromma: Svenskt Vatten. Tillgänglig: https://vav.griffel.net/filer/svu-rapport-2019-04.pdf (Hämtad: 20 november 2026).
 
-**[6]** Thomasson, A. (2019), [*Samverkan vid krishantering – hur arbetar svenska kommuner?*](https://vav.griffel.net/filer/svu-rapport-2019-04.pdf), Svenskt Vatten Utveckling, rapport 2019-4. Främst dricksvattenområdet.
+Tyréns (2021) *Dagvattenutredning, DP 393 Harbo*. Slutrapport 11 februari 2021. Uppdrag 309319. Uppsala: Tyréns AB. Tillgänglig: https://www.heby.se/download/18.6a953b7e17dc20ff91a9da9/1641378011346/dp-393-hogta-dagvattenutredning.pdf (Hämtad: 20 november 2026).
 
-**[7]** Heby kommun (2025), [*Plan för hantering av skyfall och höga flöden*](https://www.heby.se/boende-trafik-och-miljo/energi-miljo-och-klimat/klimat/skyfall-och-oversvamning/heby-kommuns-plan-for-hantering-av-skyfall-och-hoga-floden), antagen 23 januari 2025.
+Winnfors Wannberg, E. (2023) 'Heby-verket byggs om efter översvämning', *Cirkulation*, 8 november. Tillgänglig: https://cirkulation.se/artiklar-och-notiser/heby-verket-byggs-om-efter-oversvamning/ (Hämtad: 20 november 2026). **Not:** Endast offentligt tillgängligt artikelutdrag har granskats; fulltexten kräver abonnemang.
 
-*Detta är ett redaktionellt arbetsutkast. Källhänvisningar, upphov, exakt sidstöd och återgivning kräver slutlig HARP RefA-kontroll; källförteckningen är ännu inte en färdig Harvardlista.*
+*Status: redaktionellt utkast. Sidangivelser bygger på sidnumrerad originaltext; PDF-skärmavbilder kunde inte hämtas för visuell dubbelkontroll. HARP ITR1/2/4/5/6 och publiceringsklar RefA återstår. Hänvisningar till opaginerade webbsidor saknar sidnummer i enlighet med Harvard/HARP.*
