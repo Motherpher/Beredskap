@@ -1,0 +1,42 @@
+name: HARP & Research Registry Integrity
+on:
+  pull_request:
+    paths:
+      - 'sources/registry/**'
+      - 'data/DATA_REQUIREMENTS.json'
+      - 'research/ARGUMENT_LEDGER.json'
+      - 'roadmap/**'
+      - 'scripts/**'
+      - '.github/workflows/harp-integrity.yml'
+  push:
+    branches: [main, research/heby-elcentralen-v1]
+permissions:
+  contents: read
+jobs:
+  audit-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Syntax check
+        run: python -m py_compile scripts/search_sources.py scripts/validate_research_registry.py
+      - name: Validate canonical HARP and roadmaps
+        run: python scripts/validate_research_registry.py
+      - name: Search smoke test
+        run: python scripts/search_sources.py --tag part:d1 --limit 2
+      - name: No false RefA clearance
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          p=pathlib.Path('sources/registry/HARP_MASTER_INDEX.json')
+          idx=json.loads(p.read_text(encoding='utf-8'))
+          all_sources=[]
+          for shard in idx['shards']:
+              all_sources += json.loads(pathlib.Path(shard['file']).read_text(encoding='utf-8'))
+          cleared=[x for x in all_sources if x['harp']['overall']=='RefA_CLEARED']
+          for x in cleared:
+              assert x['harvard']['reference_formatted'] and x['harp']['ITR6']=='CLEARED'
+          print('RefA cleared:',len(cleared))
+          PY

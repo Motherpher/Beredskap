@@ -19,3 +19,6 @@ En källas `HARP-xxxxxxxx` är en **intern identitet**, inte en färdig Harvardr
 
 ## Särskilda skillnader
 Tämnarån/Örsundaån, dricksvatten/avloppsreningsverk, 2017-policy/teknisk elcentral samt samverkan/organiserad förmåga hålls metodiskt separata.
+
+
+För prioriterad manuell granskning: [HARP RefA-kö med käll-ID och status](../sources/registry/HARP_REFA_QUEUE.md).
