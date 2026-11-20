@@ -77,3 +77,13 @@ Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). 
 - [Metod för vittnesmål och lokaljournalistik](research/CRISIS_LIVED_EXPERIENCE_SOURCE_PROTOCOL.md)
 
 **Källgrind:** både PDF-originaltext och datering kontrollerades för Hebys 2017/2009/2021-dokument och Hebys 2024-remiss; webbscreenshots misslyckades på grund av cache. Salas PwC-rapport från 2020 ingår i 2021 års politiska dokument och kan läsas som indexerad originaltext. UNT-artiklar och flera SR-sidor samt nya 2025/2026 PDF:er kunde inte läsas i original; inga artikelpåståenden härleds från rubrikerna. Deep Research-instruktioner uppdaterade, slutgranskning återstår.
+
+
+## Källbatch 7 – skogsbrandlärande, civilsamhällets kapacitet och VA-samverkan
+- [34 unika källposter (31 webbkällor, 1 oåtkomlig lokal filhänvisning, 2 uppladdade PDF:er)](sources/USER_SOURCES_SET_7_2026-11-20.json); dubblerad MCF2026-källa räknas en gång
+- [Västmanlandsbranden: originalstudie 2022 + MSB2016 + lokal Sala-Heby-koppling](research/VASTMANLAND_BRIDGE_2014_2016_2022.md)
+- [Lokal civilsamhälleskapacitet och inkluderingsdata](research/LOCAL_CIVIC_DATA_AND_EQUITY_BATCH7.md)
+- [Nationell/regional VA-kunskap och mottagningskedja 2015–2024](research/VA_KNOWLEDGE_TRANSLATION_2019_2024.md)
+- [Ändringsorder 005 med WP22/WP23, D1-F7 och D2-F9](governance/CHANGE_ORDER_005_FIRE_LEARNING_CIVIC_CAPACITY.md)
+
+**Metod:** två uppladdade original-PDF:er verifierade lokalt och SHA256 registrerade; inte publicerade i öppet repo. För externa PDF:er lyckades vanligen textläsning men inte grafiska skärmavbilder; SOU 2019:7-omslaget kontrollerades. Full HARP RefA och källsidgranskning kvarstår.
