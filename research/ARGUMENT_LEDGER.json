@@ -20,7 +20,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-069c990d",
+        "HARP-057e2f64",
+        "HARP-03e1edae",
+        "HARP-042e2c21",
+        "HARP-07bd9f45",
+        "HARP-d436d232",
+        "HARP-b80eb9ae"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-02",
@@ -38,7 +48,13 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-3e415557",
+        "HARP-4ee8fec2",
+        "HARP-02eaed27"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-03",
@@ -56,7 +72,14 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-7b237f3e",
+        "HARP-82777b90",
+        "HARP-cac757d0",
+        "HARP-0d1279b4"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-04",
@@ -74,7 +97,12 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-32612a57",
+        "HARP-6cfa66be"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-05",
@@ -91,7 +119,14 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-32612a57",
+        "HARP-6cfa66be",
+        "HARP-95fd7679",
+        "HARP-79c3caf5"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-06",
@@ -109,7 +144,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-d2f7ebf3",
+        "HARP-ff050c2c",
+        "HARP-6e8176ca",
+        "HARP-6cfa66be",
+        "HARP-d190c88a",
+        "HARP-28ff28c8",
+        "HARP-8ba29df4"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-07",
@@ -127,7 +172,12 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-c0daec35",
+        "HARP-80231146"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-08",
@@ -145,7 +195,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-ce488a1c",
+        "HARP-b35466c1",
+        "HARP-0265656b",
+        "HARP-8adb5f0e",
+        "HARP-5100adb0",
+        "HARP-0788237b",
+        "HARP-1cc7564e"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-09",
@@ -163,7 +223,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-63d75dc6",
+        "HARP-d2f7ebf3",
+        "HARP-0b2d6fdc",
+        "HARP-ff050c2c",
+        "HARP-ff6bc839",
+        "HARP-6e8176ca",
+        "HARP-d190c88a"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-10",
@@ -181,7 +251,16 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-0b2d6fdc",
+        "HARP-00ced796",
+        "HARP-ff050c2c",
+        "HARP-6e8176ca",
+        "HARP-f69060c3",
+        "HARP-e83624b0"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-11",
@@ -200,7 +279,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-7b237f3e",
+        "HARP-82777b90",
+        "HARP-c2958897",
+        "HARP-dbc056cd",
+        "HARP-d6c88bd1",
+        "HARP-e24d9f47",
+        "HARP-f3366db8"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-12",
@@ -218,7 +307,13 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-31355893",
+        "HARP-2c73146b",
+        "HARP-0bd4361f"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-13",
@@ -237,7 +332,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-ce488a1c",
+        "HARP-b35466c1",
+        "HARP-0265656b",
+        "HARP-8adb5f0e",
+        "HARP-5100adb0",
+        "HARP-0788237b",
+        "HARP-fe559106"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-14",
@@ -255,7 +360,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-e450d7cd",
+        "HARP-63e45c33",
+        "HARP-d190c88a",
+        "HARP-9c2a1236",
+        "HARP-355576b2",
+        "HARP-ce488a1c",
+        "HARP-240d6718"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "ARG-15",
@@ -272,7 +387,17 @@
       "evidence_level": "PRELIMINARY_OR_OPEN",
       "verified_claim": "NO",
       "missing_evidence": "REQUIRES_RECORD_LINKS_AND_FULL_HARP",
-      "decision": "NOT_FOR_PUBLICATION"
+      "decision": "NOT_FOR_PUBLICATION",
+      "candidate_harp_ids": [
+        "HARP-32612a57",
+        "HARP-07bd9f45",
+        "HARP-7236cda2",
+        "HARP-cac757d0",
+        "HARP-145fa995",
+        "HARP-47740b5e",
+        "HARP-03e1edae"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     }
   ]
 }

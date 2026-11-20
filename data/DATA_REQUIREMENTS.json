@@ -22,7 +22,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-069c990d",
+        "HARP-042e2c21",
+        "HARP-057e2f64",
+        "HARP-b625ca8e",
+        "HARP-eb5fc517",
+        "HARP-0ad45a7f",
+        "HARP-084e3033"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-02",
@@ -38,7 +48,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-8ba29df4",
+        "HARP-03e1edae",
+        "HARP-07bd9f45",
+        "HARP-d436d232",
+        "HARP-b80eb9ae",
+        "HARP-10dd46c1",
+        "HARP-69cf43b6"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-03",
@@ -54,7 +74,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-f3366db8",
+        "HARP-8ba29df4",
+        "HARP-528fdc60",
+        "HARP-069c990d",
+        "HARP-042e2c21",
+        "HARP-057e2f64",
+        "HARP-b625ca8e"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-04",
@@ -70,7 +100,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-3e415557",
+        "HARP-03e1edae",
+        "HARP-069c990d",
+        "HARP-07bd9f45",
+        "HARP-d436d232",
+        "HARP-b80eb9ae",
+        "HARP-4ee8fec2"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-05",
@@ -86,7 +126,13 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-32612a57",
+        "HARP-6cfa66be",
+        "HARP-f5596206"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-06",
@@ -102,7 +148,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-7236cda2",
+        "HARP-ecd88ab9",
+        "HARP-0b08d88b",
+        "HARP-63e45c33",
+        "HARP-79e6a263",
+        "HARP-4b2516b3",
+        "HARP-ff6bc839"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-07",
@@ -118,7 +174,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-6cfa66be",
+        "HARP-32612a57",
+        "HARP-bcd5b786",
+        "HARP-37eb0ea3",
+        "HARP-8b9f75af",
+        "HARP-98df9575",
+        "HARP-5da717ef"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-08",
@@ -134,7 +200,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-7236cda2",
+        "HARP-47740b5e",
+        "HARP-4ee8fec2",
+        "HARP-0b08d88b",
+        "HARP-63e45c33",
+        "HARP-79e6a263",
+        "HARP-4b2516b3"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-09",
@@ -150,7 +226,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-5222c71b",
+        "HARP-07bd9f45",
+        "HARP-d436d232",
+        "HARP-b80eb9ae",
+        "HARP-344f8f0c",
+        "HARP-34b03fe8",
+        "HARP-12e41459"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-10",
@@ -166,7 +252,12 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-c0daec35",
+        "HARP-80231146"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-11",
@@ -182,7 +273,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-0b2d6fdc",
+        "HARP-ff050c2c",
+        "HARP-6e8176ca",
+        "HARP-28ff28c8",
+        "HARP-f69060c3",
+        "HARP-8ba29df4",
+        "HARP-e83624b0"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-12",
@@ -198,7 +299,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-355576b2",
+        "HARP-240d6718",
+        "HARP-38a6c767",
+        "HARP-acd34da8",
+        "HARP-508cca13",
+        "HARP-1cc7564e",
+        "HARP-0abe3328"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-13",
@@ -214,7 +325,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-8adb5f0e",
+        "HARP-5100adb0",
+        "HARP-ce488a1c",
+        "HARP-be564123",
+        "HARP-b35466c1",
+        "HARP-0265656b",
+        "HARP-dedfb0c1"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-14",
@@ -230,7 +351,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-63d75dc6",
+        "HARP-d2f7ebf3",
+        "HARP-0b2d6fdc",
+        "HARP-00ced796",
+        "HARP-ff6bc839",
+        "HARP-eb3064b3",
+        "HARP-35e2ab38"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-15",
@@ -246,7 +377,15 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-23b537f3",
+        "HARP-cb981ef6",
+        "HARP-a4645724",
+        "HARP-9b55b766",
+        "HARP-fe559106"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-16",
@@ -262,7 +401,16 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-e7fb03ba",
+        "HARP-e0cbaab6",
+        "HARP-bd654460",
+        "HARP-98df9575",
+        "HARP-5bae2c6f",
+        "HARP-fe559106"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-17",
@@ -278,7 +426,17 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-7b237f3e",
+        "HARP-82777b90",
+        "HARP-cac757d0",
+        "HARP-c2958897",
+        "HARP-d6c88bd1",
+        "HARP-e24d9f47",
+        "HARP-c405f814"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-18",
@@ -294,7 +452,13 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-dbc056cd",
+        "HARP-31355893",
+        "HARP-2c73146b"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-19",
@@ -310,7 +474,15 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-00ced796",
+        "HARP-ff050c2c",
+        "HARP-6e8176ca",
+        "HARP-d190c88a",
+        "HARP-9b55b766"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     },
     {
       "id": "DATA-20",
@@ -326,7 +498,16 @@
       "owner_role": null,
       "raw_data_received": false,
       "source_harp_ids": [],
-      "note": "Found descriptions are inherited working notes; verify original before findings."
+      "note": "Found descriptions are inherited working notes; verify original before findings.",
+      "candidate_harp_ids": [
+        "HARP-d2f7ebf3",
+        "HARP-10dd46c1",
+        "HARP-69cf43b6",
+        "HARP-6cfa66be",
+        "HARP-f5596206",
+        "HARP-1788320a"
+      ],
+      "candidate_link_status": "AUTOMATIC_SEARCH_LEADS_NOT_CITED_EVIDENCE"
     }
   ]
 }

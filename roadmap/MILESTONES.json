@@ -12,7 +12,10 @@
       "status": "in_progress",
       "depends_on": [],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 2,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/2",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS1",
@@ -26,7 +29,10 @@
         "MS0"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 3,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/3",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS2",
@@ -40,7 +46,10 @@
         "MS0"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 4,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/4",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS3",
@@ -55,7 +64,10 @@
         "MS2"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 5,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/5",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS4",
@@ -70,7 +82,10 @@
         "MS3"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 6,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/6",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS5",
@@ -85,7 +100,10 @@
         "MS1"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 7,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/7",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS6",
@@ -99,7 +117,10 @@
         "MS5"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 8,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/8",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS7",
@@ -116,7 +137,10 @@
         "MS6"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 9,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/9",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     },
     {
       "id": "MS8",
@@ -130,7 +154,10 @@
         "MS7"
       ],
       "due_date": null,
-      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED"
+      "readiness_label": "CHECKABLE_EXIT_CRITERIA_NO_DATES_ASSUMED",
+      "github_issue_number": 10,
+      "github_issue_url": "https://github.com/Motherpher/Beredskap/issues/10",
+      "github_issue_kind": "OPEN_ISSUE_NOT_GITHUB_MILESTONE_OBJECT"
     }
   ]
 }

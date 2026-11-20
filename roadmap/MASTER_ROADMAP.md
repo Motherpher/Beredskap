@@ -49,3 +49,17 @@ A. Original och versionsdatum för P1-källor. B. Rådata och modeller reproduce
 - [HARP-master](../sources/registry/HARP_MASTER_INDEX.json), [taxonomi](../governance/TAG_TAXONOMY.md), [wikistart](../wiki/Home.md).
 
 **Resurs-/tidsplan:** inga fiktiva deadline-datum eller personalbudgetar. Efter MS1 ska arbetsbelastning och prioritering tidsättas mot faktisk källtillgång, intervjupersoner och granskning.
+
+
+## GitHub-ärenden för milstolparna
+- [MS0 Källarkitektur och taggning](https://github.com/Motherpher/Beredskap/issues/2) – in_progress
+- [MS1 Datagap och originalåtkomst](https://github.com/Motherpher/Beredskap/issues/3) – not_started
+- [MS2 Historisk risk- och scenario-baslinje](https://github.com/Motherpher/Beredskap/issues/4) – not_started
+- [MS3 Teknisk elcentral och krisens förlopp](https://github.com/Motherpher/Beredskap/issues/5) – not_started
+- [MS4 Institutionell kunskap och handlingsalternativ](https://github.com/Motherpher/Beredskap/issues/6) – not_started
+- [MS5 Civilsamhällets baslinje och empiriska kedja](https://github.com/Motherpher/Beredskap/issues/7) – not_started
+- [MS6 Civic sensing och strategisk framsyn](https://github.com/Motherpher/Beredskap/issues/8) – not_started
+- [MS7 Argumentbank och integrerad syntes](https://github.com/Motherpher/Beredskap/issues/9) – not_started
+- [MS8 Granskad rapport och två artikelförutsättningar](https://github.com/Motherpher/Beredskap/issues/10) – not_started
+
+Dessa är öppna issues som konkretiserar milstolpar; de är inte automatiskt klarmarkerade eller inlagda som GitHubs separata milestone-objekt.
