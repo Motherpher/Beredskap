@@ -1,19 +1,16 @@
-# Forskningsprogrammet
-> **Status 2026-11-20:** Dessa är versionsstyrda wiki-sidor i forskningsgrenen. GitHubs separata Wiki är aktiverad men kan inte publiceras direkt med det tillgängliga GitHub-filverktyget. Se [WIKI_PUBLISHING.md](../governance/WIKI_PUBLISHING.md).
+# Kunskapsutveckling, fördjupning och rapportstöd
 
-## Två huvuddelar
-**Del 1 – Vilken kunskap rann förbi? – Policy, kunskap och data.** Studerar historiskt kända risker 1900–2026, särskilt 2000–2023, och rekonstruktion av september 2023; underlag för *Ett elverks tragedi*.
+> **Tidigare sidtitel:** Forskningsprogrammet. Ändrad projektdefinition enligt [ändringsorder 006](../governance/CHANGE_ORDER_006_KNOWLEDGE_PLATFORM_AND_GIS.md). Deep Research är ett **verktyg**; arbetet i sig är inte ett formellt forskningsprojekt.
 
-**Del 2 – Hur ser vi det som bara rinner på? – Civilsamhällets roll och karaktär i långsiktigt beredskapsarbete.** Undersöker civilsamhällets vardagliga resurser, behov/nyckelbehov/nyckelnyttor, logisk/praktisk närhet och kunskapens roll i förebyggande samverkan.
+## Beredskapsfrågan
+Hur utvecklas resiliens när samhällen ser civilsamhällets och den idéburna sektorns vardagliga verksamhet, relationer och data som förutsättningsskapande kapacitet – innan en kris inträffar?
 
-## Metod
-Ex ante-källor till 31 augusti 2023 hålls isär från efterkrisrapporter och senare metodutveckling. Delarna har varsin evidensmängd men delar registren för det som verkligen återkommer i båda.
+## Heby under ytan – två delstudier
+- **Del 1:** [Vilken kunskap rann förbi?](../kunskap/HEBY_UNDER_YTAN.md) – policy, kunskap, naturgeografi, tekniska och institutionella beslutsvägar.
+- **Del 2:** [Hur ser vi det som bara rinner på?](../kunskap/CIVILSAMHALLET.md) – civilsamhällets behov, lokalkunskap och samverkansförmåga före/under/efter.
 
-## Forskningsfrågor
-- [Del 1 prompt](../research/DEEP_RESEARCH_DEL1_PROMPT.md): D1-F1–F7.
-- [Del 2 prompt](../research/DEEP_RESEARCH_DEL2_PROMPT.md): D2-F1–F9.
-- [Foresight D2-F8](../research/DEEP_RESEARCH_WEAK_SIGNALS_PROMPT.md).
-- [Hela programmet](../research/DEEP_RESEARCH_PROGRAM_V3.md).
-- [Överlämning Del 1 → Del 2](../research/DEEP_RESEARCH_EVIDENCE_HANDOFF.md).
+## Deep Research underordnat rapporternas ändamål
+[Del 1:s sök- och evidensinstruktion](../research/DEEP_RESEARCH_DEL1_PROMPT.md) · [Del 2:s sök- och evidensinstruktion](../research/DEEP_RESEARCH_DEL2_PROMPT.md). Dessa instruerar **hur kunskap samlas**, inte hur uppdraget ska etiketteras.
 
-**Ej utfört:** full Deep Research, aktörsintervjuer, utomstående sakkunnigprövning och publiceringsklar RefA.
+## Metodiska distinktioner
+Ex ante kontra efterhandskunskap; lokal vs nationell metod; modellkartor vs verifierad anläggningspåverkan; föreningens registrerade hemvist vs faktisk verksamhetsgeografi; faktapåstående vs tolkning.

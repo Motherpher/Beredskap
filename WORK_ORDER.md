@@ -1,3 +1,5 @@
+> **OBS – uppdaterat uppdrag 20 november 2026:** Beredskap är en kunskaps- och utvecklingsplattform, och *Heby under ytan* är ett fördjupningsarbete, **inte ett formellt forskningsprojekt**. Deep Research används som underlagsmetod. Denna äldre arbetsorder bevaras som operativ och historisk källa. Se [MISSION.md](MISSION.md) och [ändringsorder 006](governance/CHANGE_ORDER_006_KNOWLEDGE_PLATFORM_AND_GIS.md).
+
 # OPERATIV ARBETSORDER – HEBY 2023
 
 **ID:** HEBY-ELECTRIC-RESEARCH-WO-001  

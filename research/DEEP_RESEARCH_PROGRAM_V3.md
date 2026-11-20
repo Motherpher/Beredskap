@@ -1,3 +1,5 @@
+> **Gällande arbetsdefinition:** Dokumentets historiska namn `Deep Research-program` beskriver ett verktyg för underlagsinhämtning och analys. *Heby under ytan* är **fördjupningsarbete och kunskapsutveckling**, inte ett formellt forskningsprojekt. Se [uppdraget](../MISSION.md).
+
 # Heby under ytan – Deep Research-program 3.0
 **Datum:** 2026-11-20 · **Status:** forskningsfrågor och uppdragsinstruktioner, inte färdiga forskningsresultat
 

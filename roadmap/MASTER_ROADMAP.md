@@ -1,3 +1,5 @@
+> **Rättad projektidentitet (2026-11-20):** Beredskap är en kunskaps- och utvecklingsplattform. *Heby under ytan* är fördjupning och rapportframtagning, Deep Research är en metod för att bidra med underlag. Se [MISSION](../MISSION.md) och [Dashboard](../DASHBOARD.md).
+
 # Roadmap – Heby under ytan och Beredskap
 **Datum 2026-11-20 · status: arbets- och milstolpeplan, ej bevisad forskningsleverans.**
 **Beslut:** Director. Källor och process dokumenteras i öppet repo utan sekretesskänslig information.

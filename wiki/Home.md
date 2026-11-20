@@ -1,18 +1,17 @@
-# Beredskap – Heby under ytan
-> **Status 2026-11-20:** Dessa är versionsstyrda wiki-sidor i forskningsgrenen. GitHubs separata Wiki är aktiverad men kan inte publiceras direkt med det tillgängliga GitHub-filverktyget. Se [WIKI_PUBLISHING.md](../governance/WIKI_PUBLISHING.md).
+# Beredskap – kunskap, beredskap och civilsamhällets möjligheter
 
-## Syfte
-En sammanhängande kunskapsstruktur för `Motherpher/Beredskap`. Wiki fungerar som **orientering, syntes, navigering och begreppsstöd**. Originalbelägg, fullständiga källposter, data, kontrollspår och beslut förblir versionerade i ordinarie repo.
+> **Wiki-källsidor finns i huvudrepoets Markdown-mappar.** GitHubs separata Wiki är inte automatiskt synkroniserad. [Publiceringsanvisning](../governance/WIKI_PUBLISHING.md).
 
-## Börja här
-- [Forskningsprogrammet](Forskningsprogrammet.md) – vad, varför, avgränsningar och forskningsfrågor.
-- [Källbiblioteket](Kallbiblioteket.md) – sökning, register och taggade källor.
-- [HARP och evidens](HARP-och-evidens.md) – RefA, ITR-kontroller och publiceringsgrindar.
-- [Del 1: Vilken kunskap rann förbi?](Del-1.md) – naturgeografi, modeller, beslut och elcentralen.
-- [Del 2: Civilsamhället](Del-2.md) – förutsättningsstruktur, logisk/praktisk närhet och weak signals.
-- [Data och argument](Data-och-argument.md) – önskad/funnen data och prövbara teser.
-- [Roadmap och milstolpar](Roadmap.md) – arbetspaket, beroenden, avslutskriterier.
-- [Kunskapsluckor](Kunskapsluckor.md) – vad som särskilt behöver hämtas och kontrolleras.
+## Läs först
+- [Dashboard](../DASHBOARD.md) – läge, evidensgrindar, milstolpar och kartpiloter.
+- [Uppdrag och riktning](../MISSION.md) – system, samverkan, data, strategi och operativ design.
+- [Fördjupningen Heby under ytan](../kunskap/HEBY_UNDER_YTAN.md) – ett kunskapsutvecklingsarbete, inte institutionell forskning.
+- [Civilsamhällets roll](../kunskap/CIVILSAMHALLET.md) – direkt/indirekt kapacitet, egenvärde, förutsättningar.
+- [Kartor och geografisk förståelse](../kunskap/KARTOR_OCH_GEOGRAFI.md) – Heby och Uppsala län, FF-Spatial och QGIS.
+- [Källbiblioteket](../kallor/README.md) – samtliga 177 källor läsbara i Markdown.
+- [Datakatalog](../kunskap/DATA_OCH_BELAGG.md) och [argumentbank](../kunskap/ARGUMENT_OCH_MOTPROVNING.md).
+- [Genomförande](../roadmap/MASTER_ROADMAP.md) – arbetsströmmar och milstolpar.
+- [Alla Markdown-sidor](../INDEX.md).
 
-## Grundregler
-**Före 2023 ≠ efter 2023.** Nationellt publicerad kunskap ≠ dokumenterat använd i Heby. Tämnarån ≠ Örsundaån. Registrerad förening ≠ tillgänglig insatsresurs. Fråga/hypotes ≠ belagd slutsats. HARP-färdigt register ≠ granskade källor.
+## Om metoden
+HARP, källregister och Deep Research används för att stärka underlag och analyser, men arbetets mål är **användbar kunskap och kapacitet för ett resilient samhälle**, inte forskning som självändamål.

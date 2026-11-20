@@ -1,33 +1,47 @@
-# Heby under ytan – perspektiv på översvämningen 2023
-**Projektets huvudrapport och evidensinfrastruktur** · Forskningsdirektiv v2.0 · 20 november 2026
+# Beredskap – uppdrag, perspektiv och riktning
+**Form & Flöde · Uppdrags- och kunskapsutvecklingsdirektiv · 2026-11-20**
 
-## Syfte
-Analysera hur den extrema väderhändelsen i Heby september 2023 förvandlades till samhällsstörningar, vilka kapaciteter som fanns före/under/efter och i vilken mån civilsamhällets egen förmåga, behov och relationer var synliga och integrerade i lokal beredskapsplanering.
+## Vad detta är
+**Beredskap** är en kunskaps- och utvecklingsplattform. Den använder systemanalys, empiriskt underlag, strategi, samverkansdesign, deltagande och operativt utvecklingsarbete för att förstå och förbättra samhällets beredskap.
 
-## Huvudtes att pröva
-Regnet kunde inte undvikas; konsekvenserna kan möjligen ha reducerats genom bättre förhandskunskap, robusthet, relationer och samordnad kapacitetsutveckling. Detta är en hypotes som kräver ex ante-prövning, motbevis och förmågedata.
+**Heby under ytan** är det första fördjupningsarbetet. Översvämningarna i september 2023 är en konkret händelse där det blir möjligt att pröva hur naturgeografisk risk, offentliga system, beredskapskompetens, civilsamhällets karaktär och vardaglig lokal kapacitet samverkar.
 
-## Två publiceringsspår
-1. **Heby under ytan:** forskningsrapport om krisberedskapens system inklusive civilsamhälle, kommun, VA, räddningstjänst, invånare och region. Tidsram 2000–2026, förhistoria till 1900.
-2. **Ett elverks tragedi:** en berättande, populärvetenskaplig artikel om elcentralens placering, sista timmar, konsekvenser och de historiska tillfällena till riskreduktion. Den bygger på rapporten men bär också det större resonemanget om ett samhälles förberedelse.
+Det är **inte ett forskningsprojekt** i institutionell mening. **Deep Research** används för strukturerad källinhämtning och undersökning. Det materialet ska ge robusta rapporter, analyser, argument och publika berättelser. Ingen formell forskningsorganisation, etikprövning eller originaldatainsamling ska tillskrivas arbetet utan faktiska beslut och underlag.
 
-## Frågefamiljer
-- **Före:** Vilka aktörer och kapaciteter fanns? Hur utvecklades civilsamhället som egen sektor, och hur syntes det i kommunens RSA, övning, budget och samverkan?
-- **Under:** Vilka behov aktualiserades, hur matchades resurser och ansvar, och vilka informella initiativ uppstod? Vad vet vi om FRG:s faktiska roll i september 2023?
-- **Efter:** Vad återställdes, vad utvecklades och hur omsattes erfarenhet till förnyad kapacitet? Fick civilsamhället nytta av lärandet?
-- **Genomgående:** Skillnaden mellan logisk närhet (relevans för ett behov) och praktisk närhet (verifierbar handlingsförmåga).
+## Ändamål
+Att bidra till att **situationera civilsamhället och den idéburna sektorn** inom fredstida krisberedskap: som självständiga samhällsaktörer med egna ändamål och resurser, vardagsrelationer och potentiellt betydande kunskaps- och förmågebidrag.
 
-## Kunskapsgrind
-Hög föreningstäthet betyder inte bevisad operativ kapacitet. Att kommunen beskriver FRG i 2026 års information visar inte aktivering 2023. Efterhandsrapportering får inte upphöjas till ex ante-beslut eller till samtida kunskap.
+Grundfrågan är inte varför civilsamhället inte kallades in tillräckligt snabbt. Den är hur samhällen **före** en kris organiserar delaktighet, gemensam kunskap, strukturella förutsättningar och nyttor, så att fler förmågor finns, kan kännas igen och kan tas tillvara vid behov.
 
-## Princip
-Civilsamhället ska inte reduceras till gratis arbetskraft eller ersättning för kommunens reglerade ansvar. Kartlägg ömsesidiga behov, frivillighet, integritet, föreningars självständighet, finansiering, säkerhet och återkoppling.
+## Form & Flöde – analytiska linser
+- **System:** samspelet mellan geografisk placering, historia, institutioner, aktörer, resurser och beroenden.
+- **Samverkan:** relationer, mandat, tillit, ömsesidighet och konkret mottagningsförmåga före kris.
+- **Data:** kunskap **om, för och till** civilsamhället, föreningslivets vardagsobservationer, källkritik och beslutskedjor.
+- **Strategi:** nyckelbehov, nyckelnyttor, handlingsalternativ, framtidsbilder och prioriteringar.
+- **Operativ design:** förutsättningar för att faktiskt kunna agera – närhet, kapacitet, organisering, kontinuitet och återkoppling.
+- **Resiliens:** förmåga att förebygga, hantera, anpassa sig och återhämta sig utan att förutsätta att riskhändelsen kunde elimineras.
 
-## Nästa läsning
-- [Ändringsorder 002](governance/CHANGE_ORDER_002.md)
-- [Civilsamhällets analytiska ram](research/CIVIL_SOCIETY_FRAMEWORK.md)
-- [Hebys baslinje och verifieringsfrågor](research/HEBY_CIVIL_SOCIETY_BASELINE.md)
-- [Data- och indikatorplan](data/INDICATOR_PLAN.md)
-- [Huvudrapportens disposition](reports/HEBY_UNDER_YTAN_STRUCTURE.md)
-- [Användarens nya källor](sources/user_submitted_2026-11-20.json)
-- [Arbetsordern](WORK_ORDER.md)
+## Fördjupningens två delar
+**Del 1 – Vilken kunskap rann förbi? – Policy, kunskap och data.**
+Undersöker riskens historiska och geografiska sammanhang (1900–2026), kunskap, scenarier och styrning (2000–2023), fyra krisdygn och de fyra timmarna i den mån belagda tidpunkter finns, samt den senare responsen till 2026. Här utvecklas underlaget för *Ett elverks tragedi*.
+
+**Del 2 – Hur ser vi det som bara rinner på? – Civilsamhällets roll och karaktär i långsiktigt beredskapsarbete.**
+Undersöker civilsamhällets faktiska styrka/sårbarhet före, under och efter; logisk och praktisk närhet; indirekta och direkta förmågor; behov/nyckelbehov/nyckelnyttor; delaktighet; distribuerad observationskapacitet, weak signals och foresight.
+
+## Kartornas roll
+Kartor är inte dekorativa. De prövar förhållandet mellan **naturgeografisk exponering**, **civilsamhällets varierade geografier** och **offentlig verksamhets-/resursstruktur**. Multinivåanalys Heby–Uppsala län–jämförelseområde ska hållas reproducerbar i FF-Spatial. Tematiska frågor och säkra publiceringsnivåer ägs i Beredskap.
+
+## Ansvars- och kvalitetsgränser
+- Fysiskt skyfall ≠ de samhällskonsekvenser som kan reduceras.
+- Publicerad modell ≠ dokumenterad mottagen kunskap i Heby.
+- Tämnarån ≠ Örsundaån.
+- Registrerad förening ≠ kapacitet, uppdrag eller geografiskt verksamhetsområde.
+- Föreningars kunskap ≠ utan vidare verifierad hydrologisk orsak.
+- Indirekt möjliggörande civilsamhällesinsats ≠ fri tillgång till oavlönad arbetskraft.
+- HARP RefA- och sakgranskning krävs före publicering av centrala faktapåståenden.
+- Inga driftkritiska aktuella objektdetaljer eller individbaserade behovsprofiler i ett öppet repo.
+
+## Produkter och användningar
+Kunskapsrapporter, artiklar, begrepps-/metodutveckling, data- och argumentkataloger, besluts-/samverkansunderlag samt kartbaserade analyser och piloter när godkända gränssnitt fungerar.
+
+[Dashboard](DASHBOARD.md) · [Fördjupningen](kunskap/HEBY_UNDER_YTAN.md) · [Civilsamhället](kunskap/CIVILSAMHALLET.md) · [Källor](kallor/README.md) · [Roadmap](roadmap/MASTER_ROADMAP.md)
