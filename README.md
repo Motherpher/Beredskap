@@ -37,3 +37,12 @@ Gävle 2021 (skyfall) och Västmanlandsbranden 2014 (institutionell beredskap). 
 - [Data- och verifieringsmodell](data/CIVIC_OBSERVATION_MODEL.md)
 - [Heby 2020–2023: Örsundaåns vattenråd och vattenkonferensen](research/HEBY_WATER_COUNCIL_2023.md)
 - [Nya källspår](sources/CIVIC_SENSING_SOURCES_2026-11-20.json)
+
+
+## Nytt forskningsspår: weak signals och framsyn (Ändringsorder 004)
+- [Ändringsorder 004 / WP21](governance/CHANGE_ORDER_004_WEAK_SIGNALS_FORESIGHT.md)
+- [Argumentationsrum – civilsamhället och diversifierad kunskapsbas](research/WEAK_SIGNALS_ARGUMENTATION_SPACE.md)
+- [Fokuserad Deep Research D2-F8](research/DEEP_RESEARCH_WEAK_SIGNALS_PROMPT.md)
+- [Datakedja observation → signal → scenario → beslut](data/SIGNAL_TO_SCENARIO_PIPELINE.md)
+- [Hebys vattenkunskap 2005–2026 och källstatus](research/HEBY_WATER_KNOWLEDGE_FRAMING.md)
+- [Användarens ytterligare 14 länkrader, en sammanslagen URL uppdelad till två](sources/USER_SOURCES_SET_3_2026-11-20.json)

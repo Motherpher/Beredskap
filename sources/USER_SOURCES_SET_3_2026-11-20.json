@@ -1,0 +1,167 @@
+[
+  {
+    "source_id": "U3-01",
+    "title": "OrtsAktuellt vattenkonferens Från Regn till Resiliens",
+    "url": "https://ortsaktuellt.se/2026/10/vatten-amnet-pa-konferens/",
+    "document_date": "2026-10-27",
+    "source_type": "media post-2023",
+    "inspection_status": "search result confirms 27 Oct 2026 and about 75 attendees; direct open cache miss",
+    "temporal_class": "POST_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-02",
+    "title": "Örsundaåns vattenråd presentationslista och konferens",
+    "url": "https://www.malaren.se/vattenrad/orsundaans-vattenrad/presentationer/",
+    "document_date": "2023-06-14",
+    "source_type": "primary index",
+    "inspection_status": "direct opened, includes Heby municipal waterwork PDF and SLU GIS presentation",
+    "temporal_class": "PRE_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-03",
+    "title": "Mälarens vattenvårdsförbund video channel",
+    "url": "https://www.youtube.com/@malarensvattenvardsforbund950",
+    "document_date": "unknown",
+    "source_type": "video archive",
+    "inspection_status": "direct open failed; videos and dates must be verified individually",
+    "temporal_class": "UNKNOWN",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-04",
+    "title": "Mälarens vattenvårdsförbund publications",
+    "url": "https://www.malaren.se/startsida/kunskapsbank/publikationer/",
+    "document_date": "various",
+    "source_type": "official archive",
+    "inspection_status": "opened index; individual publications need separate fulltext review",
+    "temporal_class": "MIXED",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-05A",
+    "title": "UNT miljökommunikation på agendan (corrected split URL)",
+    "url": "https://www.unt.se/nyheter/heby/artikel/miljokommunikation-pa-agendan/lwgkd31r",
+    "document_date": "unknown",
+    "source_type": "journalism",
+    "inspection_status": "USER COMBINED URL contained two addresses; reconstructed split requires verification, access blocked",
+    "temporal_class": "UNKNOWN",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-05B",
+    "title": "Tämnarens Vatten samarbete SLU och kommuner",
+    "url": "https://www.tamnaren.se/?p=1409",
+    "document_date": "unknown",
+    "source_type": "civil sector site",
+    "inspection_status": "search confirms collaboration, direct open cache miss; publication date unknown",
+    "temporal_class": "UNKNOWN",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-06",
+    "title": "Räddningsverket/Sweco översiktlig översvämningskartering Tämnarån",
+    "url": "https://tamnaren.se/wp-content/uploads/2013/03/%C3%96VERSV%C3%84MNINGSKARTERING-L%C3%84NGS-T%C3%84MNAR%C3%85N.pdf",
+    "document_date": "2006-09-29",
+    "source_type": "historical hydrology PDF",
+    "inspection_status": "fulltext indexed; report dated 2006 NOT 2013; web screenshot failed; NOT Örsundaån",
+    "temporal_class": "PRE_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-07",
+    "title": "Naturvårdsverket rapport 5489 En bok om svensk vattenförvaltning",
+    "url": "https://tamnaren.se/wp-content/uploads/2013/03/Vattenf%C3%B6rvaltning.pdf",
+    "document_date": "2005-11",
+    "source_type": "public policy/history PDF",
+    "inspection_status": "fulltext indexed; 2005 report; web screenshot failed",
+    "temporal_class": "PRE_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-08",
+    "title": "Heby kommunalt vatten och avlopp",
+    "url": "https://www.heby.se/boende-trafik-och-miljo/vatten-och-avlopp/kommunalt-vatten-och-avlopp",
+    "document_date": "current",
+    "source_type": "municipality portal",
+    "inspection_status": "opened; technical unit manages VA network; current administrative description",
+    "temporal_class": "POST_OR_CURRENT",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-09",
+    "title": "SGU K 91 Beskrivning till kartan Grundvattenförekomster i Heby kommun",
+    "url": "https://resource.sgu.se/dokument/publikation/k/k91beskrivning/k91-beskrivning.pdf",
+    "document_date": "~2008",
+    "source_type": "geological report PDF",
+    "inspection_status": "search identifies K91; direct PDF too large for web retrieval; publication year not confirmed in file",
+    "temporal_class": "PRE_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-10",
+    "title": "Vattenkollen Heby dricksvatteninformation",
+    "url": "https://vattenkollen.se/vattenkvalitet/heby/",
+    "document_date": "2026",
+    "source_type": "commercial aggregator",
+    "inspection_status": "search identifies source and official-data link, direct open cache miss; not an official authority",
+    "temporal_class": "POST_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-11",
+    "title": "Vattenkollen homepage and coverage",
+    "url": "https://vattenkollen.se/",
+    "document_date": "2026",
+    "source_type": "commercial aggregator",
+    "inspection_status": "commercial private site; check original Heby/VA lab reports and potential commercial interests",
+    "temporal_class": "POST_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-12",
+    "title": "Enköpings-Posten Heby under vatten reportage",
+    "url": "https://www.eposten.se/nyheter/heby/artikel/brutala-uppvaknandet-efter-kraftskivan-heby-ligger-under-vatten/r3ow4oor",
+    "document_date": "2023-09",
+    "source_type": "local media",
+    "inspection_status": "blocked/cache miss; no verified fulltext or precise event statements",
+    "temporal_class": "EVENT_MEDIA",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-13",
+    "title": "Mötesplats Vatten conference portal",
+    "url": "https://motesplatsvatten.se/konferens/",
+    "document_date": "2027-10",
+    "source_type": "professional event/current",
+    "inspection_status": "opened; upcoming 12–14 October 2027 with link to 2025 programme; future/current capacity example only",
+    "temporal_class": "FUTURE_OR_POST",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  },
+  {
+    "source_id": "U3-14",
+    "title": "Heby hållbarhetslöften vatten 2025–2029",
+    "url": "https://www.heby.se/arkiv/nyheter/2025/2025-12-09-heby-kommun-har-tecknat-hallbarhetsloften-om-vattenatgarder",
+    "document_date": "2025-12-09",
+    "source_type": "municipal announcement",
+    "inspection_status": "opened: four focus areas include water management, drinking water, nutrient/resistant-substance loads",
+    "temporal_class": "POST_2023",
+    "harp_refa": "PENDING",
+    "accessed_at": "2026-11-20"
+  }
+]

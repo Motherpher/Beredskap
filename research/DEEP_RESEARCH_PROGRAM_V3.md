@@ -55,3 +55,6 @@ Jämförelsekällor: SPARC (SMHI, projekt 2021–2025, webbpublicerad 2024); Art
 **Rättslig och ekologisk avgränsning:** Ett igenväxt dike, en översvämmad trumma eller nedfallet träd är först en observation. Det är inte bevis för otillräckligt underhåll eller en uppmaning till rensning; naturliga vattendrag, markavvattningsföretag, ekologiska värden, tillstånd, rådighet och nedströmseffekter ska prövas.
 
 **Leverans:** datakatalog och observationsschema, pilotupplägg med både återkommande observationsplatser och bredare öppna berättelser, bias-/täckningsanalys, verifierings- och återkopplingskedja, samt högst 5–8 empiriska källfall som visar när medborgardata faktiskt har lett till bättre beredskaps-/miljöbeslut.
+
+## Tillägg 004 – D2-F8 och WP21
+**D2-F8:** Under vilka förutsättningar kan diversifierad civil kunskapsproduktion bidra till weak-signal-detektion, horizon scanning och scenarioprövning utan att civilsamhället måste äga analysen? Se [ny forskningsinstruktion](DEEP_RESEARCH_WEAK_SIGNALS_PROMPT.md), [argumentationsrum](WEAK_SIGNALS_ARGUMENTATION_SPACE.md), [ändringsorder 004](../governance/CHANGE_ORDER_004_WEAK_SIGNALS_FORESIGHT.md) och [dataschema](../data/SIGNAL_TO_SCENARIO_PIPELINE.md). För Del 1 kompletteras D1-F2–F3 med ex ante-signalkedjan, inte med obestämt många nya historiska händelser.

@@ -74,3 +74,12 @@ II. Separera geolokaliserad miljöobservation från egenberättelse och SenseMak
 III. Dokumentera den praktiska kedjan observation → verifiering → juridisk ansvarig → beslutsvärdering → återkoppling.
 IV. Utred ägande/underhåll för relevanta diknings- och markavvattningsanläggningar via arkiv och beslutshandlingar, utan att utgå från att de var 'slumrande' eller att rensning var rätt åtgärd.
 V. Använd pre-2023-förenings-/vattenrådsmaterial för ex ante-frågor; forskning publicerad 2024–2026 får endast fungera som metodiskt jämförelsematerial om den inte faktiskt fanns 2023.
+
+
+---
+
+## Tillägg 004 – D2-F8: weak signals, strategisk framsyn och mångkällighet
+
+**Forskningsfråga:** När och hur skapar civilsamhällets divergerande rörelsemönster, kunskaper och erfarenheter en användbar mångfald av signaler till strategisk framsyn och beredskapsbeslut, utan krav på att civilsamhället äger hela analys- eller beslutsfunktionen?
+
+Använd [DEEP_RESEARCH_WEAK_SIGNALS_PROMPT.md](DEEP_RESEARCH_WEAK_SIGNALS_PROMPT.md) som fördjupad men **avgränsad** metodinstruktion för D2-F8. Granska Ansoff/Hiltunen/weak signals, OECD:s horisontspaning, citizen science, bias/validering och empiriska fall; testa snarare än förutsätt att kunskapsdiversitet förbättrar förmågan. Jämförelsen med militär underrättelse ska begränsas till funktionen tidig signalupptäckt och mångkällighetsanalys, aldrig invånarövervakning eller överföring av underrättelseregler.

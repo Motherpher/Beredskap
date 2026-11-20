@@ -43,3 +43,7 @@ F. Rättslig avgränsning: bindande skyldighet kontra vägledning/rekommendation
 G. Harvardreferenser med primärkällornas fullständiga titel, sida/tabell, URL och åtkomstdatum. Markera separat icke åtkomliga handlingar för offentlighetsförfrågan.
 
 **Stoppregel:** Om elcentralens tekniska historik eller fyra-timmarslogg saknas ska det bli en identifierad informationslucka och handlingsoffentlighetsåtgärd – inte en spekulativ rekonstruktion. Ingen slutbedömning av grov försummelse utan direkt prövning av kunskap, rådighet, skälig åtgärd och motbevis.
+
+
+## Käll- och framingtillägg (Ändringsorder 004)
+Säkra originalpresentationsmaterial från vattenkonferensen **14 juni 2023**: Hebys egen presentation om aktuellt vattenarbete, SLU:s föredrag om GIS, vattenrådets dokumentation och besluts-/uppföljningsspår. Granska om lokala signaler om vattenförhållanden nådde risk-/beredskapsplanering vid sidan av miljö- och vattenkvalitetsplaneringen. Den kända översiktliga Tämnarånskarteringen är daterad **2006-09-29** (inte 2013) och gäller **inte automatiskt Örsundaån/Heby reningsverk**. Undersök kunskapsöverföring utan att tolka tystnad i ett enstaka föredrag som kommunal okunskap.
